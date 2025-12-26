@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "54703",
+    "title": {
+      "zhHant": "給不滅的你 Season 3"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1140/152364.jpg"
+    },
+    "meta": {
+      "status": "正在播出",
+      "siteUrl": "https://myanimelist.net/anime/54703/",
+      "genres": [
+        "冒險、 劇情、 超自然"
+      ],
+      "studios": [
+        "Drive, Studio Massket"
+      ]
+    },
+    "description": "給不滅的你 Season 3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "60509",
+    "title": {
+      "zhHant": "蘑菇魔女"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1499/152613.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60509/",
+      "genres": [
+        "冒險、 劇情、 奇幻、 愛情"
+      ],
+      "studios": [
+        "Typhoon Graphics、 Qzil.la"
+      ]
+    },
+    "description": "在毒菇叢生的黑森林深處，住著一位名為露娜的女巫。她的肌膚觸之即毒，呼吸近身便能致命，被迫與鄰近文明隔絕而居。即便如此，露娜仍會前往鄰近城鎮送藥，並購買新書閱讀。儘管露娜從未傷害城鎮居民，許多人仍因她身為黑巫師而畏懼往來——畢竟這片由白巫師統治的王國裡，黑巫師向來不受歡迎。當人們領取藥劑、自由交談時，露娜只能遠遠凝望，卻仍被他們的日常所吸引，即便這意味著時常置身險境。[Written by MAL Rewrite]"
+  }
+}

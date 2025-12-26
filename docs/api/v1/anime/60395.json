@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "60395",
+    "title": {
+      "zhHant": "透明男子與人類女孩~ 兩人遲早會成為夫妻~"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1033/152494.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60395/",
+      "genres": [
+        "奇幻， 愛情"
+      ],
+      "studios": [
+        "Project No.9"
+      ]
+    },
+    "description": "阿庫，一位溫柔的人類女性，任職於偵探事務所。東名是位聰慧溫和的隱形人。隱形人的能力完美契合偵探工作。然而，即使東名消失無蹤，失明的阿庫仍能察覺他的所在。不知不覺間，兩人竟彼此心生悸動⋯⋯？（來源：Seven Seas Entertainment）"
+  }
+}

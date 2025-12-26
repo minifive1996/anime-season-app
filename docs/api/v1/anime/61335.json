@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61335",
+    "title": {
+      "zhHant": "金牌得主 第2季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1882/154115.jpg"
+    },
+    "meta": {
+      "format": "DISNEY+",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61335/",
+      "genres": [
+        "劇情、 運動"
+      ],
+      "studios": [
+        "ENGI"
+      ]
+    },
+    "description": "金牌得主 第2季"
+  }
+}

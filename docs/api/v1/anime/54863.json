@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "54863",
+    "title": {
+      "zhHant": "TRIGUN STARGAZE"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1219/154541.jpg"
+    },
+    "meta": {
+      "format": "CRUNCHYROLL",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/54863/",
+      "genres": [
+        "動作、 冒險、 科幻"
+      ],
+      "studios": [
+        "Orange"
+      ]
+    },
+    "description": "自「失落七月事件」已過去兩年半，這場災難將整座城市化為廢墟，震撼全球。在荒蕪的無人星球上，誓言永不奪命的槍手瓦什·斯塔姆佩德，迎來了與胞弟百萬·奈夫斯的最終決戰。後者企圖徹底殲滅全人類。當兩人的命運激烈碰撞，這場將決定人類與星球未來的戰役就此拉開序幕。（來源：MAL新聞）"
+  }
+}

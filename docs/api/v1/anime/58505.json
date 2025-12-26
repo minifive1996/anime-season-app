@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "58505",
+    "title": {
+      "zhHant": "魔都精兵的奴隸2"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/58505/",
+      "genres": [
+        "動作、 奇幻、 成人向"
+      ],
+      "studios": [
+        "Passione, Hayabusa Film"
+      ]
+    },
+    "description": "為了救援被擄走的優希，第七組和第六組互相結盟，潛入敵方陣營。另一方面，優希與變成人型醜鬼的姊姊重逢，理解姊姊她們懷抱的想法，並打算在不起衝突的狀況下試著說服魔防隊……！？"
+  }
+}

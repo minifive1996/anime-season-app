@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "62126",
+    "title": {
+      "zhHant": "SI-VIS：英雄之聲"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1421/154342.jpg"
+    },
+    "meta": {
+      "status": "正在播出",
+      "siteUrl": "https://myanimelist.net/anime/62126/",
+      "genres": [
+        "動作"
+      ],
+      "studios": [
+        "Studio VOLN"
+      ]
+    },
+    "description": "SI-VIS是由Yosuke領軍的男女混合音樂團體，憑藉無與倫比的歌喉與舞台表現震撼全球樂壇。然而他們實為化身英雄，正與威脅世界的謎樣勢力奮戰。他們將演唱會現場的觀眾能量轉化為戰鬥力，所幸這些戰鬥在公眾眼中僅是普通演唱會，成功隱藏了真實身分。（來源：Crunchyroll）"
+  }
+}

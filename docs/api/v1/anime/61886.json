@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61886",
+    "title": {
+      "zhHant": "打工仔的拷問日常"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61886/",
+      "genres": [
+        "喜劇"
+      ],
+      "studios": [
+        "Diomedéa"
+      ]
+    },
+    "description": "這是個將殺戮與酷刑合法化的世界。在酷刑公司打工的瑟羅，每日與前輩同事小秀享受著折磨他人的樂趣。隨著新打工仔麥克與休的加入，歡樂酷刑生活持續上演！居家般輕鬆的工作環境與殘酷酷刑之間的反差，勢必吸引大批成癮者！（來源：白泉社，翻譯）"
+  }
+}

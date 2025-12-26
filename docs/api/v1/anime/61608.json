@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61608",
+    "title": {
+      "zhHant": "靈異教師神眉 後半季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1361/153968.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61608/",
+      "genres": [
+        "喜劇、 恐怖、 超自然"
+      ],
+      "studios": [
+        "Studio KAI"
+      ]
+    },
+    "description": "靈異教師神眉 後半季"
+  }
+}

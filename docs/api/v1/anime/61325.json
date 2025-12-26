@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61325",
+    "title": {
+      "zhHant": "終究，與你相戀 第2季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1054/153719.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61325/",
+      "genres": [
+        "劇情， 愛情"
+      ],
+      "studios": [
+        "Typhoon Graphics、 Qzil.la"
+      ]
+    },
+    "description": "終究，與你相戀 第2季"
+  }
+}

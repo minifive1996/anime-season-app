@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "60223",
+    "title": {
+      "zhHant": "神八小妹不可怕"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60223/",
+      "genres": [
+        "超自然"
+      ],
+      "studios": [
+        "East Fish Studio"
+      ]
+    },
+    "description": "小佳雅在幼稚園以搗蛋鬼聞名。但負責照顧她的千惠老師，很快發現了佳雅隱藏的超能力。準備好迎接這場發生在幼稚園裡的終極恐怖動作冒險吧！（來源：MAL新聞）"
+  }
+}

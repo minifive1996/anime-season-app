@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61830",
+    "title": {
+      "zhHant": "真鎧甲聖鬥士"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1289/153952.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61830/",
+      "genres": [
+        "冒險、 科幻"
+      ],
+      "studios": [
+        "Sunrise"
+      ]
+    },
+    "description": "《妖魔戰士》續集"
+  }
+}

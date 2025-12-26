@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61782",
+    "title": {
+      "zhHant": "能幫我弄乾淨嗎？"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1940/154234.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61782/",
+      "genres": [
+        "日常"
+      ],
+      "studios": [
+        "Okuruto Noboru"
+      ]
+    },
+    "description": "這部以可愛主角與豐潤畫風呈現的海濱日常故事，在現代世界的喧囂中帶來寧靜。兩年來，金目若菜在溫泉度假勝地熱海經營洗衣店，透過結交當地居民與泡溫泉，構築出充實的生活。儘管若菜對自身過往毫無記憶，她的清潔服務卻守護著顧客珍貴物品中承載的回憶。（來源：史克威爾艾尼克斯）"
+  }
+}

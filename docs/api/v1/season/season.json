@@ -1,11 +1,155 @@
 {
   "source": {
     "type": "google_sheets",
-    "updatedAt": "2025-12-26T14:47:46+00:00",
+    "updatedAt": "2025-12-26T17:08:45+00:00",
     "title": "2025-12-26 本季",
-    "count": 4
+    "count": 54
   },
   "items": [
+    {
+      "id": "61637",
+      "title": {
+        "zhHant": "29歲單身中堅冒險家的日常"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1765/154087.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61637/",
+        "genres": [
+          "冒險、 奇幻"
+        ],
+        "studios": [
+          "HORNETS"
+        ]
+      },
+      "description": "這故事講述銀山冒險者——凜之木始。他專注於完成公會委託的任務。某日執行怪物肉採集任務時，他在地下城遇見名為莉莉的奇異少女，這女孩帶來的麻煩遠超其價值。從死境中救出少女後，她的故事令他憶起自身相似過往，遂將她收為養女⋯⋯（來源：MU）"
+    },
+    {
+      "id": "59853",
+      "title": {
+        "zhHant": "DARK MOON: 月之神壇"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1609/152040.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/59853/",
+        "genres": [
+          "奇幻"
+        ],
+        "studios": [
+          "TROYCA"
+        ]
+      },
+      "description": "自幼年起，蘇哈便被叮囑要隱藏超凡能力，以免被誤認為吸血鬼。因遭指控為吸血鬼並被歸咎於摯友之死，蘇哈進入了德塞利斯學院——這所夜間學校據傳能阻隔吸血鬼與狼人等超自然生物的入侵。在學院裡，蘇哈很快遇見了赫利——這位學生在發現她的秘密後仍伸出友誼之手。赫利將蘇哈介紹給摯友們：雅恩、吉諾、詩音、雅卡、諾亞與索倫，他們各自擁有不同超能力。但這群人的羈絆似乎遠不止於此；他們莫名被蘇哈吸引，彷彿願意為她赴湯蹈火。隨著一樁據稱由吸血鬼所為的謀殺案發生，赫利與夥伴們不尋常的過往逐漸浮現。當七名少年試圖將蘇哈隔絕於超自然世界之外時，她卻不可避免地捲入吸血鬼與狼人之間綿延數世紀的宿怨。隨著緊張局勢升級，蘇哈驚覺自己與最憎惡的生物，竟可能比以往任何時候都更為接近。[Written by MAL Rewrite]"
+    },
+    {
+      "id": "61196",
+      "title": {
+        "zhHant": "DEAD ACCOUNT 死亡帳號"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1622/154192.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61196",
+        "genres": [
+          "動作， 超自然"
+        ],
+        "studios": [
+          "SynergySP"
+        ]
+      },
+      "description": "隨時準備開戰！為破壞而破壞！網路主播Aoringo是個惡搞者，專門製作極限挑釁的垃圾內容，從仇恨觀眾身上撈取收益。你或許以為他不過是社會底層的寄生蟲，但真實身分竟是高中輟學生榛白宗司——這位嗜甜如命、疼愛妹妹的兄長，最珍視的便是妹妹的健康。那些爆紅影片？不過是籌措妹妹醫療費的手段。縱使全人類憎惡他，只要妹妹康復，他毫不在意。然而，某天開始發生了詭異之事⋯⋯ 切勿錯過這部現代驅魔戰鬥漫畫的登場！（來源：講談社美國分公司）"
+    },
+    {
+      "id": "55830",
+      "title": {
+        "zhHant": "Fate/strange Fake"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/55830/",
+        "genres": [
+          "動作",
+          "奇幻"
+        ],
+        "studios": [
+          "A-1 Pictures"
+        ]
+      },
+      "description": "《Fate/strange Fake》以冬木市第三次聖杯戰爭為藍本，描繪一場不完美的聖杯戰爭複製品。第三次聖杯戰爭落幕後，一個與倫敦魔術師協會無關的美國組織，利用冬木聖杯戰爭的數據策劃了專屬儀式。七十年後，他們將雪原市作為聖地，展開屬於自己的聖杯戰爭。然而儀式未能完美複製所有環節，導致聖杯戰爭淪為失格的仿製品——因「英雄」定義模糊化而喪失劍類從者，並催生出異形從者。魔法協會派遣羅恩加爾與其弟子法爾迪烏斯前往調查該城及戰爭現況。身為美國組織間諜的法爾迪烏斯，明知隆加爾是傀儡卻仍於其抵達時下令狙擊。他宣稱該聖杯戰爭實為真實進行中的計畫，此舉在時鐘塔引發騷動，並表示欲向法師協會「宣傳」此計畫。（來源：MAL新聞）"
+    },
+    {
+      "id": "60602",
+      "title": {
+        "zhHant": "MF GHOST 燃油車鬥魂 第三季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1419/154458.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60602/",
+        "genres": [
+          "劇情"
+        ],
+        "studios": [
+          "Felix Film"
+        ]
+      },
+      "description": "MF GHOST 燃油車鬥魂 第三季"
+    },
+    {
+      "id": "54863",
+      "title": {
+        "zhHant": "TRIGUN STARGAZE"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1219/154541.jpg"
+      },
+      "meta": {
+        "format": "CRUNCHYROLL",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/54863/",
+        "genres": [
+          "動作、 冒險、 科幻"
+        ],
+        "studios": [
+          "Orange"
+        ]
+      },
+      "description": "自「失落七月事件」已過去兩年半，這場災難將整座城市化為廢墟，震撼全球。在荒蕪的無人星球上，誓言永不奪命的槍手瓦什·斯塔姆佩德，迎來了與胞弟百萬·奈夫斯的最終決戰。後者企圖徹底殲滅全人類。當兩人的命運激烈碰撞，這場將決定人類與星球未來的戰役就此拉開序幕。（來源：MAL新聞）"
+    },
+    {
+      "id": "61587",
+      "title": {
+        "zhHant": "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1360/153435.jpg"
+      },
+      "meta": {
+        "format": "木棉花國際 (MUSE COMMUNICATION)",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61587/",
+        "genres": [
+          "動作、 冒險、 奇幻、 少女愛情"
+        ],
+        "studios": [
+          "A.C.G.T."
+        ]
+      },
+      "description": "弗倫·杏桃從未想過成為英雄。儘管各項屬性皆為零，連自身能力都無法駕馭，她卻莫名被納入英雄團隊。然而當團隊中聲名顯赫的智者尚恩·因泰格認定這個廢物女孩是累贅，安排將她賣為奴隸時，弗倫的人生跌至谷底。為取悅主人而被拋給怪物啃食的弗魯姆，在絕境中抓起一把詛咒武器⋯⋯體內竟覺醒了某種新力量。這是關於一名女子以鮮血澆灌，奪回自身命運的黑暗史詩！"
+    },
     {
       "id": "60058",
       "title": {
@@ -26,6 +170,47 @@
         ]
       },
       "description": "露比於網路電視的綜藝節目擔任特派記者，不過該節目在錄製「角色扮演特集」的時候，因製作組於採訪時不尊重角色扮演者而引發「爭議」，一心「復仇」的露比甚至還利用這場風波…!?與此同時，阿奎亞又更進一步接近小愛遇刺真相──"
+    },
+    {
+      "id": "60071",
+      "title": {
+        "zhHant": "優雅貴族的休假指南"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1968/152396.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60071/",
+        "genres": [
+          "冒險、 奇幻、 日常"
+        ],
+        "studios": [
+          "SynergySP"
+        ]
+      },
+      "description": "當莉澤爾莫名其妙地來到一座與故鄉驚人相似卻截然不同的城市時，他很快便接受了這個荒誕的事實：這裡是完全不同的世界。即便如此，隨性的莉澤爾也絕非驚慌失措的類型。他立刻著手探索這片陌生之地，並聘請經驗豐富的冒險家吉爾擔任嚮導與護衛。在找到歸途之前，利澤爾認為這是探索嶄新生活的絕佳契機——加入冒險者公會展開旅程。畢竟他確信終將返鄉⋯⋯此刻何不盡情享受這場異世界的假期！（來源：Tokyopop）"
+    },
+    {
+      "id": "58524",
+      "title": {
+        "zhHant": "公主殿下，「拷問」的時間到了 第二季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1272/153326.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/58524/",
+        "genres": [
+          "喜劇、 奇幻、 美食"
+        ],
+        "studios": [
+          "PINE JAM"
+        ]
+      },
+      "description": "成為魔王軍階下囚的國王軍第三騎士團——「騎士團長」公主要承受溫柔又凶狠的各種拷問。公主殿下與小魔魔用跳箱進行對決！小魔魔努力的模樣讓那個人都忍不住屈服!?此外，魔王軍人事異動，朵伽將要調離公主殿下的負責拷問官!?"
     },
     {
       "id": "56009",
@@ -51,6 +236,69 @@
       "description": "所謂勇者刑是極為重大的刑罰。犯下大罪而遭判勇者刑的犯人，將會被處以成為勇者的刑罰。受刑人必須在魔王現象所引起，突然出現魔王軍的最前線持續著即使被怪物殺死也會復活並且繼續下去的戰鬥。持續戰鬥數百年的狂戰士、史上最惡劣的小偷、擅長詐騙的政治犯、自稱國王的恐怖分子、成功率為零的暗殺者等，全部由性格有嚴重缺陷者所組成的懲罰勇者部隊。這群人的隊長，自身同時也因為「弒殺女神」之罪而遭判勇者刑的前聖騎士團長賽羅，在戰鬥中遇見至今為止存在受到隱藏的「劍之女神」泰奧莉塔──「把力量借給我吧，我們接下來要打倒魔王。」「有志氣。獲得勝利之時記得要摸摸我的頭喔。」當兩人訂下契約時，原本籠罩在絕望中的世界，就因為這個脆弱又熾熱的英雄物語揭開序幕而有了改變。"
     },
     {
+      "id": "61217",
+      "title": {
+        "zhHant": "勇者人渣"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1821/154043.jpg"
+      },
+      "meta": {
+        "format": "木棉花國際 (MUSE COMMUNICATION)",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61217/",
+        "genres": [
+          "動作",
+          "科幻"
+        ],
+        "studios": [
+          "OLM"
+        ]
+      },
+      "description": "「所謂勇者，不過是最下賤的人渣才會做的行當。」21世紀中葉，東京的黑社會被那些透過以太（魔力）強化手術化身為《魔王》的黑幫所支配。負責打倒這些魔王的賞金獵人——那正是《勇者》！勇者以名為《Ｅ３》（イースリー）的藥劑強化以太能力，對抗魔王。這類殺傷行為被合法化，勇者可說成了名副其實的「殺人」職業。此時，一名自稱「弟子」的少女強行找上了自由身勇者《死神》矢代。她是勇者見習生的女高中生・城ヶ峰。ヤシロ無奈收下她，卻一步步被捲入一樁又一樁的爛事！人渣「師父」與自稱「弟子」——超重量級現代異能動作劇，就此揭開序幕！"
+    },
+    {
+      "id": "61211",
+      "title": {
+        "zhHant": "午夜的傾心旋律"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1769/152823.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61211/",
+        "genres": [
+          "喜劇， 愛情"
+        ],
+        "studios": [
+          "Gekkou"
+        ]
+      },
+      "description": "當山吹亞里須深夜獨自躺在床上時，總能從一位名為「阿波羅」的電台主持人的聲音中獲得慰藉。然而某天，她毫無預警地停止了播音。歲月流逝，亞里須如今已是高中二年級生。他立志尋找阿波羅，因為有件事想告訴她。他不知她的容貌，甚至連本名都無從得知，卻在校內廣播社獲得了些許線索。正是在此處，他遇見了四位懷抱夢想的女孩——她們都渴望從事能充分發揮聲音的工作！阿波羅究竟是何方神聖？而這四人的夢想又將如何展開？（來源：講談社美國分公司）"
+    },
+    {
+      "id": "60151",
+      "title": {
+        "zhHant": "厄里斯的聖杯"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1655/153574.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60151/",
+        "genres": [
+          "懸疑， 超自然"
+        ],
+        "studios": [
+          "Ashi Productions"
+        ]
+      },
+      "description": "「聽好了，康斯坦絲．葛萊爾。妳就算花費一生時間，也必須讓我的復仇成功！」只有誠實勉強算是優點的平凡子爵千金康妮，在某一次宴會上被搶走未婚夫，還被誣陷是竊盜犯，因而陷入走投無路的絕境。就在這種情況下，10年前被處刑的絕代惡女史嘉蕾．卡斯提奧的亡靈出現在她眼前！過去曾經以其絕世美貌、高貴血統，以及壓倒性的出眾氣質而被贊譽為社交界至寶的史嘉蕾，附身在康妮身上之後沒兩三下子就逆轉局勢，讓康妮得以逃出險境。但是，康妮須要付出的代價，卻是幫忙史嘉蕾復仇!?剛開始是因為利害一致而合作的兩人，在不斷擊潰貴族社會各種暗中惡意和陰謀的過程中建立了情誼，成長為真正的搭檔，最後踏上跟過去一直持續至今的巨大陰謀針鋒相對的道路……！"
+    },
+    {
       "id": "57658",
       "title": {
         "zhHant": "咒術廻戰 死滅迴游篇 前篇"
@@ -74,6 +322,388 @@
       "description": "咒術迴戰 第3季 前篇"
     },
     {
+      "id": "55825",
+      "title": {
+        "zhHant": "地獄樂 第二季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/55825/",
+        "genres": [
+          "動作、 冒險、 超自然"
+        ],
+        "studios": [
+          "MAPPA"
+        ]
+      },
+      "description": "地獄樂 第二季"
+    },
+    {
+      "id": "60460",
+      "title": {
+        "zhHant": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60460/",
+        "genres": [
+          "動作、 冒險、 奇幻"
+        ],
+        "studios": [
+          "Yokohama Animation Lab"
+        ]
+      }
+    },
+    {
+      "id": "61549",
+      "title": {
+        "zhHant": "安逸領主的愉快領地防衛 ～用生產系魔術將無名村改造成最強要塞都市～"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61549/",
+        "genres": [
+          "奇幻"
+        ],
+        "studios": [
+          "NAZ"
+        ]
+      },
+      "description": "范恩身為權貴家族的四子，兩歲時便憶起前世身為日本上班族的記憶。這具稚嫩軀體承載著成年人的思維，使他被視為神童⋯⋯直到八歲時展現「生產魔法」天賦。在崇尚攻擊魔法的家族中，這項製作技能被視為戰場廢物，凡因此遭放逐至偏遠鄉鎮監管。僅憑私人侍女相伴、前世記憶支撐，以及這門「無用」魔法，凡能否扭轉小村落的命運——以及自身的前途？（來源：Seven Seas Entertainment）"
+    },
+    {
+      "id": "61942",
+      "title": {
+        "zhHant": "我的英雄學院-ILLEGALS Vigilante- 第2季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1592/154049.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61942/",
+        "genres": [
+          "動作"
+        ],
+        "studios": [
+          "Bones Film"
+        ]
+      },
+      "description": "我的英雄學院-ILLEGALS Vigilante- 第2季"
+    },
+    {
+      "id": "61886",
+      "title": {
+        "zhHant": "打工仔的拷問日常"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61886/",
+        "genres": [
+          "喜劇"
+        ],
+        "studios": [
+          "Diomedéa"
+        ]
+      },
+      "description": "這是個將殺戮與酷刑合法化的世界。在酷刑公司打工的瑟羅，每日與前輩同事小秀享受著折磨他人的樂趣。隨著新打工仔麥克與休的加入，歡樂酷刑生活持續上演！居家般輕鬆的工作環境與殘酷酷刑之間的反差，勢必吸引大批成癮者！（來源：白泉社，翻譯）"
+    },
+    {
+      "id": "61694",
+      "title": {
+        "zhHant": "機器人能算入經驗人數裡嗎？"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1988/153962.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61694/",
+        "genres": [
+          "少女愛情、 科幻、 情色"
+        ],
+        "studios": [
+          "Nyan Pollution"
+        ]
+      },
+      "description": "28歲的上班族津田茜看似完美無缺。她美麗聰慧，是機器人製造商不可或缺的員工，在職場備受敬仰⋯⋯只因同事們無從看見她居家時的模樣。私底下，茜的生活一團糟，公寓更像垃圾場而非居住空間。幸好她酒醉時訂購了名為「撫子」的新型機器人來幫忙打掃！不過這未必是好事，因為送來的美麗女性型機器人竟是個慾火焚身的尤物。茜即將獲得超乎預期的「服務」！（來源：Seven Seas Entertainment）"
+    },
+    {
+      "id": "61128",
+      "title": {
+        "zhHant": "泛而不精的我被逐出了勇者隊伍"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61128/",
+        "genres": [
+          "動作、 冒險、 奇幻"
+        ],
+        "studios": [
+          "animation studio42"
+        ]
+      },
+      "description": "奧恩·杜拉，今日將是你留在團隊的最後一天。奧恩曾是技藝精湛的劍士，為填補英雄團隊的關鍵空缺，他轉而適應了法師的角色。然而某日，隊長突然以技藝不足為由將他逐出團隊。被昔日同伴斥為「軟弱無能」與「樣樣通樣樣鬆」的布蘭德，毫不猶豫地將他逐出隊伍。決心重啟征途的奧恩，以劍士之姿重返冒險——這正是他最初最擅長的領域。但法師生涯絕非虛度光陰。在英雄隊伍中積累的戰鬥經驗、知識儲備，以及無數親創法術，已將他淬鍊成獨一無二的戰士。如今，奧恩手握這套非傳統技能組合，準備開闢屬於自己的道路——這條道路將向世界證明他的真正實力。（來源：MAL新聞）"
+    },
+    {
+      "id": "61084",
+      "title": {
+        "zhHant": "火喰鳥 羽州破鳶組"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1129/151615.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61084/",
+        "genres": [
+          "劇情、動作"
+        ],
+        "studios": [
+          "SynergySP"
+        ]
+      }
+    },
+    {
+      "id": "59229",
+      "title": {
+        "zhHant": "炎炎消防隊 參之章 第二季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1508/152472.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/59229",
+        "genres": [
+          "動作、 奇幻、 科幻"
+        ],
+        "studios": [
+          "David Production"
+        ]
+      },
+      "description": "炎炎消防隊 參之章 第二季"
+    },
+    {
+      "id": "59047",
+      "title": {
+        "zhHant": "現在的是哪一個多聞！？"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1474/153320.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/59047/",
+        "genres": [
+          "喜劇， 愛情"
+        ],
+        "studios": [
+          "J.C.Staff"
+        ]
+      },
+      "description": "偶像團體F/ACE近期人氣飆升，全仰仗其帥氣狂野又才華洋溢的隊長福原多門。十七歲的木下舞歌正是狂熱粉絲之一，對F/ACE崇拜有加。為了持續支持偶像，她將生活重心全放在崇拜多門身上，並在清潔公司打工賺取生活費。當同事生病時，她被派往一位與田門同名的新客戶家。她原以為只是巧合——直到與真正的明星面對面！更令她震驚的是，與公眾印象中外向的超級巨星不同，田門其實是個陰鬱孤僻、毫無自信的男孩。懷著對塔蒙無盡的崇拜，宇多惠誓言守護他的秘密並守護在他身邊——然而，要應對塔蒙工作與私下截然不同的雙重面貌，恐怕是世上最艱難的工作。[MAL Rewrite 撰寫]"
+    },
+    {
+      "id": "60226",
+      "title": {
+        "zhHant": "異世界的處置依社畜而定"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1510/153806.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60226/",
+        "genres": [
+          "耽美， 奇幻"
+        ],
+        "studios": [
+          "Studio Deen"
+        ]
+      },
+      "description": "二十九歲的上班族奴隸近藤誠一郎已然心力交瘁，卻突然目睹地面裂開吞噬一名女子。在搶救過程中，兩人被傳送至異世界。他很快得知，此地居民為拯救王國免於瘟疫肆虐，召喚了一位聖者。作為將近藤捲入這場風波的補償，王國承諾將提供他舒適的生活並滿足任何願望。出乎眾人意料，近藤竟要求一份工作。成功成為王宮會計師後，近藤全心投入新職。他精準細緻的工作態度吸引眾多高官與騎士注意，尤其冷酷的騎士隊長艾瑞斯·因多拉克。當近藤逐漸適應這份既耗神又危險的新環境時，他開始在艾瑞斯身邊尋得慰藉——那冰霜般的態度，或許只是表象。[Written by MAL Rewrite]"
+    },
+    {
+      "id": "58788",
+      "title": {
+        "zhHant": "異國日記"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/58788/",
+        "genres": [
+          "劇情"
+        ],
+        "studios": [
+          "Shuka"
+        ]
+      },
+      "description": "三十五歲的作家真紀尾香代與姐姐實乃里向來關係疏離，姐姐總因她與眾不同而苛責。正因如此，當聽聞實乃里與丈夫死於車禍的消息時，真紀並未陷入悲痛。然而當她被要求辨認遺體時，竟遇見睽違多年的十五歲姪女——阿紗·匠。阿紗正苦於消化雙親離世的打擊，真紀子安撫她複雜的情緒皆屬合理，並建議少女透過寫日記來撫平傷痛。得知無人願意收留阿紗後，儘管毫無經驗，真紀緒仍決意成為她的監護人。在這充滿未知的世間，小說家與少女必須在摸索自我的同時，學會彼此共處。[MAL Rewrite撰寫]"
+    },
+    {
+      "id": "61663",
+      "title": {
+        "zhHant": "皎潔深宵之月"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1999/154569.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61663",
+        "genres": [
+          "愛情"
+        ],
+        "studios": [
+          "East Fish Studio"
+        ]
+      },
+      "description": "每當瀧口夜衣輕嘆一口氣，女同學們便會發出驚嘆與崇拜的尖叫。憑藉著中性魅力的外表與隨性態度，她被冠上校園「王子」的稱號。然而她選擇對這份關注漠不關心，過著平凡的日子——直到另一位校園王子市村琥珀闖入她的生活，並稱讚她美麗。小琥根本不像王子——他行事魯莽任性，為所欲為。但當他讚美她時，夜衣卻感到心慌意亂，他凝視她的眼神更令她渾身發燙。他是第一個將她視為女孩的男生，而她試圖保持距離的努力顯然徒勞，因為他似乎已將目光鎖定在她身上。儘管夜衣不斷告誡自己這不過是無關緊要的事，但連她自己也無法完全忽視小琥在她心中掀起的漣漪。[MAL Rewrite 撰寫]"
+    },
+    {
+      "id": "60371",
+      "title": {
+        "zhHant": "相反的你和我"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1140/154457.jpg"
+      },
+      "meta": {
+        "format": "ANI-ONE",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60371/",
+        "genres": [
+          "喜劇， 愛情"
+        ],
+        "studios": [
+          "Lapin Track"
+        ]
+      },
+      "description": "坐在時髦活潑的高中女生鈴木美優身旁的是沉默而坦率的少年谷祐介。兩人的互動僅限於鈴木隨機拋出的問題與谷簡短的回答，卻在這些簡單交流下悄然萌發愛意。鈴木看透谷的本質：他是個坦率的男孩，平等尊重每個人，完全不在意是否融入群體。與谷不同的是，她過度在意他人眼光，拼命隱藏著暗戀心意。然而一場小誤會促使鈴木表白心跡——令她欣喜的是，谷竟也懷抱相同情愫。懷著雀躍又緊張的心情，這對年輕戀人開始交往，踏上充滿友情與愛情的美好旅程。[MAL Rewrite 撰寫]"
+    },
+    {
+      "id": "61830",
+      "title": {
+        "zhHant": "真鎧甲聖鬥士"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1289/153952.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61830/",
+        "genres": [
+          "冒險、 科幻"
+        ],
+        "studios": [
+          "Sunrise"
+        ]
+      },
+      "description": "《妖魔戰士》續集"
+    },
+    {
+      "id": "60223",
+      "title": {
+        "zhHant": "神八小妹不可怕"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60223/",
+        "genres": [
+          "超自然"
+        ],
+        "studios": [
+          "East Fish Studio"
+        ]
+      },
+      "description": "小佳雅在幼稚園以搗蛋鬼聞名。但負責照顧她的千惠老師，很快發現了佳雅隱藏的超能力。準備好迎接這場發生在幼稚園裡的終極恐怖動作冒險吧！（來源：MAL新聞）"
+    },
+    {
+      "id": "61325",
+      "title": {
+        "zhHant": "終究，與你相戀 第2季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1054/153719.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61325/",
+        "genres": [
+          "劇情， 愛情"
+        ],
+        "studios": [
+          "Typhoon Graphics、 Qzil.la"
+        ]
+      },
+      "description": "終究，與你相戀 第2季"
+    },
+    {
+      "id": "61782",
+      "title": {
+        "zhHant": "能幫我弄乾淨嗎？"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1940/154234.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61782/",
+        "genres": [
+          "日常"
+        ],
+        "studios": [
+          "Okuruto Noboru"
+        ]
+      },
+      "description": "這部以可愛主角與豐潤畫風呈現的海濱日常故事，在現代世界的喧囂中帶來寧靜。兩年來，金目若菜在溫泉度假勝地熱海經營洗衣店，透過結交當地居民與泡溫泉，構築出充實的生活。儘管若菜對自身過往毫無記憶，她的清潔服務卻守護著顧客珍貴物品中承載的回憶。（來源：史克威爾艾尼克斯）"
+    },
+    {
+      "id": "58861",
+      "title": {
+        "zhHant": "花樣少年少女"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1490/152041.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/58861/",
+        "genres": [
+          "喜劇、 劇情、 愛情"
+        ],
+        "studios": [
+          "Signal.MD"
+        ]
+      },
+      "description": "在觀賞佐野泉參加跳高比賽後，淺谷瑞希徹底為他傾倒——甚至從美國搬到日本，並報考了與他相同的學院。然而佐野就讀的學院竟是所男子學校！憑藉開朗的性格，瑞希迅速與班上同學打成一片，未因性別引發異樣眼光。出乎意料的是，她不僅成為佐野的同班同學，更成了他的室友。雖然能近距離仰望佐野，她卻發現對方因不明原因放棄跳高，並誓言永不重拾這項運動。更棘手的是，學院醫師梅田北斗似乎察覺了水木的偽裝。如今水木必須設法重燃佐野的熱情——同時絕不能暴露自己的秘密。[MAL Rewrite撰寫]"
+    },
+    {
       "id": "59978",
       "title": {
         "zhHant": "葬送的芙莉蓮 第2季"
@@ -95,6 +725,394 @@
         ]
       },
       "description": "與勇者們的過去帶往未來的魔法使‧芙莉蓮。通過魔法使測驗之後，踏上前往靈魂長眠之地〈AUREOLE〉的旅程。歷經邂逅與別離，回想起勇者們說過的話──透過故事可以窺見魔王死後的世界。闡述英雄們「內心」的後日譚奇幻故事！"
+    },
+    {
+      "id": "60509",
+      "title": {
+        "zhHant": "蘑菇魔女"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1499/152613.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60509/",
+        "genres": [
+          "冒險、 劇情、 奇幻、 愛情"
+        ],
+        "studios": [
+          "Typhoon Graphics、 Qzil.la"
+        ]
+      },
+      "description": "在毒菇叢生的黑森林深處，住著一位名為露娜的女巫。她的肌膚觸之即毒，呼吸近身便能致命，被迫與鄰近文明隔絕而居。即便如此，露娜仍會前往鄰近城鎮送藥，並購買新書閱讀。儘管露娜從未傷害城鎮居民，許多人仍因她身為黑巫師而畏懼往來——畢竟這片由白巫師統治的王國裡，黑巫師向來不受歡迎。當人們領取藥劑、自由交談時，露娜只能遠遠凝望，卻仍被他們的日常所吸引，即便這意味著時常置身險境。[Written by MAL Rewrite]"
+    },
+    {
+      "id": "62000",
+      "title": {
+        "zhHant": "被鄰國王子溺愛的反派女主"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1383/151284.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/62000/",
+        "genres": [
+          "奇幻， 愛情"
+        ],
+        "studios": [
+          "Studio Deen"
+        ]
+      },
+      "description": "在覆滅的前夕，蒂亞拉蘿絲·藍寶石·克萊門蒂爾女士憶起自己身處前世曾遊玩的乙女遊戲中。她曾深愛著男主角哈特奈茨·藍寶石·拉克托穆斯王子，卻不幸未轉生為女主角，反而化身為他的死敵——反派未婚妻。畢業典禮上，哈特奈茨毫不猶豫地以莫須有罪名譴責蒂亞拉蘿絲，解除婚約並宣布女主角阿卡莉為新婚約妻。無論蒂亞拉蘿絲是否清白，他都將她逐出王國。就在刑罰即將執行之際，驚人身影驟然現身。鄰國強權王子阿克瓦斯提德·瑪琳森林，早已對蒂亞拉蘿絲懷抱情愫，當場宣告要迎娶她為妻！當另一王國的王子傾心相許，這名反派女主角的幸福結局之路，究竟將迎來何等命運？[MAL Rewrite 撰寫]"
+    },
+    {
+      "id": "60692",
+      "title": {
+        "zhHant": "貴族轉生~得天眷顧一出生就獲得最強力量~"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60692/",
+        "genres": [
+          "動作、 冒險、 奇幻"
+        ],
+        "studios": [
+          "CompTown"
+        ]
+      },
+      "description": "諾亞，這位全球最強的六歲孩童，身居皇帝第十三王子的顯赫之位。他天生擁有無限等級上限與作弊級天賦——能將所統御者的能力併入己身，堪稱無敵存在。轉生至貴族家庭的諾亞，在卓越教育與豐沛資源的滋養下茁壯成長，才華得以盡情綻放。然而貴族社會華麗表象之下，暗藏著陰謀與權力角逐的險惡世界。（來源：Pony Canyon）"
+    },
+    {
+      "id": "61983",
+      "title": {
+        "zhHant": "身為魔族的我想向勇者小隊的可愛女孩告白。"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1573/152828.jpg"
+      },
+      "meta": {
+        "format": "ANI-ONE",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61983/",
+        "genres": [
+          "冒險、 喜劇、 奇幻、 愛情"
+        ],
+        "studios": [
+          "Gekkou"
+        ]
+      },
+      "description": "悠樹死於車禍後，竟重生於奇幻世界！然而他並未成為傳說中的英雄，反而轉生為一隻超強力的惡魔。對成為魔王毫無興趣的他，只在魔王城裡當著隨便的低階守護者。某日，英雄小隊前來進攻，他心血來潮將整支隊伍擊昏。在治癒英雄們準備送他們回城時，他瞥見女祭司的身影——竟是一見鍾情！（來源：MU）"
+    },
+    {
+      "id": "61207",
+      "title": {
+        "zhHant": "轉生之後的我變成了龍蛋"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1031/154235.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61207/",
+        "genres": [
+          "動作、 冒險、 奇幻"
+        ],
+        "studios": [
+          "Felix Film, Ga-Crew"
+        ]
+      },
+      "description": "某日，我們的英雄甦醒於嶄新的世界……然而這新生命既無戰鬥技能，亦無魔法力量，甚至連四肢軀幹都未曾具足！他以無助的蛋之姿重生，困於陌生森林中，周遭盡是飢腸轆轆的恐怖猛獸。但蛋終將破殼，雛龍終會成長，卑微的起點亦能成就偉業。他將竭盡全力成為史上最強龍族，任憑任何微不足道的蛋殼都無法阻擋他的腳步！（來源：七海娛樂）"
+    },
+    {
+      "id": "60395",
+      "title": {
+        "zhHant": "透明男子與人類女孩~ 兩人遲早會成為夫妻~"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1033/152494.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60395/",
+        "genres": [
+          "奇幻， 愛情"
+        ],
+        "studios": [
+          "Project No.9"
+        ]
+      },
+      "description": "阿庫，一位溫柔的人類女性，任職於偵探事務所。東名是位聰慧溫和的隱形人。隱形人的能力完美契合偵探工作。然而，即使東名消失無蹤，失明的阿庫仍能察覺他的所在。不知不覺間，兩人竟彼此心生悸動⋯⋯？（來源：Seven Seas Entertainment）"
+    },
+    {
+      "id": "58886",
+      "title": {
+        "zhHant": "達爾文事變"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1341/152829.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/58886/",
+        "genres": [
+          "科幻"
+        ],
+        "studios": [
+          "Bellnox Films"
+        ]
+      },
+      "description": "為什麼只有人類是特別的？生活在美國密蘇里州偏遠鄉間的少年查理，同時擁有超越人類的智能與超越猩猩的體能，是個半人半猩猩的「猩猩人」。查理15歲時在人類養父母的建議下首次進入學校就讀。在那裡他遇見了聰慧卻不擅長溝通的露西。平靜的校園生活維持不了多久，查理就因為他特殊的血統而被主張要「解放動物」的恐怖組織「ALA」盯上！查理為了要守護家人和露西，選擇走上與ALA正面對決的道路。「恐怖主義」、「歧視」、「人權」、「網路撻伐」…「非人類」查理將和露西共同起身對抗人類的這些問題。人類與非人類的故事就此展開！"
+    },
+    {
+      "id": "61335",
+      "title": {
+        "zhHant": "金牌得主 第2季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1882/154115.jpg"
+      },
+      "meta": {
+        "format": "DISNEY+",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61335/",
+        "genres": [
+          "劇情、 運動"
+        ],
+        "studios": [
+          "ENGI"
+        ]
+      },
+      "description": "金牌得主 第2季"
+    },
+    {
+      "id": "60255",
+      "title": {
+        "zhHant": "阿爾涅事件簿"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1112/152731.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60255",
+        "genres": [
+          "奇幻， 懸疑"
+        ],
+        "studios": [
+          "SILVER LINK."
+        ]
+      },
+      "description": "阿恩·諾恩托特是操縱超自然力量的吸血鬼偵探。琳恩·萊因韋斯是熱愛吸血鬼的貴族千金。兩人的世界本不該交會，卻為解開血腥謎團攜手合作。在最黑暗的夜晚，琳恩陷入絕境急需救援，卻誤闖非人類棲居的神祕城鎮「謊言山」。當琳邂逅被城中人稱為「最惡」的吸血鬼「阿恩」，她的世界徹底顛覆。而今夜，又一樁「謀殺案」悄然發生。在這個人類與異界交錯的時空裡，連串詭異事件背後的真相究竟為何？「來吧，人類。你大可在猩紅月下歡快起舞。」（來源：Steam，經編輯）"
+    },
+    {
+      "id": "61608",
+      "title": {
+        "zhHant": "靈異教師神眉 後半季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1361/153968.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61608/",
+        "genres": [
+          "喜劇、 恐怖、 超自然"
+        ],
+        "studios": [
+          "Studio KAI"
+        ]
+      },
+      "description": "靈異教師神眉 後半季"
+    },
+    {
+      "id": "61333",
+      "title": {
+        "zhHant": "青之壬生浪 芹澤暗殺篇"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1393/151603.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61333/",
+        "genres": [
+          "動作"
+        ],
+        "studios": [
+          "Maho Film"
+        ]
+      },
+      "description": "青之壬生浪第二季"
+    },
+    {
+      "id": "61359",
+      "title": {
+        "zhHant": "青梅竹馬的戀愛喜劇無法成立"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1729/153502.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61359/",
+        "genres": [
+          "喜劇， 愛情"
+        ],
+        "studios": [
+          "Tezuka Productions"
+        ]
+      },
+      "description": "高中生英勇陷入兩難——他的兩位青梅竹馬汐與明里，長大後竟可愛得令人窒息！儘管她們似乎毫無察覺，他卻無法抑制對她們的全新視角。若她們發現他心意的轉變，那份羞恥感絕對令人窒息！然而英勇並不知道，汐與明里或許也懷有自己的心意。這是一段慢熱的三角戀，三位女主角皆是青梅竹馬——既令人抓狂又無法抗拒！（來源：MAL新聞）"
+    },
+    {
+      "id": "62432",
+      "title": {
+        "zhHant": "非人學生與厭世教師"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1210/151933.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/62432/",
+        "genres": [
+          "劇情， 超自然"
+        ],
+        "studios": [
+          "asread."
+        ]
+      },
+      "description": "我是日向玲，因過往創傷自詡為厭世者。正當我以為在山區的新教職能帶來寧靜療癒的環境時，這所學校竟是專為渴望成為完整人類的半獸人設立的！這裡有美人魚、狼人、兔子與鳥人⋯⋯如今全成了我的學生。教導他們認識人類是我的職責——或許在過程中，我自己也能學到些什麼。這既非異世界冒險，亦非輪迴轉世的故事。只是關於一位任教於奇特學校的教師，以及一群努力成為人類的學生們的故事。（來源：Yen Press）"
+    },
+    {
+      "id": "59711",
+      "title": {
+        "zhHant": "靠死亡遊戲混飯吃。"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1215/153630.jpg"
+      },
+      "meta": {
+        "format": "木棉花國際 (MUSE COMMUNICATION)",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/59711/",
+        "genres": [
+          "動作、 懸疑"
+        ],
+        "studios": [
+          "Studio Deen"
+        ]
+      },
+      "description": "醒來以後，發現自己人在陌生的洋樓，身上穿著不知何時換上的女僕裝，而有同樣遭遇的少女還有五人。 「遊戲」開始了，我們必須逃出這個充滿殺人陷阱的洋樓「GHOST HOUSE」。涉入死亡遊戲的事實，使少女們面色凝重──除了我以外。 我的玩家名稱是幽鬼，今年十七歲，死亡遊戲專家。也就是穿女僕裝逃離死亡之屋，穿兔女郎裝殺人，領獎金過活的人。 覺得我有病？我也是這麼想。不過，世界上就是有這種人──靠死亡遊戲混飯吃的少女。"
+    },
+    {
+      "id": "62804",
+      "title": {
+        "zhHant": "高校！奇面組"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1501/154507.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/62804/",
+        "genres": [
+          "喜劇， 愛情"
+        ],
+        "studios": [
+          "Seven"
+        ]
+      },
+      "description": "一堂玲、零一剛、修勢清、大馬仁與大星大——五名調皮搗蛋的少年就讀於一央中學。他們各自擁有古怪性格與製造混亂的天賦，因此被冠上惡名昭彰的「奇門組」稱號。某日，轉學生川結衣與好友浦千惠邂逅這群少年，很快便被捲入他們的惡作劇漩渦。校園裡還有其他鮮明的小團體——從帥氣的「彩男組」領袖吉良正，到不良少年「班組」首領仁久田陽，運動健將「臂組」隊長運動開，以及女強人「女組」領袖天野邪子。隨著時光流轉，新春季的來臨，這群怪咖學生的日常在熱鬧歡騰的校園故事中徐徐展開。（來源：MAL新聞）"
+    },
+    {
+      "id": "61884",
+      "title": {
+        "zhHant": "魔王的女兒太溫柔了!!"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1160/154083.jpg"
+      },
+      "meta": {
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/61884/",
+        "genres": [
+          "喜劇， 奇幻"
+        ],
+        "studios": [
+          "EMT Squared"
+        ]
+      },
+      "description": "魔王阿利曼有個難題：他的女兒杜愛所有人！因此阿利曼不得不暫停對世界的侵略，擔心女兒的行為有違其魔族本性。她熱衷結交朋友、幫助他人，並為所有生靈帶來歡樂——包括他們的敵人人類。然而阿利曼非但未斥責杜，反而稱讚她的善行。在被任命為杜導師的副手賈伊協助下，兩人試圖扼殺她善良的天性——讓魔王之女從可愛討喜的善良小女孩，蛻變為冷酷扭曲的邪惡小惡魔。[MAL Rewrite 撰寫]"
+    },
+    {
+      "id": "60810",
+      "title": {
+        "zhHant": "魔術師庫諾看得見一切"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60810/",
+        "genres": [
+          "奇幻"
+        ],
+        "studios": [
+          "Platinum Vision"
+        ]
+      },
+      "description": "雙眼失明的少年庫諾的目標，就是用水系魔術做出新的雙眼。學習魔法僅僅五個月，就超越教師實力的庫諾，在這前所未有的挑戰中，更加綻放了才能！用魔力感知周遭的色彩、透過水系魔術的應用，製作出懷爐與敷布，甚至只用初級魔術就重現了一隻貓──其技術與構思，連宮廷魔術師都瞠目結舌，實力受到賞識的庫諾，就此成為擁有極致手藝的魔技師的弟子!?"
+    },
+    {
+      "id": "58505",
+      "title": {
+        "zhHant": "魔都精兵的奴隸2"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/58505/",
+        "genres": [
+          "動作、 奇幻、 成人向"
+        ],
+        "studios": [
+          "Passione, Hayabusa Film"
+        ]
+      },
+      "description": "為了救援被擄走的優希，第七組和第六組互相結盟，潛入敵方陣營。另一方面，優希與變成人型醜鬼的姊姊重逢，理解姊姊她們懷抱的想法，並打算在不起衝突的狀況下試著說服魔防隊……！？"
+    },
+    {
+      "id": "55772",
+      "title": {
+        "zhHant": "黃金神威 最終章"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1809/136686.jpg"
+      },
+      "meta": {
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/55772/",
+        "genres": [
+          "動作、 冒險"
+        ],
+        "studios": [
+          "Brain's Base"
+        ]
+      },
+      "description": "黃金神威 最終章"
     }
   ]
 }

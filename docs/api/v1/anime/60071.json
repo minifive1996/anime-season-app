@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "60071",
+    "title": {
+      "zhHant": "優雅貴族的休假指南"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1968/152396.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60071/",
+      "genres": [
+        "冒險、 奇幻、 日常"
+      ],
+      "studios": [
+        "SynergySP"
+      ]
+    },
+    "description": "當莉澤爾莫名其妙地來到一座與故鄉驚人相似卻截然不同的城市時，他很快便接受了這個荒誕的事實：這裡是完全不同的世界。即便如此，隨性的莉澤爾也絕非驚慌失措的類型。他立刻著手探索這片陌生之地，並聘請經驗豐富的冒險家吉爾擔任嚮導與護衛。在找到歸途之前，利澤爾認為這是探索嶄新生活的絕佳契機——加入冒險者公會展開旅程。畢竟他確信終將返鄉⋯⋯此刻何不盡情享受這場異世界的假期！（來源：Tokyopop）"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "55772",
+    "title": {
+      "zhHant": "黃金神威 最終章"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1809/136686.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/55772/",
+      "genres": [
+        "動作、 冒險"
+      ],
+      "studios": [
+        "Brain's Base"
+      ]
+    },
+    "description": "黃金神威 最終章"
+  }
+}

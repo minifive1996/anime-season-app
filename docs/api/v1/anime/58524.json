@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "58524",
+    "title": {
+      "zhHant": "公主殿下，「拷問」的時間到了 第二季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1272/153326.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/58524/",
+      "genres": [
+        "喜劇、 奇幻、 美食"
+      ],
+      "studios": [
+        "PINE JAM"
+      ]
+    },
+    "description": "成為魔王軍階下囚的國王軍第三騎士團——「騎士團長」公主要承受溫柔又凶狠的各種拷問。公主殿下與小魔魔用跳箱進行對決！小魔魔努力的模樣讓那個人都忍不住屈服!?此外，魔王軍人事異動，朵伽將要調離公主殿下的負責拷問官!?"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "55825",
+    "title": {
+      "zhHant": "地獄樂 第二季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/55825/",
+      "genres": [
+        "動作、 冒險、 超自然"
+      ],
+      "studios": [
+        "MAPPA"
+      ]
+    },
+    "description": "地獄樂 第二季"
+  }
+}

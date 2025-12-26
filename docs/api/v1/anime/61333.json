@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61333",
+    "title": {
+      "zhHant": "青之壬生浪 芹澤暗殺篇"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1393/151603.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61333/",
+      "genres": [
+        "動作"
+      ],
+      "studios": [
+        "Maho Film"
+      ]
+    },
+    "description": "青之壬生浪第二季"
+  }
+}

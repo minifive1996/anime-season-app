@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "60602",
+    "title": {
+      "zhHant": "MF GHOST 燃油車鬥魂 第三季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1419/154458.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60602/",
+      "genres": [
+        "劇情"
+      ],
+      "studios": [
+        "Felix Film"
+      ]
+    },
+    "description": "MF GHOST 燃油車鬥魂 第三季"
+  }
+}

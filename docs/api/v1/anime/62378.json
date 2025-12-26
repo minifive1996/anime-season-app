@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "62378",
+    "title": {
+      "zhHant": "GANGLION"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1333/151768.jpg"
+    },
+    "meta": {
+      "status": "正在播出",
+      "siteUrl": "https://myanimelist.net/anime/62378/",
+      "genres": [
+        "動作"
+      ],
+      "studios": [
+        "studio maf"
+      ]
+    },
+    "description": "2000年代初的東京。身為邪惡企業「神經節」的戰士，磯部終日征戰於戰場。無論是「東京杉花粉行動」或「富士山爆破計畫」，他僅著緊身戰衣迎戰，卻屢屢遭英雄希望男擊潰。在順從時代的黎明中，他承受著無理上司的壓迫，故事就此展開——這部獻給所有勞動者的職場劇，描繪一名上班族士兵的苦樂參半人生。（來源：MAL新聞）"
+  }
+}

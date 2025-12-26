@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61637",
+    "title": {
+      "zhHant": "29歲單身中堅冒險家的日常"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1765/154087.jpg"
+    },
+    "meta": {
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61637/",
+      "genres": [
+        "冒險、 奇幻"
+      ],
+      "studios": [
+        "HORNETS"
+      ]
+    },
+    "description": "這故事講述銀山冒險者——凜之木始。他專注於完成公會委託的任務。某日執行怪物肉採集任務時，他在地下城遇見名為莉莉的奇異少女，這女孩帶來的麻煩遠超其價值。從死境中救出少女後，她的故事令他憶起自身相似過往，遂將她收為養女⋯⋯（來源：MU）"
+  }
+}

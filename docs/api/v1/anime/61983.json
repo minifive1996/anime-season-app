@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "61983",
+    "title": {
+      "zhHant": "身為魔族的我想向勇者小隊的可愛女孩告白。"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1573/152828.jpg"
+    },
+    "meta": {
+      "format": "ANI-ONE",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/61983/",
+      "genres": [
+        "冒險、 喜劇、 奇幻、 愛情"
+      ],
+      "studios": [
+        "Gekkou"
+      ]
+    },
+    "description": "悠樹死於車禍後，竟重生於奇幻世界！然而他並未成為傳說中的英雄，反而轉生為一隻超強力的惡魔。對成為魔王毫無興趣的他，只在魔王城裡當著隨便的低階守護者。某日，英雄小隊前來進攻，他心血來潮將整支隊伍擊昏。在治癒英雄們準備送他們回城時，他瞥見女祭司的身影——竟是一見鍾情！（來源：MU）"
+  }
+}

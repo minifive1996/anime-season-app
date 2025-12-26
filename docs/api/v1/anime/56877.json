@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T17:08:45+00:00"
+  },
+  "item": {
+    "id": "56877",
+    "title": {
+      "zhHant": "藍色管弦樂 第2季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1078/151796.jpg"
+    },
+    "meta": {
+      "status": "正在播出",
+      "siteUrl": "https://myanimelist.net/anime/56877/",
+      "genres": [
+        "劇情"
+      ],
+      "studios": [
+        "Nippon Animation"
+      ]
+    },
+    "description": "藍色管弦樂 第2季"
+  }
+}
