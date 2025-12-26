@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         android.util.Log.d("AppConfig", "privacy=${com.minifive.animeseason.core.AppConfig.privacyPolicyUrl}")
 
         setContent {
+            com.minifive.animeseason.ui.app.AnimeSeasonApp()
             AniInfoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
