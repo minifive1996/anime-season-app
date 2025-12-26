@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>第三方服務與廣告</title>
+  <style>
+    :root { --fg:#111; --muted:#555; --bg:#fff; --card:#f6f7f9; --line:#e6e6e6; }
+    body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans TC", Arial, sans-serif;
+           color:var(--fg); background:var(--bg); }
+    header { padding:28px 18px; border-bottom:1px solid var(--line); }
+    .container { max-width: 920px; margin: 0 auto; padding: 18px; }
+    h1 { margin:0 0 8px; font-size: 26px; }
+    .meta { color:var(--muted); font-size: 14px; line-height: 1.6; }
+    section { margin: 18px 0; padding: 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+    h2 { margin: 0 0 10px; font-size: 18px; }
+    p, li { line-height: 1.75; font-size: 15px; }
+    ul { margin: 8px 0 0 18px; }
+    a { color: #0b57d0; }
+    footer { padding: 28px 18px; color: var(--muted); font-size: 13px; border-top:1px solid var(--line); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>第三方服務與廣告</h1>
+      <div class="meta">
+        適用 App：<strong>{AniInfo}</strong><br/>
+        最後更新：{2025/12/26}
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>為什麼會有廣告</h2>
+      <p>{AniInfo} 以免費方式提供新番資訊查閱服務，並透過橫幅廣告支援開發與維運成本。</p>
+    </section>
+
+    <section>
+      <h2>我們使用的第三方服務</h2>
+      <ul>
+        <li><strong>Google AdMob（Google Mobile Ads SDK）</strong>：用於顯示橫幅廣告。</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>第三方可能處理的資料類型與用途</h2>
+      <p>第三方廣告服務可能會為了<strong>廣告投放、量測、分析與防詐</strong>處理下列資訊類型：</p>
+      <ul>
+        <li>IP 位址（可能用於估算一般位置）</li>
+        <li>使用者互動資訊（例如點擊、啟動、互動行為）</li>
+        <li>診斷資訊（例如效能、啟動時間、卡頓等）</li>
+        <li>裝置/帳戶識別碼（例如 Android Advertising ID、App Set ID）</li>
+      </ul>
+      <p>
+        實際處理方式以第三方服務條款與政策為準。
+      </p>
+    </section>
+
+    <section>
+      <h2>你的控制與選擇</h2>
+      <ul>
+        <li>你可以在 Android 系統設定中管理 Advertising ID（例如刪除或重設）。</li>
+        <li>如需更完整說明，請參考 Google 的廣告技術與控制相關文件。</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>相關連結</h2>
+      <ul>
+        <li><a href="./privacy.html">隱私權政策</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      © {2025} {AniInfo}. All rights reserved.
+    </div>
+  </footer>
+</body>
+</html>
