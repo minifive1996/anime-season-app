@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AniInfo</string>
+    <string name="nav_season">Season</string>
+    <string name="nav_database">Database</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="banner_placeholder">Ad banner placeholder</string>
 </resources>
