@@ -1,0 +1,29 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T13:30:43+00:00"
+  },
+  "item": {
+    "id": "59978",
+    "title": {
+      "zhHant": "葬送的芙莉蓮 第2季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+    },
+    "meta": {
+      "format": "木棉花國際 (MUSE COMMUNICATION)",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/59978/",
+      "genres": [
+        "冒險",
+        "劇情",
+        "奇幻"
+      ],
+      "studios": [
+        "東寶動畫"
+      ]
+    },
+    "description": "與勇者們的過去帶往未來的魔法使‧芙莉蓮。通過魔法使測驗之後，踏上前往靈魂長眠之地〈AUREOLE〉的旅程。歷經邂逅與別離，回想起勇者們說過的話──透過故事可以窺見魔王死後的世界。闡述英雄們「內心」的後日譚奇幻故事！"
+  }
+}

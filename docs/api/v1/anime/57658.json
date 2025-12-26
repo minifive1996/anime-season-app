@@ -1,0 +1,29 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T13:30:43+00:00"
+  },
+  "item": {
+    "id": "57658",
+    "title": {
+      "zhHant": "咒術廻戰 死滅迴游篇 前篇"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg"
+    },
+    "meta": {
+      "format": "ANI-ONE",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/57658/",
+      "genres": [
+        "動作",
+        "超然"
+      ],
+      "studios": [
+        "東寶動畫",
+        "Dugout"
+      ]
+    },
+    "description": "咒術迴戰 第3季 前篇"
+  }
+}

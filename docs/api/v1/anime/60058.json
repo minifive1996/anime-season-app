@@ -1,0 +1,27 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T13:30:43+00:00"
+  },
+  "item": {
+    "id": "60058",
+    "title": {
+      "zhHant": "【我推的孩子】第三季"
+    },
+    "image": {
+      "coverLarge": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg"
+    },
+    "meta": {
+      "format": "巴哈姆特動畫瘋",
+      "status": "尚未播出",
+      "siteUrl": "https://myanimelist.net/anime/60058/",
+      "genres": [
+        "劇情"
+      ],
+      "studios": [
+        "Doga Kobo"
+      ]
+    },
+    "description": "露比於網路電視的綜藝節目擔任特派記者，不過該節目在錄製「角色扮演特集」的時候，因製作組於採訪時不尊重角色扮演者而引發「爭議」，一心「復仇」的露比甚至還利用這場風波…!?與此同時，阿奎亞又更進一步接近小愛遇刺真相──"
+  }
+}

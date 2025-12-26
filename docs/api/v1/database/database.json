@@ -1,31 +1,76 @@
 {
   "source": {
     "type": "google_sheets",
-    "updatedAt": "2025-12-26T13:03:38+00:00",
-    "count": 1
+    "updatedAt": "2025-12-26T13:30:43+00:00",
+    "count": 3
   },
   "items": [
     {
-      "id": "12345",
+      "id": "60058",
       "title": {
-        "zhHant": "頁智楷"
+        "zhHant": "【我推的孩子】第三季"
       },
       "image": {
-        "coverLarge": "https://...jpg"
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg"
       },
       "meta": {
-        "format": "木棉花",
-        "status": "放",
-        "siteUrl": "https://anilist.co/anime/12345",
+        "format": "巴哈姆特動畫瘋",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/60058/",
         "genres": [
-          "動作",
           "劇情"
         ],
         "studios": [
-          "葉家集團"
+          "Doga Kobo"
         ]
       },
-      "description": "頁智楷的醫生"
+      "description": "露比於網路電視的綜藝節目擔任特派記者，不過該節目在錄製「角色扮演特集」的時候，因製作組於採訪時不尊重角色扮演者而引發「爭議」，一心「復仇」的露比甚至還利用這場風波…!?與此同時，阿奎亞又更進一步接近小愛遇刺真相──"
+    },
+    {
+      "id": "57658",
+      "title": {
+        "zhHant": "咒術廻戰 死滅迴游篇 前篇"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg"
+      },
+      "meta": {
+        "format": "ANI-ONE",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/57658/",
+        "genres": [
+          "動作",
+          "超然"
+        ],
+        "studios": [
+          "東寶動畫",
+          "Dugout"
+        ]
+      },
+      "description": "咒術迴戰 第3季 前篇"
+    },
+    {
+      "id": "59978",
+      "title": {
+        "zhHant": "葬送的芙莉蓮 第2季"
+      },
+      "image": {
+        "coverLarge": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+      },
+      "meta": {
+        "format": "木棉花國際 (MUSE COMMUNICATION)",
+        "status": "尚未播出",
+        "siteUrl": "https://myanimelist.net/anime/59978/",
+        "genres": [
+          "冒險",
+          "劇情",
+          "奇幻"
+        ],
+        "studios": [
+          "東寶動畫"
+        ]
+      },
+      "description": "與勇者們的過去帶往未來的魔法使‧芙莉蓮。通過魔法使測驗之後，踏上前往靈魂長眠之地〈AUREOLE〉的旅程。歷經邂逅與別離，回想起勇者們說過的話──透過故事可以窺見魔王死後的世界。闡述英雄們「內心」的後日譚奇幻故事！"
     }
   ]
 }
