@@ -1,0 +1,8 @@
+<resources>
+    <string name="nav_season">本季</string>
+    <string name="nav_database">資料庫</string>
+    <string name="nav_favorites">收藏</string>
+    <string name="nav_settings">設定</string>
+
+    <string name="banner_placeholder">AdMob Banner Area</string>
+</resources>
