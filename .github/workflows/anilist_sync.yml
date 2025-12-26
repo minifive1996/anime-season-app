@@ -1,0 +1,55 @@
+name: Sync AniList Season JSON
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "WINTER | SPRING | SUMMER | FALL"
+        required: true
+        default: "WINTER"
+      year:
+        description: "Season year (e.g., 2026)"
+        required: true
+        default: "2026"
+  schedule:
+    # 每週一 UTC 03:00 自動更新（你也可只用手動觸發）
+    - cron: "0 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate season.json from AniList
+        env:
+          SEASON: ${{ inputs.season || 'WINTER' }}
+          YEAR: ${{ inputs.year || '2026' }}
+          PER_PAGE: "50"
+        run: |
+          node tools/anilist_sync.mjs
+          echo "-----"
+          ls -la docs/api/v1/season || true
+
+      - name: Commit & push if changed
+        run: |
+          git status
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/api/v1/season/season.json
+          git commit -m "chore(api): sync season.json from AniList"
+          git push
