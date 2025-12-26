@@ -12,8 +12,7 @@ on:
         required: true
         default: "2026"
   schedule:
-    # 每週一 UTC 03:00 自動更新（你也可只用手動觸發）
-    - cron: "0 3 * * 1"
+    - cron: "0 3 * * 1" # 每週一 UTC 03:00
 
 permissions:
   contents: write
@@ -32,24 +31,42 @@ jobs:
 
       - name: Generate season.json from AniList
         env:
-          SEASON: ${{ inputs.season || 'WINTER' }}
-          YEAR: ${{ inputs.year || '2026' }}
+          SEASON: ${{ (github.event_name == 'workflow_dispatch' && inputs.season) || 'WINTER' }}
+          YEAR: ${{ (github.event_name == 'workflow_dispatch' && inputs.year) || '2026' }}
           PER_PAGE: "50"
         run: |
           node tools/anilist_sync.mjs
           echo "-----"
+          echo "List output folder:"
           ls -la docs/api/v1/season || true
+
+          echo "-----"
+          echo "Verify season.json exists:"
+          if [ ! -f "docs/api/v1/season/season.json" ]; then
+            echo "::error::season.json was NOT generated. Check the Node script output above."
+            exit 1
+          fi
+
+          echo "-----"
+          echo "Show first 5 lines of season.json:"
+          head -n 5 docs/api/v1/season/season.json
 
       - name: Commit & push if changed
         run: |
-          git status
-          if git diff --quiet; then
+          # 把資料夾整個加入 staged（包含 untracked）
+          git add -A docs/api/v1/season
+
+          echo "-----"
+          echo "Git status (porcelain):"
+          git status --porcelain
+
+          # staged 沒變更就退出
+          if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/api/v1/season/season.json
           git commit -m "chore(api): sync season.json from AniList"
           git push
