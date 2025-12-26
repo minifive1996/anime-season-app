@@ -17,6 +17,8 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        android.util.Log.d("AppConfig", "privacy=${com.minifive.animeseason.core.AppConfig.privacyPolicyUrl}")
+
         setContent {
             AniInfoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
