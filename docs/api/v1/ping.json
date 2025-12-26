@@ -1,1 +1,5 @@
-﻿{"ok":true,"service":"anime-season-app","version":1}
+{
+  "ping": "OK",
+  "updatedAt": "2025-12-26T13:03:38+00:00",
+  "count": 1
+}

@@ -1,0 +1,28 @@
+{
+  "source": {
+    "type": "google_sheets",
+    "updatedAt": "2025-12-26T13:03:38+00:00"
+  },
+  "item": {
+    "id": "12345",
+    "title": {
+      "zhHant": "頁智楷"
+    },
+    "image": {
+      "coverLarge": "https://...jpg"
+    },
+    "meta": {
+      "format": "木棉花",
+      "status": "放",
+      "siteUrl": "https://anilist.co/anime/12345",
+      "genres": [
+        "動作",
+        "劇情"
+      ],
+      "studios": [
+        "葉家集團"
+      ]
+    },
+    "description": "頁智楷的醫生"
+  }
+}
