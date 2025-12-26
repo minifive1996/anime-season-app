@@ -1,0 +1,26 @@
+# === Gradle ===
+.gradle/
+build/
+**/build/
+
+# === Local config ===
+local.properties
+*.keystore
+*.jks
+
+# === Android Studio / IntelliJ ===
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# === Kotlin/Java ===
+*.class
+out/
+
+# === Mac/Windows ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
