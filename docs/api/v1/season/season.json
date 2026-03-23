@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T05:13:16.251Z",
+  "generatedAt": "2026-03-23T05:01:24.595Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -39,9 +39,9 @@
         "startDate": "2026-01-09",
         "endDate": "2026-03-27",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773933960,
-          "episode": 11,
-          "timeUntilAiringSec": 295964
+          "airingAtEpochSec": 1774538760,
+          "episode": 12,
+          "timeUntilAiringSec": 296676
         }
       },
       "description": "The third season of <i>Jujutsu Kaisen</i>.<br><br> After the Shibuya Incident, a deadly jujutsu battle known as the Culling Game orchestrated by Noritoshi Kamo erupts across ten colonies in Japan.<br><br> Haunted by guilt over the mass killings in Shibuya and wary of Sukuna’s interest in Fushiguro, Itadori chooses not to return to Jujutsu High. Instead, he teams up with Choso to exorcise the countless cursed spirits unleashed by Noritoshi Kamo. Amid this chaos, the Jujutsu Headquarters revokes Yuji Itadori’s suspended death sentence and appoints special-grade sorcerer Yuta Okkotsu as his executioner. <br><br> Newly awakened modern sorcerers and resurrected ancient ones, now fighting as players in the Culling Game, collide with conflicting motives, driving the world once more toward an age ruled by jujutsu.<br><br> (Source: TOHO Animation)",
@@ -121,9 +121,9 @@
         "startDate": "2026-01-16",
         "endDate": "2026-03-27",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774015200,
-          "episode": 9,
-          "timeUntilAiringSec": 377204
+          "airingAtEpochSec": 1774620000,
+          "episode": 10,
+          "timeUntilAiringSec": 377916
         }
       },
       "description": "The second season of <i>Sousou no Frieren</i>.",
@@ -210,9 +210,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-03-29",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774190640,
-          "episode": 11,
-          "timeUntilAiringSec": 552644
+          "airingAtEpochSec": 1774795440,
+          "episode": 12,
+          "timeUntilAiringSec": 553356
         }
       },
       "description": "The second season of <i>Jigokuraku</i>.",
@@ -281,9 +281,9 @@
         "startDate": "2026-01-03",
         "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773927000,
-          "episode": 11,
-          "timeUntilAiringSec": 289004
+          "airingAtEpochSec": 1774531800,
+          "episode": 12,
+          "timeUntilAiringSec": 289716
         }
       },
       "description": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.<br> <br> (Source: Crunchyroll) <br><br> <i>Notes:<br> - The first episode aired with a runtime of ~58 minutes as opposed to the standard 24 minute long episode.<br> - Initially scheduled to air in October, 2025 </i>",
@@ -358,9 +358,9 @@
         "startDate": "2026-01-14",
         "endDate": "2026-03-25",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773842400,
-          "episode": 10,
-          "timeUntilAiringSec": 204404
+          "airingAtEpochSec": 1774447200,
+          "episode": 11,
+          "timeUntilAiringSec": 205116
         }
       },
       "description": "The third season of <i>[Oshi no Ko]</i>. <br><br> The story enters a new stage. <br><br> It's been six months since \"POP IN 2\" was released. Thanks to MEM-Cho's hard work, B-Komachi is about to get their major break. Aqua is a multi-talented entertainer, and Akane's career as a talented actress is going smoothly. Meanwhile, Kana lost the cheerfulness she once had. To track down the truth behind Ai and Goro's deaths, Ruby keeps rising in the entertainment world... <br><br> <b>Using lies as a weapon.</b> <br><br> (Source: Crunchyroll)",
@@ -457,11 +457,11 @@
       },
       "airing": {
         "startDate": "2026-01-10",
-        "endDate": null,
+        "endDate": "2026-04-04",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774025580,
-          "episode": 11,
-          "timeUntilAiringSec": 387584
+          "airingAtEpochSec": 1774630380,
+          "episode": 12,
+          "timeUntilAiringSec": 388296
         }
       },
       "description": "The second cour of <i>Enen no Shouboutai: San no Shou</i>.<br><br> As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.<br><br> (Source: Crunchyroll News)",
@@ -525,9 +525,9 @@
         "startDate": "2026-01-03",
         "endDate": "2026-03-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774103400,
-          "episode": 12,
-          "timeUntilAiringSec": 465404
+          "airingAtEpochSec": 1774708200,
+          "episode": 13,
+          "timeUntilAiringSec": 466116
         }
       },
       "description": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield. Sure enough, Masters and Servants begin to gather... <br><br> A missing Servant class...<br> Impossible Servant summonings...<br> A nation shrouded in secrecy...<br> And a city created as a battleground.<br> <br> In the face of such irregularities, the Holy Grail War is twisted and driven into the depth of madness. Let the curtain rise on a masquerade of humans and heroes, made to dance upon the stage of a false Holy Grail. <i>This is a Holy Grail War covered in lies.</i> <br><br> (Source: Official Site, Aniplex USA, edited) <br><br> <i>Notes:</i><br> • <i>Special premiere of Episode 1 in its English Dub occurred in Los Angeles at the Fate 20th Anniversary Showcase event and as well through Crunchyroll’s YouTube Channel on November 23, 2024 before the Japanese television premiere.</i><br> • <i>The Japanese advanced premiere occurred during the \"Fate New Year's Eve TV Special 2024\" on December 31, 2024.</i>",
@@ -602,9 +602,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-03-29",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774166400,
-          "episode": 11,
-          "timeUntilAiringSec": 528404
+          "airingAtEpochSec": 1774771200,
+          "episode": 12,
+          "timeUntilAiringSec": 529116
         }
       },
       "description": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract? <br><br> (Source: Crunchyroll)",
@@ -649,13 +649,13 @@
         "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-fIfMy1LTkdGP.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-fIfMy1LTkdGP.jpg",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-riJNCFL7w9y4.jpg",
         "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190327-bXr8tFZUdxOw.jpg"
       },
       "meta": {
         "format": "ONA",
-        "status": "NOT_YET_RELEASED",
+        "status": "RELEASING",
         "genres": [
           "Action",
           "Adventure",
@@ -673,11 +673,7 @@
       "airing": {
         "startDate": "2026-03-19",
         "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773903600,
-          "episode": 1,
-          "timeUntilAiringSec": 265604
-        }
+        "nextAiringEpisode": null
       },
       "description": "The seventh story arc of the long-running <i>JoJo's Bizarre Adventure</i> series.<br><br> It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize. <br><br> Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. <br><br> He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.<br><br> Each having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.<br><br> (Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br> <i>Note: The first episode aired with a runtime of 47 minutes.</i>",
       "links": [
@@ -721,7 +717,7 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
@@ -736,12 +732,8 @@
       },
       "airing": {
         "startDate": "2026-01-01",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773846000,
-          "episode": 12,
-          "timeUntilAiringSec": 208004
-        }
+        "endDate": "2026-03-19",
+        "nextAiringEpisode": null
       },
       "description": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura—once their loyal Enchanter—is branded by his former comrades as “a jack-of-all-trades but a master of none.” Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies—and he’ll rise to shatter every expectation. The ultimate solo comeback begins! <br><br> (Source: Crunchyroll)",
       "links": [
@@ -791,7 +783,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Drama",
@@ -808,11 +800,7 @@
       "airing": {
         "startDate": "2026-01-07",
         "endDate": "2026-03-18",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773844200,
-          "episode": 11,
-          "timeUntilAiringSec": 206204
-        }
+        "nextAiringEpisode": null
       },
       "description": "At just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>",
       "links": [
@@ -965,9 +953,9 @@
         "startDate": "2026-01-08",
         "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773928800,
-          "episode": 11,
-          "timeUntilAiringSec": 290804
+          "airingAtEpochSec": 1774533600,
+          "episode": 12,
+          "timeUntilAiringSec": 291516
         }
       },
       "description": "The second season of <i>Mato Seihei no Slave.</i>",
@@ -1005,6 +993,63 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/1x40va3v1tx",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177385",
+      "title": {
+        "romaji": "Ikoku Nikki",
+        "english": "Journal with Witch",
+        "native": "違国日記"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Shuka"
+        ],
+        "siteUrl": "https://anilist.co/anime/177385"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774796400,
+          "episode": 13,
+          "timeUntilAiringSec": 554316
+        }
+      },
+      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/ikoku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://ikoku-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
           "type": "STREAMING",
           "language": null
         }
@@ -1060,63 +1105,6 @@
       ]
     },
     {
-      "id": "177385",
-      "title": {
-        "romaji": "Ikoku Nikki",
-        "english": "Journal with Witch",
-        "native": "違国日記"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Shuka"
-        ],
-        "siteUrl": "https://anilist.co/anime/177385"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774191600,
-          "episode": 12,
-          "timeUntilAiringSec": 553604
-        }
-      },
-      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/ikoku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://ikoku-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "178005",
       "title": {
         "romaji": "Tamon-kun Ima Docchi!?",
@@ -1146,9 +1134,9 @@
         "startDate": "2026-01-01",
         "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773846000,
-          "episode": 12,
-          "timeUntilAiringSec": 208004
+          "airingAtEpochSec": 1774450800,
+          "episode": 13,
+          "timeUntilAiringSec": 208716
         }
       },
       "description": "Utage Kinoshita is a high school girl who works part-time as a housekeeper. She has devoted her life to her favorite idol, Tamon Fukuhara, from the group F/ACE. Then one day, Utage ends up being assigned to Tamon’s house! There she discovers that off-stage, he is nothing like his wild idol persona. A gloomy, introverted boy with no self-confidence, Utage still finds herself falling for him anyway. <br><br> (Source: Crunchyroll)",
@@ -1217,9 +1205,9 @@
         "startDate": "2026-01-06",
         "endDate": "2026-03-31",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773756000,
-          "episode": 11,
-          "timeUntilAiringSec": 118004
+          "airingAtEpochSec": 1774360800,
+          "episode": 12,
+          "timeUntilAiringSec": 118716
         }
       },
       "description": "Reincarnated as a mid-tier demon, Youki had one job: Crush the hero’s party. Then he saw the party’s priestess, Cecilia, and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?<br> <br> (Source: Crunchyroll)",
@@ -1263,6 +1251,69 @@
       ]
     },
     {
+      "id": "187942",
+      "title": {
+        "romaji": "Mayonaka Heart Tune",
+        "english": "Tune In to the Midnight Heart",
+        "native": "真夜中ハートチューン"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Gekkou"
+        ],
+        "siteUrl": "https://anilist.co/anime/187942"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-24",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774360800,
+          "episode": 12,
+          "timeUntilAiringSec": 118716
+        }
+      },
+      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://mayochu-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/anime_mayochu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290283",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "195322",
       "title": {
         "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
@@ -1294,9 +1345,9 @@
         "startDate": "2026-01-05",
         "endDate": "2026-03-30",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773666000,
-          "episode": 11,
-          "timeUntilAiringSec": 28004
+          "airingAtEpochSec": 1774270800,
+          "episode": 12,
+          "timeUntilAiringSec": 28716
         }
       },
       "description": "The second season of <i>Vigilante: Boku no Hero Academia ILLEGALS</i>.",
@@ -1352,69 +1403,6 @@
       ]
     },
     {
-      "id": "187942",
-      "title": {
-        "romaji": "Mayonaka Heart Tune",
-        "english": "Tune In to the Midnight Heart",
-        "native": "真夜中ハートチューン"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Gekkou"
-        ],
-        "siteUrl": "https://anilist.co/anime/187942"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-24",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773756000,
-          "episode": 11,
-          "timeUntilAiringSec": 118004
-        }
-      },
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://mayochu-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/anime_mayochu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290283",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "163144",
       "title": {
         "romaji": "TRIGUN STARGAZE",
@@ -1446,9 +1434,9 @@
         "startDate": "2026-01-10",
         "endDate": "2026-03-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774101600,
-          "episode": 11,
-          "timeUntilAiringSec": 463604
+          "airingAtEpochSec": 1774706400,
+          "episode": 12,
+          "timeUntilAiringSec": 464316
         }
       },
       "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
@@ -1480,64 +1468,6 @@
       ]
     },
     {
-      "id": "192507",
-      "title": {
-        "romaji": "Uruwashi no Yoi no Tsuki",
-        "english": "In the Clear Moonlit Dusk",
-        "native": "うるわしの宵の月"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "East Fish Studio",
-          "Atelier Peuplier"
-        ],
-        "siteUrl": "https://anilist.co/anime/192507"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774164600,
-          "episode": 11,
-          "timeUntilAiringSec": 526604
-        }
-      },
-      "description": "Yoi Takiguchi has long legs, a deep voice, and a handsome face…in other words, Yoi is such a good-looking guy that most people don’t notice or care that she is, in fact, a girl. Indeed, she’s had the nickname “Prince” for as long as she can remember. That is, until she met Ichimura-senpai…the only person who really seemed to see her for herself. To her surprise, she’s not sure how to handle this new relationship, especially when her newfound friend is a prince himself (and a guy prince, at that). The story of the two high school princes starts here!<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://uruwashi-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/uruwashi_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "185993",
       "title": {
         "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
@@ -1551,13 +1481,13 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
           "Fantasy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 24,
         "studios": [
           "CompTown"
@@ -1566,12 +1496,8 @@
       },
       "airing": {
         "startDate": "2026-01-05",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774191600,
-          "episode": 12,
-          "timeUntilAiringSec": 553604
-        }
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
       },
       "description": "Noah, the world’s strongest six-year-old, has been privileged enough to be reborn as the emperor’s 13th child. What’s more, he’s been overpowered with an infinite level cap and a cheat that stacks the powers of anyone who serves him. But even privilege has its problems—the glittering facade of high society hides a world of conspiracies, schemes, and power struggles. <br><br> (Source: Crunchyroll)",
       "links": [
@@ -1608,6 +1534,64 @@
       ]
     },
     {
+      "id": "192507",
+      "title": {
+        "romaji": "Uruwashi no Yoi no Tsuki",
+        "english": "In the Clear Moonlit Dusk",
+        "native": "うるわしの宵の月"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "East Fish Studio",
+          "Atelier Peuplier"
+        ],
+        "siteUrl": "https://anilist.co/anime/192507"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774769400,
+          "episode": 12,
+          "timeUntilAiringSec": 527316
+        }
+      },
+      "description": "Yoi Takiguchi has long legs, a deep voice, and a handsome face…in other words, Yoi is such a good-looking guy that most people don’t notice or care that she is, in fact, a girl. Indeed, she’s had the nickname “Prince” for as long as she can remember. That is, until she met Ichimura-senpai…the only person who really seemed to see her for herself. To her surprise, she’s not sure how to handle this new relationship, especially when her newfound friend is a prince himself (and a guy prince, at that). The story of the two high school princes starts here!<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://uruwashi-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/uruwashi_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "186333",
       "title": {
         "romaji": "Majutsushi Kunon wa Mieteiru",
@@ -1621,7 +1605,7 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
@@ -1637,11 +1621,7 @@
       "airing": {
         "startDate": "2026-01-04",
         "endDate": "2026-03-22",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774184400,
-          "episode": 13,
-          "timeUntilAiringSec": 546404
-        }
+        "nextAiringEpisode": null
       },
       "description": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.<br><br> (Source: Crunchyroll)",
       "links": [
@@ -1694,11 +1674,11 @@
       },
       "airing": {
         "startDate": "2026-01-10",
-        "endDate": null,
+        "endDate": "2026-03-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774024500,
-          "episode": 11,
-          "timeUntilAiringSec": 386504
+          "airingAtEpochSec": 1774629300,
+          "episode": 12,
+          "timeUntilAiringSec": 387216
         }
       },
       "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
@@ -1718,6 +1698,122 @@
         {
           "site": "HIDIVE",
           "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "191205",
+      "title": {
+        "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+        "english": "Easygoing Territory Defense by the Optimistic Lord",
+        "native": "お気楽領主の楽しい領地防衛"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191205-ALhucRyrwOW1.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191205-ALhucRyrwOW1.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191205-1ZMdtwrP4ClU.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "NAZ"
+        ],
+        "siteUrl": "https://anilist.co/anime/191205"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-25",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774443600,
+          "episode": 12,
+          "timeUntilAiringSec": 201516
+        }
+      },
+      "description": "Van, fourth son of a marquis, is just a toddler when he realizes he’s been reincarnated. Thanks to his literal lifetime of knowledge, he’s raised as a child prodigy—until his production magic manifests, and it’s the last thing his snooty mage family wants to see! His disappointed father banishes him to a podunk town on the verge of collapse, yet Van can only see the place’s potential. Can our hero’s bastion of battlements build a better life than battle magic ever could?! <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://okiraku-ryousyu-anime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/okiraku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365565/easygoing-territory-defense-by-the-optimistic-lord",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2288556",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/14p5qniiqvd",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3oMlnB7bBRbcdnIbrj9wNv",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "202955",
+      "title": {
+        "romaji": "Prism Rondo",
+        "english": "Love Through A Prism",
+        "native": "プリズム輪舞曲"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "episodes": 20,
+        "durationMin": 24,
+        "studios": [
+          "WIT STUDIO"
+        ],
+        "siteUrl": "https://anilist.co/anime/202955"
+      },
+      "airing": {
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-15",
+        "nextAiringEpisode": null
+      },
+      "description": "Yoko Kamio, whose manga <i>\"Boys Over Flowers\"</i> enraptured readers around the globe, brings a brand-new classic to viewers worldwide. Set at a London art academy in the opening decade of the 1900s, the Netflix Series <i>\"Love Through a Prism\"</i> follows Lili Ichijoin, a girl enchanted by painting, as she chases her dreams and experiences youth. This ensemble coming-of-age story about young people striving for prismatic radiance against the odds is about to begin.<br><br> (Source: Netflix)",
+      "links": [
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81498882",
           "type": "STREAMING",
           "language": null
         }
@@ -1778,122 +1874,6 @@
       ]
     },
     {
-      "id": "202955",
-      "title": {
-        "romaji": "Prism Rondo",
-        "english": "Love Through A Prism",
-        "native": "プリズム輪舞曲"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Romance"
-        ],
-        "episodes": 20,
-        "durationMin": 24,
-        "studios": [
-          "WIT STUDIO"
-        ],
-        "siteUrl": "https://anilist.co/anime/202955"
-      },
-      "airing": {
-        "startDate": "2026-01-15",
-        "endDate": "2026-01-15",
-        "nextAiringEpisode": null
-      },
-      "description": "Yoko Kamio, whose manga <i>\"Boys Over Flowers\"</i> enraptured readers around the globe, brings a brand-new classic to viewers worldwide. Set at a London art academy in the opening decade of the 1900s, the Netflix Series <i>\"Love Through a Prism\"</i> follows Lili Ichijoin, a girl enchanted by painting, as she chases her dreams and experiences youth. This ensemble coming-of-age story about young people striving for prismatic radiance against the odds is about to begin.<br><br> (Source: Netflix)",
-      "links": [
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81498882",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "191205",
-      "title": {
-        "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
-        "english": "Easygoing Territory Defense by the Optimistic Lord",
-        "native": "お気楽領主の楽しい領地防衛"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191205-ALhucRyrwOW1.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191205-ALhucRyrwOW1.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191205-1ZMdtwrP4ClU.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": null,
-        "durationMin": 24,
-        "studios": [
-          "NAZ"
-        ],
-        "siteUrl": "https://anilist.co/anime/191205"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773838800,
-          "episode": 11,
-          "timeUntilAiringSec": 200804
-        }
-      },
-      "description": "Van, fourth son of a marquis, is just a toddler when he realizes he’s been reincarnated. Thanks to his literal lifetime of knowledge, he’s raised as a child prodigy—until his production magic manifests, and it’s the last thing his snooty mage family wants to see! His disappointed father banishes him to a podunk town on the verge of collapse, yet Van can only see the place’s potential. Can our hero’s bastion of battlements build a better life than battle magic ever could?! <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://okiraku-ryousyu-anime.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/okiraku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365565/easygoing-territory-defense-by-the-optimistic-lord",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2288556",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/14p5qniiqvd",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3oMlnB7bBRbcdnIbrj9wNv",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "177679",
       "title": {
         "romaji": "Darwin Jihen",
@@ -1921,11 +1901,11 @@
       },
       "airing": {
         "startDate": "2026-01-07",
-        "endDate": null,
+        "endDate": "2026-04-01",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773759600,
-          "episode": 11,
-          "timeUntilAiringSec": 121604
+          "airingAtEpochSec": 1774364400,
+          "episode": 12,
+          "timeUntilAiringSec": 122316
         }
       },
       "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
@@ -1983,9 +1963,9 @@
         "startDate": "2026-01-09",
         "endDate": "2026-03-27",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773934200,
-          "episode": 11,
-          "timeUntilAiringSec": 296204
+          "airingAtEpochSec": 1774539000,
+          "episode": 12,
+          "timeUntilAiringSec": 296916
         }
       },
       "description": "Flum has been chosen by God to be in the hero's party despite having stats of zero across the board. All she has is the \"Reversal\" ability that she still doesn't fully understand. Predictably, she proves useless in battle, but she refuses to give up and continues to do all she can for the party. Her partymate Jean, a genius and renowned sage, picks on her at every opportunity and eventually sells her off into slavery. Even as a slave, she's treated as incompetent and persecuted, and ultimately thrown to monsters as bait for her master's entertainment. Flum is left with two options: take up the cursed sword that inevitably brings death to its wielder, or be eaten by monsters. The moment she chooses to fight back is when the \"Reversal\" of her life begins... <br><br> (Source: Crunchyroll)",
@@ -2041,9 +2021,9 @@
         "startDate": "2026-01-08",
         "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773930600,
-          "episode": 11,
-          "timeUntilAiringSec": 292604
+          "airingAtEpochSec": 1774535400,
+          "episode": 12,
+          "timeUntilAiringSec": 293316
         }
       },
       "description": "Akira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br> <br> (Source: Crunchyroll)",
@@ -2069,6 +2049,75 @@
         {
           "site": "Bilibili TV",
           "url": "https://www.bilibili.tv/en/media/2290152",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187901",
+      "title": {
+        "romaji": "Dead Account",
+        "english": "Dead Account",
+        "native": "デッドアカウント"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-T91HmZAaNwOF.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "SynergySP"
+        ],
+        "siteUrl": "https://anilist.co/anime/187901"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774708200,
+          "episode": 12,
+          "timeUntilAiringSec": 466116
+        }
+      },
+      "description": "Always ready for a fight! Destruction for destruction’s sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he’s nothing more than a bottom feeder and a drain on society, but in reality, he’s high school dropout Souji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister’s medical bills. And even if all of humanity hates him, he doesn’t care, so long as his little sister gets better. But then, something very strange begins to happen...<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/DDAC_WM/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://dead-account.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365559/dead-account",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2288703",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
           "type": "STREAMING",
           "language": null
         }
@@ -2107,9 +2156,9 @@
         "startDate": "2026-01-08",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773932160,
-          "episode": 11,
-          "timeUntilAiringSec": 294164
+          "airingAtEpochSec": 1774536960,
+          "episode": 12,
+          "timeUntilAiringSec": 294876
         }
       },
       "description": "Betrayed by her fiancé’s lover and sentenced to public execution, Constance Grail, a plain viscount’s daughter known for her honesty, faces death—until a mysterious voice offers salvation. Scarlett Castiel, a noblewoman long thought dead, may be her only hope. Together, these unlikely allies uncover a dark conspiracy lurking in the heart of high society, where betrayal, secrets, and power collide. <br><br> (Source: Crunchyroll)",
@@ -2135,75 +2184,6 @@
         {
           "site": "Bilibili TV",
           "url": "https://www.bilibili.tv/en/media/2290065",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187901",
-      "title": {
-        "romaji": "Dead Account",
-        "english": "Dead Account",
-        "native": "デッドアカウント"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-T91HmZAaNwOF.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Action",
-          "Supernatural"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "SynergySP"
-        ],
-        "siteUrl": "https://anilist.co/anime/187901"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774103400,
-          "episode": 11,
-          "timeUntilAiringSec": 465404
-        }
-      },
-      "description": "Always ready for a fight! Destruction for destruction’s sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he’s nothing more than a bottom feeder and a drain on society, but in reality, he’s high school dropout Souji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister’s medical bills. And even if all of humanity hates him, he doesn’t care, so long as his little sister gets better. But then, something very strange begins to happen...<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/DDAC_WM/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://dead-account.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365559/dead-account",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2288703",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
           "type": "STREAMING",
           "language": null
         }
@@ -2240,9 +2220,9 @@
         "startDate": "2026-01-05",
         "endDate": "2026-03-30",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773669600,
-          "episode": 11,
-          "timeUntilAiringSec": 31604
+          "airingAtEpochSec": 1774274400,
+          "episode": 12,
+          "timeUntilAiringSec": 32316
         }
       },
       "description": "The fifth and final season of <i>Golden Kamuy</i>.",
@@ -2358,9 +2338,9 @@
         "startDate": "2026-01-06",
         "endDate": "2026-03-24",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773756000,
-          "episode": 11,
-          "timeUntilAiringSec": 118004
+          "airingAtEpochSec": 1774360800,
+          "episode": 12,
+          "timeUntilAiringSec": 118716
         }
       },
       "description": "Seiichirou Kondou, a salaryman approaching his 30s, gets caught up in a holy maiden summoning ritual and is transported to a parallel world called Romany Kingdom. Having worked day and night, he developed the mindset of a corporate slave and even demanded work in this new world, which landed him an accounting job at the Royal Accounting Department. <br><br> During his hectic days rebuilding the accounting department, Seiichirou came across a nutritional tonic that wiped away any fatigue. Thanks to the tonic, Seiichirou's chronic ailments and exhaustion completely disappeared, leaving him overjoyed. But because he had no resistance to the world's magic, the side effects put his life in danger! <br><br> The only way to survive was to have someone with magic help accustom his body to magical energy, so with no other choice Seiichirou entrusts himself to Aresh, captain of the Third Royal Order, known as the Ice Prince. <br><br> (Source: Crunchyroll)",
@@ -2382,55 +2362,6 @@
           "url": "https://www.crunchyroll.com/series/GT00365574/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "170110",
-      "title": {
-        "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
-        "english": "",
-        "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170110-MzWm7RaFxAnu.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "SPECIAL",
-        "status": "NOT_YET_RELEASED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 1,
-        "durationMin": null,
-        "studios": [
-          "Millepensee"
-        ],
-        "siteUrl": "https://anilist.co/anime/170110"
-      },
-      "airing": {
-        "startDate": null,
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "New anime project for <i>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta</i>.<br><br> <i>Note: Title and relation are subject to change.</i>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/iseleve_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://www.iseleve.com",
-          "type": "INFO",
-          "language": "Japanese"
         }
       ]
     },
@@ -2465,9 +2396,9 @@
         "startDate": "2026-01-05",
         "endDate": "2026-03-23",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773666000,
-          "episode": 11,
-          "timeUntilAiringSec": 28004
+          "airingAtEpochSec": 1774270800,
+          "episode": 12,
+          "timeUntilAiringSec": 28716
         }
       },
       "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
@@ -2522,9 +2453,9 @@
         "startDate": "2026-01-06",
         "endDate": "2026-03-24",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773673200,
-          "episode": 11,
-          "timeUntilAiringSec": 35204
+          "airingAtEpochSec": 1774278000,
+          "episode": 12,
+          "timeUntilAiringSec": 35916
         }
       },
       "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest! <br><br> (Source: Kodansha, translated)",
@@ -2544,6 +2475,229 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "170110",
+      "title": {
+        "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+        "english": "",
+        "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170110-MzWm7RaFxAnu.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "SPECIAL",
+        "status": "NOT_YET_RELEASED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 1,
+        "durationMin": null,
+        "studios": [
+          "Millepensee"
+        ],
+        "siteUrl": "https://anilist.co/anime/170110"
+      },
+      "airing": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774796400,
+          "episode": 1,
+          "timeUntilAiringSec": 554316
+        }
+      },
+      "description": "New anime project for <i>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta</i>.<br><br> <i>Note: Title and relation are subject to change.</i>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/iseleve_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://www.iseleve.com",
+          "type": "INFO",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "194742",
+      "title": {
+        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
+        "english": "The Demon King's Daughter is Too Kind!!",
+        "native": "魔王の娘は優しすぎる!!"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "EMT Squared"
+        ],
+        "siteUrl": "https://anilist.co/anime/194742"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-17",
+        "nextAiringEpisode": null
+      },
+      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://maomusu.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/maomusu_info",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "195518",
+      "title": {
+        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "native": "悪役令嬢は隣国の王太子に溺愛される"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195518"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774792800,
+          "episode": 12,
+          "timeUntilAiringSec": 550716
+        }
+      },
+      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://akudeki-anime.com/index.html",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/akudeki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "187941",
+      "title": {
+        "romaji": "Tensei Shitara Dragon no Tamago Datta",
+        "english": "Reincarnated as a Dragon Hatchling",
+        "native": "転生したらドラゴンの卵だった"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "GA-CREW",
+          "Felix Film"
+        ],
+        "siteUrl": "https://anilist.co/anime/187941"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774701000,
+          "episode": 12,
+          "timeUntilAiringSec": 458916
+        }
+      },
+      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://doratama-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/doratama_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34352",
           "type": "STREAMING",
           "language": null
         }
@@ -2611,180 +2765,6 @@
       ]
     },
     {
-      "id": "195518",
-      "title": {
-        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
-        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-        "native": "悪役令嬢は隣国の王太子に溺愛される"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195518"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774188000,
-          "episode": 11,
-          "timeUntilAiringSec": 550004
-        }
-      },
-      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://akudeki-anime.com/index.html",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/akudeki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "194742",
-      "title": {
-        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
-        "english": "The Demon King's Daughter is Too Kind!!",
-        "native": "魔王の娘は優しすぎる!!"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "EMT Squared"
-        ],
-        "siteUrl": "https://anilist.co/anime/194742"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-17",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773752400,
-          "episode": 12,
-          "timeUntilAiringSec": 114404
-        }
-      },
-      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://maomusu.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/maomusu_info",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187941",
-      "title": {
-        "romaji": "Tensei Shitara Dragon no Tamago Datta",
-        "english": "Reincarnated as a Dragon Hatchling",
-        "native": "転生したらドラゴンの卵だった"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": null,
-        "durationMin": 24,
-        "studios": [
-          "GA-CREW",
-          "Felix Film"
-        ],
-        "siteUrl": "https://anilist.co/anime/187941"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774096200,
-          "episode": 11,
-          "timeUntilAiringSec": 458204
-        }
-      },
-      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://doratama-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/doratama_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34352",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183660",
       "title": {
         "romaji": "Kaya-chan wa Kowakunai",
@@ -2815,9 +2795,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-03-29",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774168200,
-          "episode": 11,
-          "timeUntilAiringSec": 530204
+          "airingAtEpochSec": 1774773000,
+          "episode": 12,
+          "timeUntilAiringSec": 530916
         }
       },
       "description": "Kaya-chan attends Hanamugi Kindergarten, and she has an incredibly strong sixth sense. She secretly beats up the ghosts that stalk her friends and family, but in turn, she’s treated like a troublemaker since nobody understands her strange behavior. Everything changes when her teacher, Chie, discovers her secret. Kaya-chan's fists will go flying at any sinister spirits that show up!<br> <br> (Source: Crunchyroll)",
@@ -2868,7 +2848,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Drama",
           "Psychological",
@@ -2884,11 +2864,7 @@
       "airing": {
         "startDate": "2026-01-25",
         "endDate": "2026-03-22",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774110600,
-          "episode": 9,
-          "timeUntilAiringSec": 472604
-        }
+        "nextAiringEpisode": null
       },
       "description": "The second season of <i>Medalist.</i>",
       "links": [
@@ -2932,7 +2908,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Drama",
           "Fantasy",
@@ -2949,11 +2925,7 @@
       "airing": {
         "startDate": "2026-01-09",
         "endDate": "2026-03-20",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773939480,
-          "episode": 12,
-          "timeUntilAiringSec": 301484
-        }
+        "nextAiringEpisode": null
       },
       "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
       "links": [
@@ -3008,9 +2980,9 @@
         "startDate": "2026-01-07",
         "endDate": "2026-03-25",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773837000,
-          "episode": 11,
-          "timeUntilAiringSec": 199004
+          "airingAtEpochSec": 1774441800,
+          "episode": 12,
+          "timeUntilAiringSec": 199716
         }
       },
       "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. <br><br> Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. <br><br> One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! <br><br> The girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br> (Source: Crunchyroll)",
@@ -3154,6 +3126,12 @@
           "url": "https://www.tiktok.com/@hanakimi_anime",
           "type": "SOCIAL",
           "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/hanakimi_anime/",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
@@ -3186,9 +3164,9 @@
         "startDate": "2026-01-10",
         "endDate": "2026-03-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774018800,
-          "episode": 11,
-          "timeUntilAiringSec": 380804
+          "airingAtEpochSec": 1774623600,
+          "episode": 12,
+          "timeUntilAiringSec": 381516
         }
       },
       "description": "In the seaside city of Riverfield stands Decelis Academy, home to seven mysterious boys sharing the same secret: They’re vampires, hiding their murky pasts. When Sooha, a female student who hates vampires, transfers to the academy, the boys find themselves irresistibly drawn to her. As strange events shake the city, old sins and buried secrets resurface, and their world begins to fracture.<br> <br> (Source: Crunchyroll)",
@@ -3252,9 +3230,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774108560,
-          "episode": 11,
-          "timeUntilAiringSec": 470564
+          "airingAtEpochSec": 1774713360,
+          "episode": 12,
+          "timeUntilAiringSec": 471276
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3323,7 +3301,7 @@
           "Fantasy",
           "Slice of Life"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 24,
         "studios": [
           "Ascension",
@@ -3333,11 +3311,11 @@
       },
       "airing": {
         "startDate": "2026-01-08",
-        "endDate": null,
+        "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773846000,
-          "episode": 11,
-          "timeUntilAiringSec": 208004
+          "airingAtEpochSec": 1774450800,
+          "episode": 12,
+          "timeUntilAiringSec": 208716
         }
       },
       "description": "Lizel, a brilliant young chancellor of a powerful nation in a fantasy realm, suddenly finds himself transported to another world—mid-conversation, no less. Unfazed, he decides to treat it like a vacation and become an adventurer! Teaming up with Gil, a lone wolf top-ranker, Lizel uses his wit, charm, and intellect to navigate this new world. So begin the whimsical adventures of a noble off duty!<br> <br> (Source: Crunchyroll)",
@@ -3392,9 +3370,9 @@
         "startDate": "2026-01-12",
         "endDate": "2026-03-30",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773671400,
-          "episode": 10,
-          "timeUntilAiringSec": 33404
+          "airingAtEpochSec": 1774276200,
+          "episode": 11,
+          "timeUntilAiringSec": 34116
         }
       },
       "description": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe? <br><br> (Source: Crunchyroll)",
@@ -3464,9 +3442,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-04-05",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774105200,
-          "episode": 11,
-          "timeUntilAiringSec": 467204
+          "airingAtEpochSec": 1774710000,
+          "episode": 12,
+          "timeUntilAiringSec": 467916
         }
       },
       "description": "After a traumatic incident ends his teaching career, Rei Hitoma is certain he hates humans. Yet when he sees a job for “a teacher who truly cares for their students,” he’s compelled to apply. Before he knows it, he’s hired—only to find out his students are demi-humans. What begins as a job becomes a journey for healing for both a teacher who’s lost faith in humanity and students who dream of it.<br> <br> (Source: Crunchyroll)",
@@ -3509,7 +3487,7 @@
         "genres": [
           "Sports"
         ],
-        "episodes": null,
+        "episodes": 13,
         "durationMin": 24,
         "studios": [
           "Felix Film"
@@ -3518,11 +3496,11 @@
       },
       "airing": {
         "startDate": "2026-01-01",
-        "endDate": null,
+        "endDate": "2026-03-26",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773930600,
-          "episode": 12,
-          "timeUntilAiringSec": 292604
+          "airingAtEpochSec": 1774535400,
+          "episode": 13,
+          "timeUntilAiringSec": 293316
         }
       },
       "description": "The third season of <i>MF Ghost</i>. <br><br> <i>Note: Each episode streams 3 days early on Prime Video. The original TV broadcast started on January 4, 2026.</i>",
@@ -3579,7 +3557,7 @@
       },
       "meta": {
         "format": "MOVIE",
-        "status": "NOT_YET_RELEASED",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Comedy",
@@ -3596,11 +3574,7 @@
       "airing": {
         "startDate": "2026-03-20",
         "endDate": "2026-03-20",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773932400,
-          "episode": 1,
-          "timeUntilAiringSec": 294404
-        }
+        "nextAiringEpisode": null
       },
       "description": "A new movie to commemorate <i>Assassination Classroom's</i> 10th anniversary of the TV anime.<br> <br> It adapts episodes previously omitted in the original anime series.",
       "links": [
@@ -3706,9 +3680,9 @@
         "startDate": "2026-01-07",
         "endDate": "2026-03-25",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773764940,
-          "episode": 11,
-          "timeUntilAiringSec": 126944
+          "airingAtEpochSec": 1774369740,
+          "episode": 12,
+          "timeUntilAiringSec": 127656
         }
       },
       "description": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman’s daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery.<br><br> In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg\", where non-humans live. Lynn's world changes drastically when she encounters \"Arne\", a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect? <br><br> <i>\"Come on, human. You may dance merrily under the crimson moon.”</i><br><br> (Source: The Case Book of Arne Steam page)",
@@ -3747,7 +3721,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
@@ -3761,11 +3735,7 @@
       "airing": {
         "startDate": "2026-01-05",
         "endDate": "2026-03-23",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774193400,
-          "episode": 12,
-          "timeUntilAiringSec": 555404
-        }
+        "nextAiringEpisode": null
       },
       "description": "In a society where torture is legal—and big business—Spirytus dominates the industry with skill, style, and surprisingly cheerful teamwork. Part-timers Cero, Shiu, Mikke, and Hugh tackle “client sessions,” office shenanigans, and even the occasional in-house assassin…all with a smile! Life at Spirytus proves that even in a world of pain, work can still be surprisingly fun! <br><br> (Source: Crunchyroll)",
       "links": [
@@ -3948,9 +3918,9 @@
         "startDate": "2026-01-09",
         "endDate": "2026-03-27",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773937680,
-          "episode": 11,
-          "timeUntilAiringSec": 299684
+          "airingAtEpochSec": 1774542480,
+          "episode": 12,
+          "timeUntilAiringSec": 300396
         }
       },
       "description": "The second season of <i>Douse, Koishite Shimaunda. </i>",
@@ -4053,7 +4023,7 @@
           "Action",
           "Drama"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 24,
         "studios": [
           "SynergySP"
@@ -4062,11 +4032,11 @@
       },
       "airing": {
         "startDate": "2026-01-11",
-        "endDate": null,
+        "endDate": "2026-04-05",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774189800,
-          "episode": 10,
-          "timeUntilAiringSec": 551804
+          "airingAtEpochSec": 1774794600,
+          "episode": 11,
+          "timeUntilAiringSec": 552516
         }
       },
       "description": "The fire extinguishing samurai who stopped the great fire was called \"The fire-eating bird\". Matsunaga Gengo, once known as the \"Fire-eating Bird\", was the best fire-fighting samurai in Edo. He had resigned from the fire brigade for a reason but suddenly received an invitation to serve in the Shinjo clan.<br><br> The Shinjo clan's fire-fighting team had no money and no personnel and was looked down upon by those around them. With the encouragement of his wife, Miyuki, Gengo decides to rebuild the collapsed fire-fighting clan as its chairman. Gengo and his friends, all of whom have their own peculiarities, struggle to \"save any life\", despite being ridiculed as \"ragged steeplejacks\"(= the 'Boro-Tobi-Gumi'.), In Edo, a mysterious series of suspicious fires called \"foxfires\" continue. <br><br> An entertaining action drama opens, with the firefighters scrambling to save lives in the face of the approaching disaster! <br><br> (Source: Amuse Creative Studio)",
@@ -4176,7 +4146,7 @@
           "Mahou Shoujo",
           "Mystery"
         ],
-        "episodes": null,
+        "episodes": 51,
         "durationMin": 24,
         "studios": [
           "Toei Animation"
@@ -4187,9 +4157,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774135800,
-          "episode": 8,
-          "timeUntilAiringSec": 497804
+          "airingAtEpochSec": 1774740600,
+          "episode": 9,
+          "timeUntilAiringSec": 498516
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4251,9 +4221,9 @@
         "startDate": "2026-01-06",
         "endDate": "2026-03-24",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773757800,
-          "episode": 11,
-          "timeUntilAiringSec": 119804
+          "airingAtEpochSec": 1774362600,
+          "episode": 12,
+          "timeUntilAiringSec": 120516
         }
       },
       "description": "The Demon World once plunged the Human World into terror. With the seal broken and hordes of Demon Soldiers launching an invasion, five young warriors rushed to humanity's rescue. They were called the Samurai Troopers, and now their battle begins anew!<br> <br> (Source: Crunchyroll)",
@@ -4293,7 +4263,10 @@
       "meta": {
         "format": "MOVIE",
         "status": "FINISHED",
-        "genres": [],
+        "genres": [
+          "Slice of Life",
+          "Sports"
+        ],
         "episodes": 1,
         "durationMin": 119,
         "studios": [
@@ -4343,7 +4316,7 @@
           "Horror",
           "Supernatural"
         ],
-        "episodes": null,
+        "episodes": 13,
         "durationMin": 23,
         "studios": [
           "Studio KAI"
@@ -4352,11 +4325,11 @@
       },
       "airing": {
         "startDate": "2026-01-07",
-        "endDate": null,
+        "endDate": "2026-04-01",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773845160,
-          "episode": 11,
-          "timeUntilAiringSec": 207164
+          "airingAtEpochSec": 1774449960,
+          "episode": 12,
+          "timeUntilAiringSec": 207876
         }
       },
       "description": "The second cour of <i>Jigoku Sensei Nube (2025)</i>.",
@@ -4405,7 +4378,7 @@
         "genres": [
           "Drama"
         ],
-        "episodes": null,
+        "episodes": 14,
         "durationMin": 24,
         "studios": [
           "Maho Film"
@@ -4414,8 +4387,12 @@
       },
       "airing": {
         "startDate": "2025-12-20",
-        "endDate": null,
-        "nextAiringEpisode": null
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1774686600,
+          "episode": 14,
+          "timeUntilAiringSec": 444516
+        }
       },
       "description": "The second season of <i>Ao no Miburo</i>.",
       "links": [
@@ -4526,7 +4503,7 @@
         "nextAiringEpisode": {
           "airingAtEpochSec": 1775746800,
           "episode": 4,
-          "timeUntilAiringSec": 2108804
+          "timeUntilAiringSec": 1504716
         }
       },
       "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
@@ -4622,11 +4599,7 @@
       "airing": {
         "startDate": "2026-01-03",
         "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774098000,
-          "episode": 12,
-          "timeUntilAiringSec": 460004
-        }
+        "nextAiringEpisode": null
       },
       "description": "The story of Saioshi no Gikei Mederutame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die. <br><br> (Source: ANN)",
       "links": [
@@ -4680,9 +4653,9 @@
         "startDate": "2026-01-09",
         "endDate": "2026-03-27",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774017000,
-          "episode": 11,
-          "timeUntilAiringSec": 379004
+          "airingAtEpochSec": 1774621800,
+          "episode": 12,
+          "timeUntilAiringSec": 379716
         }
       },
       "description": "The wildly eccentric group, the Kimengumi, returns in the Reiwa era with their ultra-high-energy youth comedy!",
@@ -4900,7 +4873,7 @@
       "id": "202419",
       "title": {
         "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
-        "english": "",
+        "english": "You don't know Gunma yet.: Reiwa version",
         "native": "お前はまだグンマを知らない～令和版～ "
       },
       "image": {
@@ -4910,11 +4883,11 @@
       },
       "meta": {
         "format": "TV_SHORT",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 6,
         "studios": [
           "Imagica Infos",
@@ -4924,12 +4897,8 @@
       },
       "airing": {
         "startDate": "2026-01-10",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774096200,
-          "episode": 11,
-          "timeUntilAiringSec": 458204
-        }
+        "endDate": "2026-03-14",
+        "nextAiringEpisode": null
       },
       "description": "Light anime for <i>Omae wa Mada Gunma wo Shiranai</i>.",
       "links": [
@@ -4938,6 +4907,12 @@
           "url": "https://animationid.com/omagun/",
           "type": "INFO",
           "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -5066,9 +5041,9 @@
         "startDate": "2026-01-12",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774200000,
-          "episode": 11,
-          "timeUntilAiringSec": 562004
+          "airingAtEpochSec": 1774804800,
+          "episode": 12,
+          "timeUntilAiringSec": 562716
         }
       },
       "description": "Sixteenth season of <i>Yami Shibai</i>.",
@@ -5119,18 +5094,18 @@
       },
       "meta": {
         "format": "TV_SHORT",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Slice of Life"
         ],
-        "episodes": null,
-        "durationMin": null,
+        "episodes": 12,
+        "durationMin": 1,
         "studios": [],
         "siteUrl": "https://anilist.co/anime/204432"
       },
       "airing": {
         "startDate": "2026-01-05",
-        "endDate": null,
+        "endDate": "2026-03-23",
         "nextAiringEpisode": null
       },
       "description": "",
@@ -5173,7 +5148,7 @@
         "genres": [
           "Comedy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 4,
         "studios": [
           "Doraku"
@@ -5182,11 +5157,11 @@
       },
       "airing": {
         "startDate": "2026-01-05",
-        "endDate": null,
+        "endDate": "2026-03-23",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773658800,
-          "episode": 11,
-          "timeUntilAiringSec": 20804
+          "airingAtEpochSec": 1774263600,
+          "episode": 12,
+          "timeUntilAiringSec": 21516
         }
       },
       "description": "A young man named Nobu, who is looking for a job in the post-apocalyptic world, ends up tricked into joining Raoh's Army.",
@@ -5202,8 +5177,8 @@
     {
       "id": "203296",
       "title": {
-        "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
-        "english": "",
+        "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
+        "english": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash",
         "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編"
       },
       "image": {
@@ -5220,20 +5195,24 @@
           "Fantasy"
         ],
         "episodes": null,
-        "durationMin": null,
-        "studios": [],
+        "durationMin": 24,
+        "studios": [
+          "Gift-o’-Animation",
+          "Kinema Citrus",
+          "Studio JEMI"
+        ],
         "siteUrl": "https://anilist.co/anime/203296"
       },
       "airing": {
         "startDate": "2026-01-10",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774047600,
-          "episode": 9,
-          "timeUntilAiringSec": 409604
+          "airingAtEpochSec": 1774652400,
+          "episode": 10,
+          "timeUntilAiringSec": 410316
         }
       },
-      "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i>",
+      "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i><br><br> Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.<br><br> What is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.<br><br> What is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.<br><br> (Source: cf-vanguard.com)",
       "links": [
         {
           "site": "YouTube",
@@ -5271,7 +5250,7 @@
       "id": "199005",
       "title": {
         "romaji": "#Kanagawa ni Sunderu Elf",
-        "english": "",
+        "english": "Kanagawa Elves",
         "native": "#神奈川に住んでるエルフ "
       },
       "image": {
@@ -5319,6 +5298,12 @@
           "url": "https://anime.nicovideo.jp/detail/kanael/index.html?from=live_watch_anime&ref=WatchPage-ProgramInformation-Description-Anchor",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -5351,9 +5336,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773788400,
-          "episode": 11,
-          "timeUntilAiringSec": 150404
+          "airingAtEpochSec": 1774393200,
+          "episode": 12,
+          "timeUntilAiringSec": 151116
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5421,7 +5406,7 @@
         "nextAiringEpisode": {
           "airingAtEpochSec": 1774537200,
           "episode": 1,
-          "timeUntilAiringSec": 899204
+          "timeUntilAiringSec": 295116
         }
       },
       "description": "",
@@ -5522,7 +5507,7 @@
           "Supernatural"
         ],
         "episodes": 4,
-        "durationMin": null,
+        "durationMin": 24,
         "studios": [
           "J.C.STAFF",
           "Shogakukan Music & Digital Entertainment"
@@ -5575,7 +5560,7 @@
           "Adventure",
           "Fantasy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 24,
         "studios": [
           "Toon Harbor Works"
@@ -5584,11 +5569,11 @@
       },
       "airing": {
         "startDate": "2026-01-10",
-        "endDate": null,
+        "endDate": "2026-03-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774036800,
-          "episode": 11,
-          "timeUntilAiringSec": 398804
+          "airingAtEpochSec": 1774641600,
+          "episode": 12,
+          "timeUntilAiringSec": 399516
         }
       },
       "description": "The anime's story is set in a world made of \"cuteness\" called Sun Kingdom. Ganso Hoppe-chan, who lost her memory, appears in the kingdom. Meanwhile, in the real world, an office worker named Hoho is slowly losing her self-esteem in her work and life, sending her on the verge of becoming lost in life. Somewhere between Ganso Hoppe-chan and Hoho's worlds, their paths cross. Back in Sun Kingdom, toxic Hoppe-chan creatures are creating an \"uncute place,\" and Ganso Hoppe-chan joins the \"Guardians\" to protect the kingdom. <br><br> (Source: ANN)",
@@ -5636,9 +5621,9 @@
         "startDate": "2026-01-08",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773871200,
-          "episode": 11,
-          "timeUntilAiringSec": 233204
+          "airingAtEpochSec": 1774476000,
+          "episode": 12,
+          "timeUntilAiringSec": 233916
         }
       },
       "description": "Osamu Tezuka's classic manga \"Black Jack\" has been adapted into a comedy anime by creator SoroTani, the man behind the YouTube channel \"SoroTani no Animetchi,\" which has been viewed over 1 billion times.",
@@ -5705,9 +5690,9 @@
         "startDate": "2026-01-21",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773795240,
-          "episode": 9,
-          "timeUntilAiringSec": 157244
+          "airingAtEpochSec": 1774400040,
+          "episode": 10,
+          "timeUntilAiringSec": 157956
         }
       },
       "description": "Anime based on industrial company Taica's mascot Gelpiyo. <br><br> In the story, Gelpiyo and similar characters contain the \"Alpha Gel\" quality that allow them to bounce back after any setback. They are sent out by Alpha Industry to the mysterious Geltown to further the company's plot of world domination. There, they plan to raise trouble, even though they constantly get involved in events in the town. <br><br> (Source: Anime News Network)",
@@ -5746,7 +5731,7 @@
       },
       "meta": {
         "format": "MOVIE",
-        "status": "NOT_YET_RELEASED",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
@@ -5760,11 +5745,7 @@
       "airing": {
         "startDate": "2026-03-20",
         "endDate": "2026-03-20",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1773932400,
-          "episode": 1,
-          "timeUntilAiringSec": 294404
-        }
+        "nextAiringEpisode": null
       },
       "description": "Maejiri, an otherwise ordinary office worker whose only unusual trait is that his butt is in the front, secretly lives a double life as the city's protector — Oshirimae Man. One day he discovers that a strange drug is spreading through the city which causes people's butts to move to the front. After infiltrating a pharmaceutical company, he uncovers the shocking \"Oshirimae Man Empire Revival Plan,\" led by a mysterious villain burning with vengeance. <br><br> Can Oshirimae Man stop him before all of humanity finds its butt… in the front? <br><br> (Source: YouTube, edited)",
       "links": [
@@ -5808,13 +5789,19 @@
       "links": [
         {
           "site": "YouTube",
-          "url": "https://www.youtube.com/watch?v=uPZ5qL6ka2Q",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
           "type": "STREAMING",
           "language": null
         },
         {
           "site": "Twitter",
           "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2035370854242980091",
           "type": "SOCIAL",
           "language": null
         }
@@ -5849,9 +5836,9 @@
         "startDate": "2026-01-06",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1773698400,
-          "episode": 10,
-          "timeUntilAiringSec": 60404
+          "airingAtEpochSec": 1774303200,
+          "episode": 11,
+          "timeUntilAiringSec": 61116
         }
       },
       "description": "A new season of <i>Taka no Tsume</i> celebrating the 20th anniversary of the series.",
