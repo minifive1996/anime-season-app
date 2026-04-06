@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T05:22:39.882Z",
+  "generatedAt": "2026-04-06T05:22:02.534Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -146,7 +146,7 @@
         },
         {
           "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2287773",
+          "url": "https://www.bilibili.tv/media/2287773",
           "type": "STREAMING",
           "language": null
         },
@@ -413,6 +413,73 @@
       ]
     },
     {
+      "id": "184951",
+      "title": {
+        "romaji": "Seihantai na Kimi to Boku",
+        "english": "You and I Are Polar Opposites",
+        "native": "正反対な君と僕"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Lapin Track"
+        ],
+        "siteUrl": "https://anilist.co/anime/184951"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract? <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/seihantai_x",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2288405",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "179062",
       "title": {
         "romaji": "Enen no Shouboutai: San no Shou Part 2",
@@ -426,7 +493,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Drama",
@@ -443,11 +510,7 @@
       "airing": {
         "startDate": "2026-01-10",
         "endDate": "2026-04-04",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775235180,
-          "episode": 13,
-          "timeUntilAiringSec": 387021
-        }
+        "nextAiringEpisode": null
       },
       "description": "The second cour of <i>Enen no Shouboutai: San no Shou</i>.<br><br> As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.<br><br> (Source: Crunchyroll News)",
       "links": [
@@ -546,73 +609,6 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/G4PH0WJQZ/fatestrange-fake",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "184951",
-      "title": {
-        "romaji": "Seihantai na Kimi to Boku",
-        "english": "You and I Are Polar Opposites",
-        "native": "正反対な君と僕"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Lapin Track"
-        ],
-        "siteUrl": "https://anilist.co/anime/184951"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract? <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/seihantai_x",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2288405",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu",
           "type": "STREAMING",
           "language": null
         }
@@ -747,79 +743,6 @@
       ]
     },
     {
-      "id": "180746",
-      "title": {
-        "romaji": "Shibou Yuugi de Meshi wo Kuu.",
-        "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-        "native": "死亡遊戯で飯を食う。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-AyfiOMkuHegF.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Drama",
-          "Mystery",
-          "Thriller"
-        ],
-        "episodes": 11,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/180746"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-03-18",
-        "nextAiringEpisode": null
-      },
-      "description": "At just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/shibouyugi_",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://shiboyugi-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/us/title/82047155",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1yaZiMDinSA80dyCgrQPcj",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/jv1ornbp2h",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "201903",
       "title": {
         "romaji": "Chou Kaguya-hime!",
@@ -892,6 +815,79 @@
           "url": "https://www.instagram.com/cho_kaguyahime_pr/",
           "type": "SOCIAL",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "180746",
+      "title": {
+        "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+        "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+        "native": "死亡遊戯で飯を食う。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-AyfiOMkuHegF.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "episodes": 11,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/180746"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-18",
+        "nextAiringEpisode": null
+      },
+      "description": "At just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/shibouyugi_",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://shiboyugi-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/us/title/82047155",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1yaZiMDinSA80dyCgrQPcj",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/jv1ornbp2h",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -1025,51 +1021,75 @@
       ]
     },
     {
-      "id": "182206",
+      "id": "195515",
       "title": {
-        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
+        "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+        "english": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+        "native": "勇者パーティーにかわいい子がいたので、告白してみた。"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
-        "banner": ""
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-p1nD71Hmr4ly.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg"
       },
       "meta": {
-        "format": "MOVIE",
+        "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Action",
           "Adventure",
           "Comedy",
-          "Fantasy"
+          "Fantasy",
+          "Romance"
         ],
-        "episodes": 1,
-        "durationMin": null,
+        "episodes": 13,
+        "durationMin": 24,
         "studios": [
-          "8-bit"
+          "Gekkou"
         ],
-        "siteUrl": "https://anilist.co/anime/182206"
+        "siteUrl": "https://anilist.co/anime/195515"
       },
       "airing": {
-        "startDate": "2026-02-27",
-        "endDate": "2026-02-27",
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-31",
         "nextAiringEpisode": null
       },
-      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
+      "description": "Reincarnated as a mid-tier demon, Youki had one job: Crush the hero’s party. Then he saw the party’s priestess, Cecilia, and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?<br> <br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Twitter",
-          "url": "https://x.com/ten_sura_anime",
+          "url": "https://x.com/yuukawa_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://movie02.ten-sura.com/",
+          "url": "https://yuukawa-anime.com/",
           "type": "INFO",
           "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00355229/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2289667",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/dchnisldit",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgiegdmIMRF4OGiKggAFytJ",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -1139,79 +1159,51 @@
       ]
     },
     {
-      "id": "195515",
+      "id": "182206",
       "title": {
-        "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
-        "english": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-        "native": "勇者パーティーにかわいい子がいたので、告白してみた。"
+        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-p1nD71Hmr4ly.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
+        "banner": ""
       },
       "meta": {
-        "format": "TV",
-        "status": "RELEASING",
+        "format": "MOVIE",
+        "status": "FINISHED",
         "genres": [
+          "Action",
           "Adventure",
           "Comedy",
-          "Fantasy",
-          "Romance"
+          "Fantasy"
         ],
-        "episodes": 13,
-        "durationMin": 24,
+        "episodes": 1,
+        "durationMin": null,
         "studios": [
-          "Gekkou"
+          "8-bit"
         ],
-        "siteUrl": "https://anilist.co/anime/195515"
+        "siteUrl": "https://anilist.co/anime/182206"
       },
       "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-31",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774965600,
-          "episode": 13,
-          "timeUntilAiringSec": 117441
-        }
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "nextAiringEpisode": null
       },
-      "description": "Reincarnated as a mid-tier demon, Youki had one job: Crush the hero’s party. Then he saw the party’s priestess, Cecilia, and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?<br> <br> (Source: Crunchyroll)",
+      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
       "links": [
         {
           "site": "Twitter",
-          "url": "https://x.com/yuukawa_anime",
+          "url": "https://x.com/ten_sura_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://yuukawa-anime.com/",
+          "url": "https://movie02.ten-sura.com/",
           "type": "INFO",
           "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00355229/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2289667",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/dchnisldit",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgiegdmIMRF4OGiKggAFytJ",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -1288,7 +1280,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
@@ -1305,11 +1297,7 @@
       "airing": {
         "startDate": "2026-01-05",
         "endDate": "2026-03-30",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774875600,
-          "episode": 13,
-          "timeUntilAiringSec": 27441
-        }
+        "nextAiringEpisode": null
       },
       "description": "The second season of <i>Vigilante: Boku no Hero Academia ILLEGALS</i>.",
       "links": [
@@ -1430,67 +1418,6 @@
       ]
     },
     {
-      "id": "163144",
-      "title": {
-        "romaji": "TRIGUN STARGAZE",
-        "english": "TRIGUN STARGAZE",
-        "native": "TRIGUN STARGAZE"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Sci-Fi"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Orange"
-        ],
-        "siteUrl": "https://anilist.co/anime/163144"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://trigun-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/trigun_anime/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GXJHM3PK5/trigun-stampede",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "192507",
       "title": {
         "romaji": "Uruwashi no Yoi no Tsuki",
@@ -1539,6 +1466,67 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "163144",
+      "title": {
+        "romaji": "TRIGUN STARGAZE",
+        "english": "TRIGUN STARGAZE",
+        "native": "TRIGUN STARGAZE"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-EyR6TQyQVbx5.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Orange"
+        ],
+        "siteUrl": "https://anilist.co/anime/163144"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://trigun-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/trigun_anime/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GXJHM3PK5/trigun-stampede",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
           "type": "STREAMING",
           "language": null
         }
@@ -1832,7 +1820,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Sci-Fi",
           "Thriller"
@@ -1847,11 +1835,7 @@
       "airing": {
         "startDate": "2026-01-07",
         "endDate": "2026-04-01",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774969200,
-          "episode": 13,
-          "timeUntilAiringSec": 121041
-        }
+        "nextAiringEpisode": null
       },
       "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
       "links": [
@@ -1926,6 +1910,73 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "170110",
+      "title": {
+        "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+        "english": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special) - The Legendary Dragon—Awakens",
+        "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170110-MzWm7RaFxAnu.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "SPECIAL",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 1,
+        "durationMin": 47,
+        "studios": [
+          "Millepensee"
+        ],
+        "siteUrl": "https://anilist.co/anime/170110"
+      },
+      "airing": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "New special episode for <i>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta</i>.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/iseleve_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://www.iseleve.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/G14UV4GZQ/the-legendary-dragonawakens",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2342788",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ZdzoybAIuxI",
           "type": "STREAMING",
           "language": null
         }
@@ -2179,13 +2230,13 @@
         "native": "ゴールデンカムイ 最終章"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166521-PNf7tRAlJJI6.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-f79xGOVNAnBp.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
@@ -2201,13 +2252,9 @@
       "airing": {
         "startDate": "2026-01-05",
         "endDate": "2026-03-30",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774879200,
-          "episode": 13,
-          "timeUntilAiringSec": 31041
-        }
+        "nextAiringEpisode": null
       },
-      "description": "The fifth and final season of <i>Golden Kamuy</i>.",
+      "description": "The fifth season of <i>Golden Kamuy</i>.",
       "links": [
         {
           "site": "Twitter",
@@ -2398,73 +2445,6 @@
       ]
     },
     {
-      "id": "170110",
-      "title": {
-        "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
-        "english": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special) - The Legendary Dragon—Awakens",
-        "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170110-MzWm7RaFxAnu.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "SPECIAL",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 1,
-        "durationMin": 47,
-        "studios": [
-          "Millepensee"
-        ],
-        "siteUrl": "https://anilist.co/anime/170110"
-      },
-      "airing": {
-        "startDate": "2026-03-30",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "New special episode for <i>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta</i>.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/iseleve_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://www.iseleve.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/watch/G14UV4GZQ/the-legendary-dragonawakens",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2342788",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/watch?v=ZdzoybAIuxI",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "187941",
       "title": {
         "romaji": "Tensei Shitara Dragon no Tamago Datta",
@@ -2520,6 +2500,59 @@
       ]
     },
     {
+      "id": "195518",
+      "title": {
+        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "native": "悪役令嬢は隣国の王太子に溺愛される"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195518"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://akudeki-anime.com/index.html",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/akudeki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "194742",
       "title": {
         "romaji": "Maou no Musume wa Yasashi Sugiru!!",
@@ -2570,59 +2603,6 @@
           "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "195518",
-      "title": {
-        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
-        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-        "native": "悪役令嬢は隣国の王太子に溺愛される"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195518"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://akudeki-anime.com/index.html",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/akudeki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
         }
       ]
     },
@@ -2689,67 +2669,6 @@
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jis0F2QZax-uSX38BtSw_-B",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "187892",
-      "title": {
-        "romaji": "ALL YOU NEED IS KILL",
-        "english": "ALL YOU NEED IS KILL",
-        "native": "ALL YOU NEED IS KILL"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Sci-Fi",
-          "Supernatural",
-          "Thriller"
-        ],
-        "episodes": 1,
-        "durationMin": 82,
-        "studios": [
-          "Studio 4°C"
-        ],
-        "siteUrl": "https://anilist.co/anime/187892"
-      },
-      "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-01-09",
-        "nextAiringEpisode": null
-      },
-      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://aynk-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/aynk_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/aynk_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://aynk-anime.com/en/",
-          "type": "INFO",
-          "language": "English"
         }
       ]
     },
@@ -2864,6 +2783,67 @@
           "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "187892",
+      "title": {
+        "romaji": "ALL YOU NEED IS KILL",
+        "english": "ALL YOU NEED IS KILL",
+        "native": "ALL YOU NEED IS KILL"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sci-Fi",
+          "Supernatural",
+          "Thriller"
+        ],
+        "episodes": 1,
+        "durationMin": 82,
+        "studios": [
+          "Studio 4°C"
+        ],
+        "siteUrl": "https://anilist.co/anime/187892"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "nextAiringEpisode": null
+      },
+      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/en/",
+          "type": "INFO",
+          "language": "English"
         }
       ]
     },
@@ -3143,7 +3123,7 @@
         "nextAiringEpisode": {
           "airingAtEpochSec": 1775922960,
           "episode": 13,
-          "timeUntilAiringSec": 1074801
+          "timeUntilAiringSec": 470038
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3261,7 +3241,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy",
           "Drama",
@@ -3279,11 +3259,7 @@
       "airing": {
         "startDate": "2026-01-11",
         "endDate": "2026-04-05",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775314800,
-          "episode": 13,
-          "timeUntilAiringSec": 466641
-        }
+        "nextAiringEpisode": null
       },
       "description": "After a traumatic incident ends his teaching career, Rei Hitoma is certain he hates humans. Yet when he sees a job for “a teacher who truly cares for their students,” he’s compelled to apply. Before he knows it, he’s hired—only to find out his students are demi-humans. What begins as a job becomes a journey for healing for both a teacher who’s lost faith in humanity and students who dream of it.<br> <br> (Source: Crunchyroll)",
       "links": [
@@ -3321,7 +3297,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy",
           "Fantasy"
@@ -3336,11 +3312,7 @@
       "airing": {
         "startDate": "2026-01-12",
         "endDate": "2026-03-30",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774881000,
-          "episode": 12,
-          "timeUntilAiringSec": 32841
-        }
+        "nextAiringEpisode": null
       },
       "description": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe? <br><br> (Source: Crunchyroll)",
       "links": [
@@ -3913,7 +3885,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Drama"
@@ -3928,11 +3900,7 @@
       "airing": {
         "startDate": "2026-01-11",
         "endDate": "2026-04-05",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775399400,
-          "episode": 12,
-          "timeUntilAiringSec": 551241
-        }
+        "nextAiringEpisode": null
       },
       "description": "The fire extinguishing samurai who stopped the great fire was called \"The fire-eating bird\". Matsunaga Gengo, once known as the \"Fire-eating Bird\", was the best fire-fighting samurai in Edo. He had resigned from the fire brigade for a reason but suddenly received an invitation to serve in the Shinjo clan.<br><br> The Shinjo clan's fire-fighting team had no money and no personnel and was looked down upon by those around them. With the encouragement of his wife, Miyuki, Gengo decides to rebuild the collapsed fire-fighting clan as its chairman. Gengo and his friends, all of whom have their own peculiarities, struggle to \"save any life\", despite being ridiculed as \"ragged steeplejacks\"(= the 'Boro-Tobi-Gumi'.), In Edo, a mysterious series of suspicious fires called \"foxfires\" continue. <br><br> An entertaining action drama opens, with the firefighters scrambling to save lives in the face of the approaching disaster! <br><br> (Source: Amuse Creative Studio)",
       "links": [
@@ -4052,9 +4020,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1775345400,
-          "episode": 10,
-          "timeUntilAiringSec": 497241
+          "airingAtEpochSec": 1775950200,
+          "episode": 11,
+          "timeUntilAiringSec": 497278
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4386,7 +4354,7 @@
         "nextAiringEpisode": {
           "airingAtEpochSec": 1775746800,
           "episode": 4,
-          "timeUntilAiringSec": 898641
+          "timeUntilAiringSec": 293878
         }
       },
       "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
@@ -4507,65 +4475,6 @@
       ]
     },
     {
-      "id": "200556",
-      "title": {
-        "romaji": "High School! Kimengumi (2026)",
-        "english": "High School! Kimengumi (2026)",
-        "native": "ハイスクール！奇面組 (2026)"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200556-TezRfCQCFLbA.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200556-TezRfCQCFLbA.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Seven"
-        ],
-        "siteUrl": "https://anilist.co/anime/200556"
-      },
-      "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-03-27",
-        "nextAiringEpisode": null
-      },
-      "description": "The wildly eccentric group, the Kimengumi, returns in the Reiwa era with their ultra-high-energy youth comedy!",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kimengumi_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://kimengumi.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@kimengumi_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/dp/B0G5HC4NG9/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "206425",
       "title": {
         "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
@@ -4621,6 +4530,65 @@
           "url": "https://twitter.com/anime_frieren",
           "type": "SOCIAL",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "200556",
+      "title": {
+        "romaji": "High School! Kimengumi (2026)",
+        "english": "High School! Kimengumi (2026)",
+        "native": "ハイスクール！奇面組 (2026)"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200556-TezRfCQCFLbA.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200556-TezRfCQCFLbA.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Seven"
+        ],
+        "siteUrl": "https://anilist.co/anime/200556"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-03-27",
+        "nextAiringEpisode": null
+      },
+      "description": "The wildly eccentric group, the Kimengumi, returns in the Reiwa era with their ultra-high-energy youth comedy!",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kimengumi_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://kimengumi.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@kimengumi_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/dp/B0G5HC4NG9/",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -4954,12 +4922,12 @@
       },
       "meta": {
         "format": "TV_SHORT",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Horror",
           "Supernatural"
         ],
-        "episodes": null,
+        "episodes": 13,
         "durationMin": 4,
         "studios": [
           "ILCA"
@@ -4968,12 +4936,8 @@
       },
       "airing": {
         "startDate": "2026-01-12",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775409600,
-          "episode": 13,
-          "timeUntilAiringSec": 561441
-        }
+        "endDate": "2026-04-06",
+        "nextAiringEpisode": null
       },
       "description": "Sixteenth season of <i>Yami Shibai</i>.",
       "links": [
@@ -5082,9 +5046,9 @@
         "startDate": "2026-01-10",
         "endDate": "2026-04-11",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1775257200,
-          "episode": 11,
-          "timeUntilAiringSec": 409041
+          "airingAtEpochSec": 1775862000,
+          "episode": 12,
+          "timeUntilAiringSec": 409078
         }
       },
       "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i><br><br> Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.<br><br> What is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.<br><br> What is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.<br><br> (Source: cf-vanguard.com)",
@@ -5118,6 +5082,74 @@
           "url": "https://anime.cf-vanguard.com/vgd/",
           "type": "INFO",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "204656",
+      "title": {
+        "romaji": "mofusand",
+        "english": "",
+        "native": "mofusand "
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b204656-KXjxVB4bBhl8.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Slice of Life"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [
+          "Monster's Egg"
+        ],
+        "siteUrl": "https://anilist.co/anime/204656"
+      },
+      "airing": {
+        "startDate": "2025-12-22",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1775602800,
+          "episode": 14,
+          "timeUntilAiringSec": 149878
+        }
+      },
+      "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/mofusand_anime/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://mofusand-anime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@qtory_official",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/qtory.official/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLRj9zPfLhyY2BfhHtx01IzU9UU3Thjrff",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -5177,74 +5209,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "204656",
-      "title": {
-        "romaji": "mofusand",
-        "english": "",
-        "native": "mofusand "
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b204656-KXjxVB4bBhl8.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Slice of Life"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [
-          "Monster's Egg"
-        ],
-        "siteUrl": "https://anilist.co/anime/204656"
-      },
-      "airing": {
-        "startDate": "2025-12-22",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1774998000,
-          "episode": 13,
-          "timeUntilAiringSec": 149841
-        }
-      },
-      "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/mofusand_anime/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://mofusand-anime.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@qtory_official",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/qtory.official/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLRj9zPfLhyY2BfhHtx01IzU9UU3Thjrff",
           "type": "STREAMING",
           "language": null
         }
@@ -5473,11 +5437,11 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 2,
         "studios": [
           "DLE"
@@ -5486,12 +5450,8 @@
       },
       "airing": {
         "startDate": "2026-01-08",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775080800,
-          "episode": 13,
-          "timeUntilAiringSec": 232641
-        }
+        "endDate": "2026-03-26",
+        "nextAiringEpisode": null
       },
       "description": "Osamu Tezuka's classic manga \"Black Jack\" has been adapted into a comedy anime by creator SoroTani, the man behind the YouTube channel \"SoroTani no Animetchi,\" which has been viewed over 1 billion times.",
       "links": [
@@ -5699,9 +5659,9 @@
         "startDate": "2026-01-06",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1774908000,
-          "episode": 12,
-          "timeUntilAiringSec": 59841
+          "airingAtEpochSec": 1775512800,
+          "episode": 13,
+          "timeUntilAiringSec": 59878
         }
       },
       "description": "A new season of <i>Taka no Tsume</i> celebrating the 20th anniversary of the series.",
