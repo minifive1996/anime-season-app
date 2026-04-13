@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T05:22:02.534Z",
+  "generatedAt": "2026-04-13T05:39:16.613Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -617,9 +617,9 @@
     {
       "id": "190327",
       "title": {
-        "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
-        "english": "STEEL BALL RUN JoJo's Bizarre Adventure",
-        "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン"
+        "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
+        "english": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+        "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
@@ -628,16 +628,17 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
           "Drama",
           "Mystery",
+          "Sports",
           "Supernatural"
         ],
-        "episodes": null,
-        "durationMin": null,
+        "episodes": 1,
+        "durationMin": 47,
         "studios": [
           "David Production"
         ],
@@ -645,10 +646,10 @@
       },
       "airing": {
         "startDate": "2026-03-19",
-        "endDate": null,
+        "endDate": "2026-03-19",
         "nextAiringEpisode": null
       },
-      "description": "The seventh story arc of the long-running <i>JoJo's Bizarre Adventure</i> series.<br><br> It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize. <br><br> Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. <br><br> He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.<br><br> Each having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.<br><br> (Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br> <i>Note: The first episode aired with a runtime of 47 minutes.</i>",
+      "description": "The beginning of the seventh story arc in the long-running <i>JoJo's Bizarre Adventure</i> series.<br><br> It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the 4,000 miles of grueling adventure.<br><br> (Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br>",
       "links": [
         {
           "site": "Official Site",
@@ -892,6 +893,59 @@
       ]
     },
     {
+      "id": "177385",
+      "title": {
+        "romaji": "Ikoku Nikki",
+        "english": "Journal with Witch",
+        "native": "違国日記"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Shuka"
+        ],
+        "siteUrl": "https://anilist.co/anime/177385"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/ikoku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://ikoku-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "176276",
       "title": {
         "romaji": "Mato Seihei no Slave 2",
@@ -962,59 +1016,6 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/1x40va3v1tx",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "177385",
-      "title": {
-        "romaji": "Ikoku Nikki",
-        "english": "Journal with Witch",
-        "native": "違国日記"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Shuka"
-        ],
-        "siteUrl": "https://anilist.co/anime/177385"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/ikoku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://ikoku-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
           "type": "STREAMING",
           "language": null
         }
@@ -1472,6 +1473,60 @@
       ]
     },
     {
+      "id": "185262",
+      "title": {
+        "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Yokohama Animation Lab"
+        ],
+        "siteUrl": "https://anilist.co/anime/185262"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hellmode-anime.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hellmode_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "163144",
       "title": {
         "romaji": "TRIGUN STARGAZE",
@@ -1527,60 +1582,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "185262",
-      "title": {
-        "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
-        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Yokohama Animation Lab"
-        ],
-        "siteUrl": "https://anilist.co/anime/185262"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hellmode-anime.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hellmode_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34351",
           "type": "STREAMING",
           "language": null
         }
@@ -1860,62 +1861,6 @@
       ]
     },
     {
-      "id": "191718",
-      "title": {
-        "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-        "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-        "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Horror"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "A.C.G.T."
-        ],
-        "siteUrl": "https://anilist.co/anime/191718"
-      },
-      "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-03-27",
-        "nextAiringEpisode": null
-      },
-      "description": "Flum has been chosen by God to be in the hero's party despite having stats of zero across the board. All she has is the \"Reversal\" ability that she still doesn't fully understand. Predictably, she proves useless in battle, but she refuses to give up and continues to do all she can for the party. Her partymate Jean, a genius and renowned sage, picks on her at every opportunity and eventually sells her off into slavery. Even as a slave, she's treated as incompetent and persecuted, and ultimately thrown to monsters as bait for her master's entertainment. Flum is left with two options: take up the cursed sword that inevitably brings death to its wielder, or be eaten by monsters. The moment she chooses to fight back is when the \"Reversal\" of her life begins... <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://omagoto.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/omagoto_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "170110",
       "title": {
         "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
@@ -1977,6 +1922,62 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/watch?v=ZdzoybAIuxI",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "191718",
+      "title": {
+        "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+        "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+        "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "A.C.G.T."
+        ],
+        "siteUrl": "https://anilist.co/anime/191718"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-03-27",
+        "nextAiringEpisode": null
+      },
+      "description": "Flum has been chosen by God to be in the hero's party despite having stats of zero across the board. All she has is the \"Reversal\" ability that she still doesn't fully understand. Predictably, she proves useless in battle, but she refuses to give up and continues to do all she can for the party. Her partymate Jean, a genius and renowned sage, picks on her at every opportunity and eventually sells her off into slavery. Even as a slave, she's treated as incompetent and persecuted, and ultimately thrown to monsters as bait for her master's entertainment. Flum is left with two options: take up the cursed sword that inevitably brings death to its wielder, or be eaten by monsters. The moment she chooses to fight back is when the \"Reversal\" of her life begins... <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://omagoto.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/omagoto_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword",
           "type": "STREAMING",
           "language": null
         }
@@ -2223,60 +2224,6 @@
       ]
     },
     {
-      "id": "166521",
-      "title": {
-        "romaji": "Golden Kamuy: Saishuushou",
-        "english": "Golden Kamuy Final Season",
-        "native": "ゴールデンカムイ 最終章"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Brain's Base"
-        ],
-        "siteUrl": "https://anilist.co/anime/166521"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "The fifth season of <i>Golden Kamuy</i>.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/kamuy_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://kamuy-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183661",
       "title": {
         "romaji": "Isekai no Sata wa Shachiku Shidai",
@@ -2380,6 +2327,60 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "166521",
+      "title": {
+        "romaji": "Golden Kamuy: Saishuushou",
+        "english": "Golden Kamuy Final Season",
+        "native": "ゴールデンカムイ 最終章"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Brain's Base"
+        ],
+        "siteUrl": "https://anilist.co/anime/166521"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "The fifth season of <i>Golden Kamuy</i>.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/kamuy_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://kamuy-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
           "type": "STREAMING",
           "language": null
         }
@@ -2553,60 +2554,6 @@
       ]
     },
     {
-      "id": "194742",
-      "title": {
-        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
-        "english": "The Demon King's Daughter is Too Kind!!",
-        "native": "魔王の娘は優しすぎる!!"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "EMT Squared"
-        ],
-        "siteUrl": "https://anilist.co/anime/194742"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-17",
-        "nextAiringEpisode": null
-      },
-      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://maomusu.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/maomusu_info",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183660",
       "title": {
         "romaji": "Kaya-chan wa Kowakunai",
@@ -2673,60 +2620,54 @@
       ]
     },
     {
-      "id": "189275",
+      "id": "194742",
       "title": {
-        "romaji": "Medalist 2nd Season",
-        "english": "Medalist Season 2",
-        "native": "メダリスト 第2期"
+        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
+        "english": "The Demon King's Daughter is Too Kind!!",
+        "native": "魔王の娘は優しすぎる!!"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189275-eHsK0lNnFfXH.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
       },
       "meta": {
-        "format": "TV",
+        "format": "ONA",
         "status": "FINISHED",
         "genres": [
-          "Drama",
-          "Psychological",
-          "Sports"
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
         ],
-        "episodes": 9,
-        "durationMin": 23,
+        "episodes": 12,
+        "durationMin": 24,
         "studios": [
-          "ENGI"
+          "EMT Squared"
         ],
-        "siteUrl": "https://anilist.co/anime/189275"
+        "siteUrl": "https://anilist.co/anime/194742"
       },
       "airing": {
-        "startDate": "2026-01-25",
-        "endDate": "2026-03-22",
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-17",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Medalist.</i>",
+      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://medalist-pr.com/",
+          "url": "https://maomusu.com/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
           "site": "Twitter",
-          "url": "https://x.com/medalist_PR",
+          "url": "https://x.com/maomusu_info",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Hulu",
-          "url": "https://www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Disney Plus",
-          "url": "https://www.disneyplus.com/series/medalist/4LgC0zEd5JEx",
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
           "type": "STREAMING",
           "language": null
         }
@@ -2787,63 +2728,62 @@
       ]
     },
     {
-      "id": "187892",
+      "id": "189275",
       "title": {
-        "romaji": "ALL YOU NEED IS KILL",
-        "english": "ALL YOU NEED IS KILL",
-        "native": "ALL YOU NEED IS KILL"
+        "romaji": "Medalist 2nd Season",
+        "english": "Medalist Season 2",
+        "native": "メダリスト 第2期"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189275-eHsK0lNnFfXH.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg"
       },
       "meta": {
-        "format": "MOVIE",
+        "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Action",
-          "Sci-Fi",
-          "Supernatural",
-          "Thriller"
+          "Drama",
+          "Psychological",
+          "Sports"
         ],
-        "episodes": 1,
-        "durationMin": 82,
+        "episodes": 9,
+        "durationMin": 23,
         "studios": [
-          "Studio 4°C"
+          "ENGI"
         ],
-        "siteUrl": "https://anilist.co/anime/187892"
+        "siteUrl": "https://anilist.co/anime/189275"
       },
       "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-01-09",
+        "startDate": "2026-01-25",
+        "endDate": "2026-03-22",
         "nextAiringEpisode": null
       },
-      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
+      "description": "The second season of <i>Medalist.</i>",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://aynk-anime.com/",
+          "url": "https://medalist-pr.com/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
           "site": "Twitter",
-          "url": "https://x.com/aynk_anime",
+          "url": "https://x.com/medalist_PR",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/aynk_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
+          "site": "Hulu",
+          "url": "https://www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8",
+          "type": "STREAMING",
+          "language": null
         },
         {
-          "site": "Official Site",
-          "url": "https://aynk-anime.com/en/",
-          "type": "INFO",
-          "language": "English"
+          "site": "Disney Plus",
+          "url": "https://www.disneyplus.com/series/medalist/4LgC0zEd5JEx",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -2905,6 +2845,67 @@
           "url": "https://www.tiktok.com/@bst_anime",
           "type": "SOCIAL",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "187892",
+      "title": {
+        "romaji": "ALL YOU NEED IS KILL",
+        "english": "ALL YOU NEED IS KILL",
+        "native": "ALL YOU NEED IS KILL"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sci-Fi",
+          "Supernatural",
+          "Thriller"
+        ],
+        "episodes": 1,
+        "durationMin": 82,
+        "studios": [
+          "Studio 4°C"
+        ],
+        "siteUrl": "https://anilist.co/anime/187892"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "nextAiringEpisode": null
+      },
+      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/en/",
+          "type": "INFO",
+          "language": "English"
         }
       ]
     },
@@ -3121,9 +3122,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1775922960,
-          "episode": 13,
-          "timeUntilAiringSec": 470038
+          "airingAtEpochSec": 1776527760,
+          "episode": 14,
+          "timeUntilAiringSec": 469004
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3419,6 +3420,59 @@
       ]
     },
     {
+      "id": "176509",
+      "title": {
+        "romaji": "BAKI-DOU",
+        "english": "BAKI-DOU: The Invincible Samurai",
+        "native": "刃牙道"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sports"
+        ],
+        "episodes": 13,
+        "durationMin": 25,
+        "studios": [
+          "TMS Entertainment"
+        ],
+        "siteUrl": "https://anilist.co/anime/176509"
+      },
+      "airing": {
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "nextAiringEpisode": null
+      },
+      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/baki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://baki-anime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81922765",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "198373",
       "title": {
         "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
@@ -3470,59 +3524,6 @@
           "url": "https://www.tiktok.com/@ansatsu_anime",
           "type": "SOCIAL",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "176509",
-      "title": {
-        "romaji": "BAKI-DOU",
-        "english": "BAKI-DOU: The Invincible Samurai",
-        "native": "刃牙道"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Sports"
-        ],
-        "episodes": 13,
-        "durationMin": 25,
-        "studios": [
-          "TMS Entertainment"
-        ],
-        "siteUrl": "https://anilist.co/anime/176509"
-      },
-      "airing": {
-        "startDate": "2026-02-26",
-        "endDate": "2026-02-26",
-        "nextAiringEpisode": null
-      },
-      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/baki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://baki-anime.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81922765",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -4020,9 +4021,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1775950200,
-          "episode": 11,
-          "timeUntilAiringSec": 497278
+          "airingAtEpochSec": 1776555000,
+          "episode": 12,
+          "timeUntilAiringSec": 496244
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4274,6 +4275,53 @@
       ]
     },
     {
+      "id": "188034",
+      "title": {
+        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+        "english": "",
+        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-hlwafdUZhjwD.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-hlwafdUZhjwD.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 4,
+        "durationMin": 72,
+        "studios": [
+          "P.A.WORKS",
+          "Actas"
+        ],
+        "siteUrl": "https://anilist.co/anime/188034"
+      },
+      "airing": {
+        "startDate": "2025-12-26",
+        "endDate": "2026-04-10",
+        "nextAiringEpisode": null
+      },
+      "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/garupan_love2",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://gup-mottolovelove.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "189956",
       "title": {
         "romaji": "Kusunoki no Bannin",
@@ -4318,57 +4366,6 @@
           "site": "Twitter",
           "url": "https://x.com/movie_kusunoki",
           "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "188034",
-      "title": {
-        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
-        "english": "",
-        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-hlwafdUZhjwD.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-hlwafdUZhjwD.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 4,
-        "durationMin": 72,
-        "studios": [
-          "P.A.WORKS",
-          "Actas"
-        ],
-        "siteUrl": "https://anilist.co/anime/188034"
-      },
-      "airing": {
-        "startDate": "2025-12-26",
-        "endDate": "2026-04-10",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775746800,
-          "episode": 4,
-          "timeUntilAiringSec": 293878
-        }
-      },
-      "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/garupan_love2",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gup-mottolovelove.jp/",
-          "type": "INFO",
           "language": "Japanese"
         }
       ]
@@ -5027,7 +5024,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Adventure",
@@ -5045,11 +5042,7 @@
       "airing": {
         "startDate": "2026-01-10",
         "endDate": "2026-04-11",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775862000,
-          "episode": 12,
-          "timeUntilAiringSec": 409078
-        }
+        "nextAiringEpisode": null
       },
       "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i><br><br> Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.<br><br> What is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.<br><br> What is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.<br><br> (Source: cf-vanguard.com)",
       "links": [
@@ -5114,9 +5107,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1775602800,
-          "episode": 14,
-          "timeUntilAiringSec": 149878
+          "airingAtEpochSec": 1776178800,
+          "episode": 15,
+          "timeUntilAiringSec": 120044
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5658,11 +5651,7 @@
       "airing": {
         "startDate": "2026-01-06",
         "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1775512800,
-          "episode": 13,
-          "timeUntilAiringSec": 59878
-        }
+        "nextAiringEpisode": null
       },
       "description": "A new season of <i>Taka no Tsume</i> celebrating the 20th anniversary of the series.",
       "links": [
