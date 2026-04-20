@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T05:39:16.613Z",
+  "generatedAt": "2026-04-20T05:39:02.332Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1160,55 +1160,6 @@
       ]
     },
     {
-      "id": "182206",
-      "title": {
-        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "episodes": 1,
-        "durationMin": null,
-        "studios": [
-          "8-bit"
-        ],
-        "siteUrl": "https://anilist.co/anime/182206"
-      },
-      "airing": {
-        "startDate": "2026-02-27",
-        "endDate": "2026-02-27",
-        "nextAiringEpisode": null
-      },
-      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/ten_sura_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://movie02.ten-sura.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "187942",
       "title": {
         "romaji": "Mayonaka Heart Tune",
@@ -1264,6 +1215,55 @@
           "url": "https://www.bilibili.tv/en/media/2290283",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "182206",
+      "title": {
+        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "episodes": 1,
+        "durationMin": null,
+        "studios": [
+          "8-bit"
+        ],
+        "siteUrl": "https://anilist.co/anime/182206"
+      },
+      "airing": {
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "nextAiringEpisode": null
+      },
+      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/ten_sura_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://movie02.ten-sura.com/",
+          "type": "INFO",
+          "language": "Japanese"
         }
       ]
     },
@@ -2279,60 +2279,6 @@
       ]
     },
     {
-      "id": "194028",
-      "title": {
-        "romaji": "Kirei ni Shitemoraemasu ka.",
-        "english": "Wash It All Away",
-        "native": "綺麗にしてもらえますか。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Okuruto Noboru"
-        ],
-        "siteUrl": "https://anilist.co/anime/194028"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
-        "nextAiringEpisode": null
-      },
-      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://kinishite.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kinishite_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "166521",
       "title": {
         "romaji": "Golden Kamuy: Saishuushou",
@@ -2381,6 +2327,115 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187941",
+      "title": {
+        "romaji": "Tensei Shitara Dragon no Tamago Datta",
+        "english": "Reincarnated as a Dragon Hatchling",
+        "native": "転生したらドラゴンの卵だった"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "GA-CREW",
+          "Felix Film"
+        ],
+        "siteUrl": "https://anilist.co/anime/187941"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://doratama-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/doratama_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34352",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "194028",
+      "title": {
+        "romaji": "Kirei ni Shitemoraemasu ka.",
+        "english": "Wash It All Away",
+        "native": "綺麗にしてもらえますか。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Okuruto Noboru"
+        ],
+        "siteUrl": "https://anilist.co/anime/194028"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
+      },
+      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://kinishite.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kinishite_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
           "type": "STREAMING",
           "language": null
         }
@@ -2440,61 +2495,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187941",
-      "title": {
-        "romaji": "Tensei Shitara Dragon no Tamago Datta",
-        "english": "Reincarnated as a Dragon Hatchling",
-        "native": "転生したらドラゴンの卵だった"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "GA-CREW",
-          "Felix Film"
-        ],
-        "siteUrl": "https://anilist.co/anime/187941"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://doratama-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/doratama_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34352",
           "type": "STREAMING",
           "language": null
         }
@@ -3122,9 +3122,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1776527760,
-          "episode": 14,
-          "timeUntilAiringSec": 469004
+          "airingAtEpochSec": 1777132560,
+          "episode": 15,
+          "timeUntilAiringSec": 469018
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3932,6 +3932,69 @@
       ]
     },
     {
+      "id": "202957",
+      "title": {
+        "romaji": "Meitantei Precure!",
+        "english": "Star Detective Precure!",
+        "native": "名探偵プリキュア！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Mahou Shoujo",
+          "Mystery"
+        ],
+        "episodes": 51,
+        "durationMin": 24,
+        "studios": [
+          "Toei Animation"
+        ],
+        "siteUrl": "https://anilist.co/anime/202957"
+      },
+      "airing": {
+        "startDate": "2026-02-01",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1777159800,
+          "episode": 13,
+          "timeUntilAiringSec": 496258
+        }
+      },
+      "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
+          "type": "INFO",
+          "language": null
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00369409",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/@precure/videos",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/TVanime_precure",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "197474",
       "title": {
         "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
@@ -3987,69 +4050,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/@gintama_channel_official",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "202957",
-      "title": {
-        "romaji": "Meitantei Precure!",
-        "english": "Star Detective Precure!",
-        "native": "名探偵プリキュア！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ],
-        "episodes": 51,
-        "durationMin": 24,
-        "studios": [
-          "Toei Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/202957"
-      },
-      "airing": {
-        "startDate": "2026-02-01",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1776555000,
-          "episode": 12,
-          "timeUntilAiringSec": 496244
-        }
-      },
-      "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
-          "type": "INFO",
-          "language": null
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00369409",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/@precure/videos",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/TVanime_precure",
-          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -4165,7 +4165,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-fLWqssc0gPI4.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191967-fLWqssc0gPI4.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191967-4CuO4alxzNMR.jpg"
       },
       "meta": {
         "format": "TV",
@@ -4761,46 +4761,53 @@
       ]
     },
     {
-      "id": "203127",
+      "id": "204432",
       "title": {
-        "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
+        "romaji": "CHOPPER's",
         "english": "",
-        "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」"
+        "native": "CHOPPER's"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203127-cJqnhI0w5WEk.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204432-h8U4bVnSU6bM.png",
         "banner": ""
       },
       "meta": {
-        "format": "OVA",
+        "format": "TV_SHORT",
         "status": "FINISHED",
         "genres": [
           "Slice of Life"
         ],
-        "episodes": 1,
-        "durationMin": 6,
+        "episodes": 12,
+        "durationMin": 1,
         "studios": [
-          "Actas"
+          "STUDIO EIGHTCOLORS",
+          "Dandelion Animation Studio"
         ],
-        "siteUrl": "https://anilist.co/anime/203127"
+        "siteUrl": "https://anilist.co/anime/204432"
       },
       "airing": {
-        "startDate": "2026-01-28",
-        "endDate": "2026-01-28",
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
         "nextAiringEpisode": null
       },
-      "description": "An anime short included with the <i>Princess Principal: Crown Handler Chapter 4</i> Blu-ray release.",
+      "description": "",
       "links": [
         {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/choppers_op/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
           "site": "Twitter",
-          "url": "https://twitter.com/pripri_anime",
+          "url": "https://x.com/choppers_op",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://pripri-anime.jp/",
+          "url": "https://choppers.onepiece-base.com",
           "type": "INFO",
           "language": "Japanese"
         }
@@ -4856,50 +4863,46 @@
       ]
     },
     {
-      "id": "204432",
+      "id": "203127",
       "title": {
-        "romaji": "CHOPPER's",
+        "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
         "english": "",
-        "native": "CHOPPER's"
+        "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204432-h8U4bVnSU6bM.png",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203127-cJqnhI0w5WEk.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
         "banner": ""
       },
       "meta": {
-        "format": "TV_SHORT",
+        "format": "OVA",
         "status": "FINISHED",
         "genres": [
           "Slice of Life"
         ],
-        "episodes": 12,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/204432"
+        "episodes": 1,
+        "durationMin": 6,
+        "studios": [
+          "Actas"
+        ],
+        "siteUrl": "https://anilist.co/anime/203127"
       },
       "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
+        "startDate": "2026-01-28",
+        "endDate": "2026-01-28",
         "nextAiringEpisode": null
       },
-      "description": "",
+      "description": "An anime short included with the <i>Princess Principal: Crown Handler Chapter 4</i> Blu-ray release.",
       "links": [
         {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/choppers_op/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
           "site": "Twitter",
-          "url": "https://x.com/choppers_op",
+          "url": "https://twitter.com/pripri_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://choppers.onepiece-base.com",
+          "url": "https://pripri-anime.jp/",
           "type": "INFO",
           "language": "Japanese"
         }
@@ -5107,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1776178800,
-          "episode": 15,
-          "timeUntilAiringSec": 120044
+          "airingAtEpochSec": 1776812400,
+          "episode": 16,
+          "timeUntilAiringSec": 148858
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5142,6 +5145,52 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLRj9zPfLhyY2BfhHtx01IzU9UU3Thjrff",
           "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187375",
+      "title": {
+        "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+        "english": "",
+        "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187375-0Vquhap6D5zX.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187375-0Vquhap6D5zX.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "OVA",
+        "status": "FINISHED",
+        "genres": [
+          "Music"
+        ],
+        "episodes": 1,
+        "durationMin": null,
+        "studios": [
+          "Shirogumi"
+        ],
+        "siteUrl": "https://anilist.co/anime/187375"
+      },
+      "airing": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "nextAiringEpisode": null
+      },
+      "description": "",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://millionlive-anime.idolmaster-official.jp/",
+          "type": "INFO",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/imasml_765PRO",
+          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -5203,52 +5252,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187375",
-      "title": {
-        "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
-        "english": "",
-        "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187375-0Vquhap6D5zX.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187375-0Vquhap6D5zX.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "OVA",
-        "status": "FINISHED",
-        "genres": [
-          "Music"
-        ],
-        "episodes": 1,
-        "durationMin": null,
-        "studios": [
-          "Shirogumi"
-        ],
-        "siteUrl": "https://anilist.co/anime/187375"
-      },
-      "airing": {
-        "startDate": "2026-03-27",
-        "endDate": "2026-03-27",
-        "nextAiringEpisode": null
-      },
-      "description": "",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://millionlive-anime.idolmaster-official.jp/",
-          "type": "INFO",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/imasml_765PRO",
-          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -5637,11 +5640,11 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
-        "episodes": null,
+        "episodes": 12,
         "durationMin": 5,
         "studios": [
           "DLE"
@@ -5650,7 +5653,7 @@
       },
       "airing": {
         "startDate": "2026-01-06",
-        "endDate": null,
+        "endDate": "2026-03-25",
         "nextAiringEpisode": null
       },
       "description": "A new season of <i>Taka no Tsume</i> celebrating the 20th anniversary of the series.",
