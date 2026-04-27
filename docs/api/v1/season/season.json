@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T05:39:02.332Z",
+  "generatedAt": "2026-04-27T05:52:01.946Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1419,60 +1419,6 @@
       ]
     },
     {
-      "id": "192507",
-      "title": {
-        "romaji": "Uruwashi no Yoi no Tsuki",
-        "english": "In the Clear Moonlit Dusk",
-        "native": "うるわしの宵の月"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "East Fish Studio",
-          "Atelier Peuplier"
-        ],
-        "siteUrl": "https://anilist.co/anime/192507"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Yoi Takiguchi has long legs, a deep voice, and a handsome face…in other words, Yoi is such a good-looking guy that most people don’t notice or care that she is, in fact, a girl. Indeed, she’s had the nickname “Prince” for as long as she can remember. That is, until she met Ichimura-senpai…the only person who really seemed to see her for herself. To her surprise, she’s not sure how to handle this new relationship, especially when her newfound friend is a prince himself (and a guy prince, at that). The story of the two high school princes starts here!<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://uruwashi-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/uruwashi_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "185262",
       "title": {
         "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -1521,6 +1467,60 @@
         {
           "site": "HIDIVE",
           "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "192507",
+      "title": {
+        "romaji": "Uruwashi no Yoi no Tsuki",
+        "english": "In the Clear Moonlit Dusk",
+        "native": "うるわしの宵の月"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "East Fish Studio",
+          "Atelier Peuplier"
+        ],
+        "siteUrl": "https://anilist.co/anime/192507"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Yoi Takiguchi has long legs, a deep voice, and a handsome face…in other words, Yoi is such a good-looking guy that most people don’t notice or care that she is, in fact, a girl. Indeed, she’s had the nickname “Prince” for as long as she can remember. That is, until she met Ichimura-senpai…the only person who really seemed to see her for herself. To her surprise, she’s not sure how to handle this new relationship, especially when her newfound friend is a prince himself (and a guy prince, at that). The story of the two high school princes starts here!<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://uruwashi-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/uruwashi_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
           "type": "STREAMING",
           "language": null
         }
@@ -2224,6 +2224,61 @@
       ]
     },
     {
+      "id": "187941",
+      "title": {
+        "romaji": "Tensei Shitara Dragon no Tamago Datta",
+        "english": "Reincarnated as a Dragon Hatchling",
+        "native": "転生したらドラゴンの卵だった"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "GA-CREW",
+          "Felix Film"
+        ],
+        "siteUrl": "https://anilist.co/anime/187941"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://doratama-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/doratama_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34352",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "183661",
       "title": {
         "romaji": "Isekai no Sata wa Shachiku Shidai",
@@ -2279,109 +2334,59 @@
       ]
     },
     {
-      "id": "166521",
+      "id": "199112",
       "title": {
-        "romaji": "Golden Kamuy: Saishuushou",
-        "english": "Golden Kamuy Final Season",
-        "native": "ゴールデンカムイ 最終章"
+        "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
+        "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
+        "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199112-WyGPtcAI5QZp.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-WyGPtcAI5QZp.jpg",
+        "banner": ""
       },
       "meta": {
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
+          "Comedy",
+          "Romance"
         ],
-        "episodes": 13,
+        "episodes": 5,
         "durationMin": 24,
         "studios": [
-          "Brain's Base"
+          "studio MOTHER"
         ],
-        "siteUrl": "https://anilist.co/anime/166521"
+        "siteUrl": "https://anilist.co/anime/199112"
       },
       "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
         "nextAiringEpisode": null
       },
-      "description": "The fifth season of <i>Golden Kamuy</i>.",
+      "description": "\"I want to learn to love myself—just the way I am!\" Renako Amaori, a former gloomy and socially awkward girl, reinvented herself for high school and successfully made her debut. She even managed to join the top-tier popular group... only to be suddenly confessed to by two of its brightest stars?! One is the school’s ultimate prince, Mai Oduka. The other, the beloved angel of the campus, Ajisai Sena. There’s no way she can handle both their affections—no freaking way! <br><br> While still struggling to give them an answer, Renako agrees to help her friend Kaho by joining a cosplay event. It’s the perfect excuse to delay her reply… or so she thought. But as she witnesses Kaho's passion firsthand, something begins to stir inside her. What is it that she truly wants? What is she truly searching for? <br><br> Can she really not become someone’s lover? Or has that \"no freaking way\"... not been so impossible after all? <br><br> (Source: REMOW) <br><br> <i>Note: The anime first premiered in theaters across Japan on November 21, 2025. It was later split into 5 parts on TV, labelled as episodes 13-17.</i>",
       "links": [
         {
-          "site": "Twitter",
-          "url": "https://twitter.com/kamuy_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
           "site": "Official Site",
-          "url": "https://kamuy-anime.com/",
+          "url": "https://www.watanare-anime.com/next-shine/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
+          "site": "Twitter",
+          "url": "https://x.com/watanare_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2141768",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "187941",
-      "title": {
-        "romaji": "Tensei Shitara Dragon no Tamago Datta",
-        "english": "Reincarnated as a Dragon Hatchling",
-        "native": "転生したらドラゴンの卵だった"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "GA-CREW",
-          "Felix Film"
-        ],
-        "siteUrl": "https://anilist.co/anime/187941"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://doratama-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
         },
         {
-          "site": "Twitter",
-          "url": "https://x.com/doratama_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34352",
+          "site": "YouTube",
+          "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
           "type": "STREAMING",
           "language": null
         }
@@ -2442,59 +2447,54 @@
       ]
     },
     {
-      "id": "199112",
+      "id": "166521",
       "title": {
-        "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
-        "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
-        "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜"
+        "romaji": "Golden Kamuy: Saishuushou",
+        "english": "Golden Kamuy Final Season",
+        "native": "ゴールデンカムイ 最終章"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199112-WyGPtcAI5QZp.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-WyGPtcAI5QZp.jpg",
-        "banner": ""
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
       },
       "meta": {
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Comedy",
-          "Romance"
+          "Action",
+          "Adventure",
+          "Comedy"
         ],
-        "episodes": 5,
+        "episodes": 13,
         "durationMin": 24,
         "studios": [
-          "studio MOTHER"
+          "Brain's Base"
         ],
-        "siteUrl": "https://anilist.co/anime/199112"
+        "siteUrl": "https://anilist.co/anime/166521"
       },
       "airing": {
-        "startDate": "2026-01-01",
-        "endDate": "2026-01-01",
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
         "nextAiringEpisode": null
       },
-      "description": "\"I want to learn to love myself—just the way I am!\" Renako Amaori, a former gloomy and socially awkward girl, reinvented herself for high school and successfully made her debut. She even managed to join the top-tier popular group... only to be suddenly confessed to by two of its brightest stars?! One is the school’s ultimate prince, Mai Oduka. The other, the beloved angel of the campus, Ajisai Sena. There’s no way she can handle both their affections—no freaking way! <br><br> While still struggling to give them an answer, Renako agrees to help her friend Kaho by joining a cosplay event. It’s the perfect excuse to delay her reply… or so she thought. But as she witnesses Kaho's passion firsthand, something begins to stir inside her. What is it that she truly wants? What is she truly searching for? <br><br> Can she really not become someone’s lover? Or has that \"no freaking way\"... not been so impossible after all? <br><br> (Source: REMOW) <br><br> <i>Note: The anime first premiered in theaters across Japan on November 21, 2025. It was later split into 5 parts on TV, labelled as episodes 13-17.</i>",
+      "description": "The fifth season of <i>Golden Kamuy</i>.",
       "links": [
         {
-          "site": "Official Site",
-          "url": "https://www.watanare-anime.com/next-shine/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
           "site": "Twitter",
-          "url": "https://x.com/watanare_anime",
+          "url": "https://twitter.com/kamuy_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2141768",
-          "type": "STREAMING",
-          "language": null
+          "site": "Official Site",
+          "url": "https://kamuy-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
         },
         {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
           "type": "STREAMING",
           "language": null
         }
@@ -3099,7 +3099,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg"
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
       },
       "meta": {
         "format": "TV",
@@ -3122,9 +3122,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1777132560,
-          "episode": 15,
-          "timeUntilAiringSec": 469018
+          "airingAtEpochSec": 1777737360,
+          "episode": 16,
+          "timeUntilAiringSec": 468239
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3873,6 +3873,69 @@
       ]
     },
     {
+      "id": "202957",
+      "title": {
+        "romaji": "Meitantei Precure!",
+        "english": "Star Detective Precure!",
+        "native": "名探偵プリキュア！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Mahou Shoujo",
+          "Mystery"
+        ],
+        "episodes": 51,
+        "durationMin": 24,
+        "studios": [
+          "Toei Animation"
+        ],
+        "siteUrl": "https://anilist.co/anime/202957"
+      },
+      "airing": {
+        "startDate": "2026-02-01",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1777764600,
+          "episode": 14,
+          "timeUntilAiringSec": 495479
+        }
+      },
+      "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
+          "type": "INFO",
+          "language": null
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00369409",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/@precure/videos",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/TVanime_precure",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "187062",
       "title": {
         "romaji": "Hikuidori",
@@ -3927,69 +3990,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jgg8qGQKMckY8CM8ewbQAFo",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "202957",
-      "title": {
-        "romaji": "Meitantei Precure!",
-        "english": "Star Detective Precure!",
-        "native": "名探偵プリキュア！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ],
-        "episodes": 51,
-        "durationMin": 24,
-        "studios": [
-          "Toei Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/202957"
-      },
-      "airing": {
-        "startDate": "2026-02-01",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1777159800,
-          "episode": 13,
-          "timeUntilAiringSec": 496258
-        }
-      },
-      "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
-          "type": "INFO",
-          "language": null
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00369409",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/@precure/videos",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/TVanime_precure",
-          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -5110,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1776812400,
-          "episode": 16,
-          "timeUntilAiringSec": 148858
+          "airingAtEpochSec": 1777417200,
+          "episode": 17,
+          "timeUntilAiringSec": 148079
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5621,6 +5621,12 @@
         {
           "site": "Twitter",
           "url": "https://x.com/yanineko_anime/status/2035370854242980091",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2047136122401436078",
           "type": "SOCIAL",
           "language": null
         }
