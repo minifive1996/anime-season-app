@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T05:52:01.946Z",
+  "generatedAt": "2026-05-04T06:10:44.343Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -503,7 +503,7 @@
         "episodes": 13,
         "durationMin": 24,
         "studios": [
-          "David Production"
+          "david production"
         ],
         "siteUrl": "https://anilist.co/anime/179062"
       },
@@ -640,7 +640,7 @@
         "episodes": 1,
         "durationMin": 47,
         "studios": [
-          "David Production"
+          "david production"
         ],
         "siteUrl": "https://anilist.co/anime/190327"
       },
@@ -1808,59 +1808,6 @@
       ]
     },
     {
-      "id": "177679",
-      "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "BELLNOX FILMS"
-        ],
-        "siteUrl": "https://anilist.co/anime/177679"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
-        "nextAiringEpisode": null
-      },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://darwinsincident.net/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "170110",
       "title": {
         "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
@@ -1922,6 +1869,59 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/watch?v=ZdzoybAIuxI",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177679",
+      "title": {
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "BELLNOX FILMS"
+        ],
+        "siteUrl": "https://anilist.co/anime/177679"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
+        "nextAiringEpisode": null
+      },
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/darwins_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2334,6 +2334,60 @@
       ]
     },
     {
+      "id": "194028",
+      "title": {
+        "romaji": "Kirei ni Shitemoraemasu ka.",
+        "english": "Wash It All Away",
+        "native": "綺麗にしてもらえますか。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Okuruto Noboru"
+        ],
+        "siteUrl": "https://anilist.co/anime/194028"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
+      },
+      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://kinishite.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kinishite_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "199112",
       "title": {
         "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
@@ -2387,60 +2441,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "194028",
-      "title": {
-        "romaji": "Kirei ni Shitemoraemasu ka.",
-        "english": "Wash It All Away",
-        "native": "綺麗にしてもらえますか。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Okuruto Noboru"
-        ],
-        "siteUrl": "https://anilist.co/anime/194028"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
-        "nextAiringEpisode": null
-      },
-      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://kinishite.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kinishite_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
           "type": "STREAMING",
           "language": null
         }
@@ -3122,9 +3122,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1777737360,
-          "episode": 16,
-          "timeUntilAiringSec": 468239
+          "airingAtEpochSec": 1778342160,
+          "episode": 17,
+          "timeUntilAiringSec": 467116
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3902,9 +3902,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1777764600,
-          "episode": 14,
-          "timeUntilAiringSec": 495479
+          "airingAtEpochSec": 1778369400,
+          "episode": 15,
+          "timeUntilAiringSec": 494356
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -5110,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1777417200,
-          "episode": 17,
-          "timeUntilAiringSec": 148079
+          "airingAtEpochSec": 1778022000,
+          "episode": 18,
+          "timeUntilAiringSec": 146956
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
