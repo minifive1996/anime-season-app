@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T06:10:44.343Z",
+  "generatedAt": "2026-05-11T06:38:15.793Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -159,12 +159,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10YPPR7qDsVf10wZfYnIMK",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZ7OBDPkXwBuhPvgd5OBZ70",
           "type": "STREAMING",
           "language": null
         }
@@ -1095,6 +1089,65 @@
       ]
     },
     {
+      "id": "187942",
+      "title": {
+        "romaji": "Mayonaka Heart Tune",
+        "english": "Tune In to the Midnight Heart",
+        "native": "真夜中ハートチューン"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Gekkou"
+        ],
+        "siteUrl": "https://anilist.co/anime/187942"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-24",
+        "nextAiringEpisode": null
+      },
+      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://mayochu-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/anime_mayochu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290283",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "178005",
       "title": {
         "romaji": "Tamon-kun Ima Docchi!?",
@@ -1160,65 +1213,6 @@
       ]
     },
     {
-      "id": "187942",
-      "title": {
-        "romaji": "Mayonaka Heart Tune",
-        "english": "Tune In to the Midnight Heart",
-        "native": "真夜中ハートチューン"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Gekkou"
-        ],
-        "siteUrl": "https://anilist.co/anime/187942"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-24",
-        "nextAiringEpisode": null
-      },
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://mayochu-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/anime_mayochu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290283",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "182206",
       "title": {
         "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
@@ -1240,7 +1234,7 @@
           "Fantasy"
         ],
         "episodes": 1,
-        "durationMin": null,
+        "durationMin": 104,
         "studios": [
           "8-bit"
         ],
@@ -1527,67 +1521,6 @@
       ]
     },
     {
-      "id": "163144",
-      "title": {
-        "romaji": "TRIGUN STARGAZE",
-        "english": "TRIGUN STARGAZE",
-        "native": "TRIGUN STARGAZE"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-EyR6TQyQVbx5.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Sci-Fi"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Orange"
-        ],
-        "siteUrl": "https://anilist.co/anime/163144"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://trigun-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/trigun_anime/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GXJHM3PK5/trigun-stampede",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "186333",
       "title": {
         "romaji": "Majutsushi Kunon wa Mieteiru",
@@ -1707,6 +1640,67 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3oMlnB7bBRbcdnIbrj9wNv",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "163144",
+      "title": {
+        "romaji": "TRIGUN STARGAZE",
+        "english": "TRIGUN STARGAZE",
+        "native": "TRIGUN STARGAZE"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-EyR6TQyQVbx5.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Orange"
+        ],
+        "siteUrl": "https://anilist.co/anime/163144"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://trigun-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/trigun_anime/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GXJHM3PK5/trigun-stampede",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
           "type": "STREAMING",
           "language": null
         }
@@ -2109,68 +2103,6 @@
       ]
     },
     {
-      "id": "183270",
-      "title": {
-        "romaji": "Eris no Seihai",
-        "english": "The Holy Grail of Eris",
-        "native": "エリスの聖杯"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183270-CmZikKu34WPd.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Mystery",
-          "Romance",
-          "Supernatural"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Ashi Productions"
-        ],
-        "siteUrl": "https://anilist.co/anime/183270"
-      },
-      "airing": {
-        "startDate": "2026-01-08",
-        "endDate": "2026-03-26",
-        "nextAiringEpisode": null
-      },
-      "description": "Betrayed by her fiancé’s lover and sentenced to public execution, Constance Grail, a plain viscount’s daughter known for her honesty, faces death—until a mysterious voice offers salvation. Scarlett Castiel, a noblewoman long thought dead, may be her only hope. Together, these unlikely allies uncover a dark conspiracy lurking in the heart of high society, where betrayal, secrets, and power collide. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/Project_of_Eris",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://eris-seihai.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://crunchyroll.com/series/GT00365781/the-holy-grail-of-eris",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290065",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "189565",
       "title": {
         "romaji": "Osananajimi to wa Love Comedy ni Naranai",
@@ -2218,6 +2150,68 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "183270",
+      "title": {
+        "romaji": "Eris no Seihai",
+        "english": "The Holy Grail of Eris",
+        "native": "エリスの聖杯"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183270-CmZikKu34WPd.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Ashi Productions"
+        ],
+        "siteUrl": "https://anilist.co/anime/183270"
+      },
+      "airing": {
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-26",
+        "nextAiringEpisode": null
+      },
+      "description": "It is common knowledge that nobles will do anything for power; lying, manipulation, and extortion are the usual tactics. However, one family is exempt from this generalization: House Grail, whose main tenets are truth and integrity. The youngest daughter, Constance Grail, is just as moral as the rest of her family, believing in always doing the right thing and helping those in need.<br><br> However, these ideals do not help her when her fiancé cheats on her with another woman. Framed by his lover in the hope of her downfall, Constance has no one to hear her pleas for justice. Everyone turns a blind eye, save for one—the spirit of the infamous Scarlett Castiel—who possesses Constance and turns the tables on her accuser. However, this aid does not come without a price.<br><br> Ten years ago, Scarlett was executed for the attempted murder of Princess Cecilia. But this was actually a setup; as blunt and harsh as Scarlett could be, she would never stoop so low as to use poison. She has no idea who orchestrated her incrimination, but Scarlett demands that Constance—as the only one who can see her—help her exact revenge on all those who wronged her!<br><br> (Source: MAL Rewrite)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/Project_of_Eris",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://eris-seihai.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://crunchyroll.com/series/GT00365781/the-holy-grail-of-eris",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290065",
           "type": "STREAMING",
           "language": null
         }
@@ -2388,6 +2382,59 @@
       ]
     },
     {
+      "id": "195518",
+      "title": {
+        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "native": "悪役令嬢は隣国の王太子に溺愛される"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195518"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://akudeki-anime.com/index.html",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/akudeki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "199112",
       "title": {
         "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
@@ -2497,59 +2544,6 @@
           "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "195518",
-      "title": {
-        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
-        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-        "native": "悪役令嬢は隣国の王太子に溺愛される"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195518"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://akudeki-anime.com/index.html",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/akudeki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
         }
       ]
     },
@@ -3032,6 +3026,90 @@
       ]
     },
     {
+      "id": "187989",
+      "title": {
+        "romaji": "Yuusha no Kuzu",
+        "english": "Scum of the Brave",
+        "native": "勇者のクズ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "episodes": 24,
+        "durationMin": 23,
+        "studios": [
+          "OLM"
+        ],
+        "siteUrl": "https://anilist.co/anime/187989"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1778946960,
+          "episode": 18,
+          "timeUntilAiringSec": 465465
+        }
+      },
+      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://yushanokuzu.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "181443",
       "title": {
         "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
@@ -3084,145 +3162,6 @@
         {
           "site": "Bilibili TV",
           "url": "https://www.bilibili.tv/en/media/2289383",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187989",
-      "title": {
-        "romaji": "Yuusha no Kuzu",
-        "english": "Scum of the Brave",
-        "native": "勇者のクズ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "episodes": 24,
-        "durationMin": 23,
-        "studios": [
-          "OLM"
-        ],
-        "siteUrl": "https://anilist.co/anime/187989"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1778342160,
-          "episode": 17,
-          "timeUntilAiringSec": 467116
-        }
-      },
-      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://yushanokuzu.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "YouTube",
-          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "182771",
-      "title": {
-        "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
-        "english": "A Gentle Noble's Vacation Recommendation",
-        "native": "穏やか貴族の休暇のすすめ。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182771-KVq712ii32fJ.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182771-KVq712ii32fJ.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182771-93HQnmbLFYbE.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Ascension",
-          "SynergySP"
-        ],
-        "siteUrl": "https://anilist.co/anime/182771"
-      },
-      "airing": {
-        "startDate": "2026-01-08",
-        "endDate": "2026-03-26",
-        "nextAiringEpisode": null
-      },
-      "description": "Lizel, a brilliant young chancellor of a powerful nation in a fantasy realm, suddenly finds himself transported to another world—mid-conversation, no less. Unfazed, he decides to treat it like a vacation and become an adventurer! Teaming up with Gil, a lone wolf top-ranker, Lizel uses his wit, charm, and intellect to navigate this new world. So begin the whimsical adventures of a noble off duty!<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://odayakakizoku-pr.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/odayaka_pr",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365550/a-gentle-nobles-vacation-recommendation",
           "type": "STREAMING",
           "language": null
         }
@@ -3285,65 +3224,108 @@
       ]
     },
     {
-      "id": "176370",
+      "id": "182771",
       "title": {
-        "romaji": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
-        "english": "'Tis Time for \"Torture,\" Princess Season 2",
-        "native": "姫様“拷問”の時間です 第2期"
+        "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
+        "english": "A Gentle Noble's Vacation Recommendation",
+        "native": "穏やか貴族の休暇のすすめ。"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176370-hz2H4TUeyGgt.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176370-hz2H4TUeyGgt.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176370-rTxiCqbzG0DQ.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182771-KVq712ii32fJ.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182771-KVq712ii32fJ.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182771-93HQnmbLFYbE.jpg"
       },
       "meta": {
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Comedy",
-          "Fantasy"
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
         ],
         "episodes": 12,
         "durationMin": 24,
         "studios": [
-          "PINE JAM"
+          "Ascension",
+          "SynergySP"
         ],
-        "siteUrl": "https://anilist.co/anime/176370"
+        "siteUrl": "https://anilist.co/anime/182771"
       },
       "airing": {
-        "startDate": "2026-01-12",
-        "endDate": "2026-03-30",
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-26",
         "nextAiringEpisode": null
       },
-      "description": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe? <br><br> (Source: Crunchyroll)",
+      "description": "Lizel, a brilliant young chancellor of a powerful nation in a fantasy realm, suddenly finds himself transported to another world—mid-conversation, no less. Unfazed, he decides to treat it like a vacation and become an adventurer! Teaming up with Gil, a lone wolf top-ranker, Lizel uses his wit, charm, and intellect to navigate this new world. So begin the whimsical adventures of a noble off duty!<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://odayakakizoku-pr.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/odayaka_pr",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365550/a-gentle-nobles-vacation-recommendation",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "176509",
+      "title": {
+        "romaji": "BAKI-DOU",
+        "english": "BAKI-DOU: The Invincible Samurai",
+        "native": "刃牙道"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sports"
+        ],
+        "episodes": 13,
+        "durationMin": 25,
+        "studios": [
+          "TMS Entertainment"
+        ],
+        "siteUrl": "https://anilist.co/anime/176509"
+      },
+      "airing": {
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "nextAiringEpisode": null
+      },
+      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
       "links": [
         {
           "site": "Twitter",
-          "url": "https://twitter.com/himesama_goumon",
+          "url": "https://twitter.com/baki_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://himesama-goumon.com/",
+          "url": "https://baki-anime.jp/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/G1XHJV0KV/tis-time-for-torture-princess",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/kucjvrxr9t",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgSFeEiMRb0xXPlMqugXaWT",
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81922765",
           "type": "STREAMING",
           "language": null
         }
@@ -3420,53 +3402,65 @@
       ]
     },
     {
-      "id": "176509",
+      "id": "176370",
       "title": {
-        "romaji": "BAKI-DOU",
-        "english": "BAKI-DOU: The Invincible Samurai",
-        "native": "刃牙道"
+        "romaji": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
+        "english": "'Tis Time for \"Torture,\" Princess Season 2",
+        "native": "姫様“拷問”の時間です 第2期"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
-        "banner": ""
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176370-hz2H4TUeyGgt.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176370-hz2H4TUeyGgt.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176370-rTxiCqbzG0DQ.jpg"
       },
       "meta": {
-        "format": "ONA",
+        "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Action",
-          "Sports"
+          "Comedy",
+          "Fantasy"
         ],
-        "episodes": 13,
-        "durationMin": 25,
+        "episodes": 12,
+        "durationMin": 24,
         "studios": [
-          "TMS Entertainment"
+          "PINE JAM"
         ],
-        "siteUrl": "https://anilist.co/anime/176509"
+        "siteUrl": "https://anilist.co/anime/176370"
       },
       "airing": {
-        "startDate": "2026-02-26",
-        "endDate": "2026-02-26",
+        "startDate": "2026-01-12",
+        "endDate": "2026-03-30",
         "nextAiringEpisode": null
       },
-      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
+      "description": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe? <br><br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Twitter",
-          "url": "https://twitter.com/baki_anime",
+          "url": "https://twitter.com/himesama_goumon",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
           "site": "Official Site",
-          "url": "https://baki-anime.jp/",
+          "url": "https://himesama-goumon.com/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81922765",
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/G1XHJV0KV/tis-time-for-torture-princess",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/kucjvrxr9t",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgSFeEiMRb0xXPlMqugXaWT",
           "type": "STREAMING",
           "language": null
         }
@@ -3902,9 +3896,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1778369400,
-          "episode": 15,
-          "timeUntilAiringSec": 494356
+          "airingAtEpochSec": 1778974200,
+          "episode": 16,
+          "timeUntilAiringSec": 492705
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4590,6 +4584,65 @@
       ]
     },
     {
+      "id": "184280",
+      "title": {
+        "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+        "english": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
+        "native": "天穂のサクナヒメ ココロワ稲作日誌"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184280-FA1sWge8Wp5b.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184280-FA1sWge8Wp5b.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "SPECIAL",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "episodes": 2,
+        "durationMin": 24,
+        "studios": [
+          "P.A.WORKS"
+        ],
+        "siteUrl": "https://anilist.co/anime/184280"
+      },
+      "airing": {
+        "startDate": "2026-02-15",
+        "endDate": "2026-02-22",
+        "nextAiringEpisode": null
+      },
+      "description": "Sequel to <i>Tensui no Sakuna-hime</i>.<br><br> Kokorowa needs to live new experiences for her new book, so she starts to grow rice on Hinoe Island.<br><br> (Source: Crunchyroll, edited)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://sakuna-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/sakuna_anime/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@sakuna_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/G8DHV78W7/sakuna-of-rice-and-ruin",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "204949",
       "title": {
         "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
@@ -4651,65 +4704,6 @@
           "url": "https://www.instagram.com/milkygalacticuniverse/",
           "type": "SOCIAL",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "184280",
-      "title": {
-        "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
-        "english": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
-        "native": "天穂のサクナヒメ ココロワ稲作日誌"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184280-FA1sWge8Wp5b.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184280-FA1sWge8Wp5b.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "SPECIAL",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Fantasy"
-        ],
-        "episodes": 2,
-        "durationMin": 24,
-        "studios": [
-          "P.A.WORKS"
-        ],
-        "siteUrl": "https://anilist.co/anime/184280"
-      },
-      "airing": {
-        "startDate": "2026-02-15",
-        "endDate": "2026-02-22",
-        "nextAiringEpisode": null
-      },
-      "description": "Sequel to <i>Tensui no Sakuna-hime</i>.<br><br> Kokorowa needs to live new experiences for her new book, so she starts to grow rice on Hinoe Island.<br><br> (Source: Crunchyroll, edited)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://sakuna-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/sakuna_anime/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@sakuna_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/G8DHV78W7/sakuna-of-rice-and-ruin",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -5110,9 +5104,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1778022000,
-          "episode": 18,
-          "timeUntilAiringSec": 146956
+          "airingAtEpochSec": 1778626800,
+          "episode": 19,
+          "timeUntilAiringSec": 145305
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
