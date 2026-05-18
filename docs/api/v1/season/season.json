@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:38:15.793Z",
+  "generatedAt": "2026-05-18T06:55:24.173Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -887,59 +887,6 @@
       ]
     },
     {
-      "id": "177385",
-      "title": {
-        "romaji": "Ikoku Nikki",
-        "english": "Journal with Witch",
-        "native": "違国日記"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Shuka"
-        ],
-        "siteUrl": "https://anilist.co/anime/177385"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/ikoku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://ikoku-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "176276",
       "title": {
         "romaji": "Mato Seihei no Slave 2",
@@ -1010,6 +957,59 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/1x40va3v1tx",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177385",
+      "title": {
+        "romaji": "Ikoku Nikki",
+        "english": "Journal with Witch",
+        "native": "違国日記"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Shuka"
+        ],
+        "siteUrl": "https://anilist.co/anime/177385"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/ikoku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://ikoku-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
           "type": "STREAMING",
           "language": null
         }
@@ -1262,6 +1262,126 @@
       ]
     },
     {
+      "id": "185262",
+      "title": {
+        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Yokohama Animation Lab"
+        ],
+        "siteUrl": "https://anilist.co/anime/185262"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hellmode-anime.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hellmode_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "185993",
+      "title": {
+        "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+        "english": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+        "native": "貴族転生 ～恵まれた生まれから最強の力を得る～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185993-BecPUaWfZJgR.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185993-BecPUaWfZJgR.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-6H7wGuRpwoSL.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "CompTown"
+        ],
+        "siteUrl": "https://anilist.co/anime/185993"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
+      },
+      "description": "Noah, the world’s strongest six-year-old, has been privileged enough to be reborn as the emperor’s 13th child. What’s more, he’s been overpowered with an infinite level cap and a cheat that stacks the powers of anyone who serves him. But even privilege has its problems—the glittering facade of high society hides a world of conspiracies, schemes, and power struggles. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://kizoku-tensei.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kizokutensei_PR",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@kizokutensei_pr",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365721/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2289875",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "195322",
       "title": {
         "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
@@ -1347,126 +1467,6 @@
       ]
     },
     {
-      "id": "185993",
-      "title": {
-        "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-        "english": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-        "native": "貴族転生 ～恵まれた生まれから最強の力を得る～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185993-BecPUaWfZJgR.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185993-BecPUaWfZJgR.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-6H7wGuRpwoSL.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "CompTown"
-        ],
-        "siteUrl": "https://anilist.co/anime/185993"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
-        "nextAiringEpisode": null
-      },
-      "description": "Noah, the world’s strongest six-year-old, has been privileged enough to be reborn as the emperor’s 13th child. What’s more, he’s been overpowered with an infinite level cap and a cheat that stacks the powers of anyone who serves him. But even privilege has its problems—the glittering facade of high society hides a world of conspiracies, schemes, and power struggles. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://kizoku-tensei.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kizokutensei_PR",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@kizokutensei_pr",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365721/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2289875",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "185262",
-      "title": {
-        "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
-        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Yokohama Animation Lab"
-        ],
-        "siteUrl": "https://anilist.co/anime/185262"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hellmode-anime.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hellmode_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34351",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "192507",
       "title": {
         "romaji": "Uruwashi no Yoi no Tsuki",
@@ -1515,60 +1515,6 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "186333",
-      "title": {
-        "romaji": "Majutsushi Kunon wa Mieteiru",
-        "english": "Kunon the Sorcerer Can See",
-        "native": "魔術師クノンは見えている"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-32qDHxLkndpg.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Platinum Vision"
-        ],
-        "siteUrl": "https://anilist.co/anime/186333"
-      },
-      "airing": {
-        "startDate": "2026-01-04",
-        "endDate": "2026-03-22",
-        "nextAiringEpisode": null
-      },
-      "description": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/animekunon",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://kunonanime.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365586/kunon-the-sorcerer-can-see",
           "type": "STREAMING",
           "language": null
         }
@@ -1640,6 +1586,60 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3oMlnB7bBRbcdnIbrj9wNv",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "186333",
+      "title": {
+        "romaji": "Majutsushi Kunon wa Mieteiru",
+        "english": "Kunon the Sorcerer Can See",
+        "native": "魔術師クノンは見えている"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-32qDHxLkndpg.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Platinum Vision"
+        ],
+        "siteUrl": "https://anilist.co/anime/186333"
+      },
+      "airing": {
+        "startDate": "2026-01-04",
+        "endDate": "2026-03-22",
+        "nextAiringEpisode": null
+      },
+      "description": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/animekunon",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://kunonanime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365586/kunon-the-sorcerer-can-see",
           "type": "STREAMING",
           "language": null
         }
@@ -1748,60 +1748,6 @@
       ]
     },
     {
-      "id": "182317",
-      "title": {
-        "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
-        "english": "The Dangers in My Heart: The Movie",
-        "native": "劇場版 僕の心のヤバイやつ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg"
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 1,
-        "durationMin": 102,
-        "studios": [
-          "Shin-Ei Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/182317"
-      },
-      "airing": {
-        "startDate": "2026-02-13",
-        "endDate": "2026-02-13",
-        "nextAiringEpisode": null
-      },
-      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://bokuyaba-anime-movie.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/bokuyaba_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@bokuyaba_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "170110",
       "title": {
         "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
@@ -1869,55 +1815,56 @@
       ]
     },
     {
-      "id": "177679",
+      "id": "182317",
       "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
+        "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+        "english": "The Dangers in My Heart: The Movie",
+        "native": "劇場版 僕の心のヤバイやつ"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg"
       },
       "meta": {
-        "format": "TV",
+        "format": "MOVIE",
         "status": "FINISHED",
         "genres": [
-          "Sci-Fi",
-          "Thriller"
+          "Comedy",
+          "Romance",
+          "Slice of Life"
         ],
-        "episodes": 13,
-        "durationMin": 24,
+        "episodes": 1,
+        "durationMin": 102,
         "studios": [
-          "BELLNOX FILMS"
+          "Shin-Ei Animation"
         ],
-        "siteUrl": "https://anilist.co/anime/177679"
+        "siteUrl": "https://anilist.co/anime/182317"
       },
       "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
         "nextAiringEpisode": null
       },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
       "links": [
         {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
           "site": "Official Site",
-          "url": "https://darwinsincident.net/",
+          "url": "https://bokuyaba-anime-movie.com/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
+          "site": "Twitter",
+          "url": "https://x.com/bokuyaba_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@bokuyaba_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
@@ -1978,60 +1925,53 @@
       ]
     },
     {
-      "id": "185039",
+      "id": "177679",
       "title": {
-        "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-        "english": "The Invisible Man and His Soon-to-Be Wife",
-        "native": "透明男と人間女～そのうち夫婦になるふたり～"
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185039-rVofxrbEyaL9.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185039-Lh6EIwvvwGaL.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
       },
       "meta": {
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Comedy",
-          "Romance",
-          "Supernatural"
+          "Sci-Fi",
+          "Thriller"
         ],
-        "episodes": 12,
+        "episodes": 13,
         "durationMin": 24,
         "studios": [
-          "project No.9"
+          "BELLNOX FILMS"
         ],
-        "siteUrl": "https://anilist.co/anime/185039"
+        "siteUrl": "https://anilist.co/anime/177679"
       },
       "airing": {
-        "startDate": "2026-01-08",
-        "endDate": "2026-03-26",
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
         "nextAiringEpisode": null
       },
-      "description": "Akira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br> <br> (Source: Crunchyroll)",
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
       "links": [
         {
-          "site": "Official Site",
-          "url": "https://tomeiotoko-ningenonna.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
           "site": "Twitter",
-          "url": "https://x.com/tomeiotoko",
+          "url": "https://x.com/darwins_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365610/the-invisible-man-and-his-soon-to-be-wife",
-          "type": "STREAMING",
-          "language": null
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
         },
         {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290152",
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2103,6 +2043,66 @@
       ]
     },
     {
+      "id": "185039",
+      "title": {
+        "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+        "english": "The Invisible Man and His Soon-to-Be Wife",
+        "native": "透明男と人間女～そのうち夫婦になるふたり～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185039-rVofxrbEyaL9.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185039-Lh6EIwvvwGaL.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "project No.9"
+        ],
+        "siteUrl": "https://anilist.co/anime/185039"
+      },
+      "airing": {
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-26",
+        "nextAiringEpisode": null
+      },
+      "description": "Akira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://tomeiotoko-ningenonna.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/tomeiotoko",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365610/the-invisible-man-and-his-soon-to-be-wife",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290152",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "189565",
       "title": {
         "romaji": "Osananajimi to wa Love Comedy ni Naranai",
@@ -2150,6 +2150,61 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187941",
+      "title": {
+        "romaji": "Tensei Shitara Dragon no Tamago Datta",
+        "english": "Reincarnated as a Dragon Hatchling",
+        "native": "転生したらドラゴンの卵だった"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "GA-CREW",
+          "Felix Film"
+        ],
+        "siteUrl": "https://anilist.co/anime/187941"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://doratama-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/doratama_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34352",
           "type": "STREAMING",
           "language": null
         }
@@ -2218,57 +2273,55 @@
       ]
     },
     {
-      "id": "187941",
+      "id": "195518",
       "title": {
-        "romaji": "Tensei Shitara Dragon no Tamago Datta",
-        "english": "Reincarnated as a Dragon Hatchling",
-        "native": "転生したらドラゴンの卵だった"
+        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "native": "悪役令嬢は隣国の王太子に溺愛される"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
       },
       "meta": {
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
+          "Fantasy",
+          "Romance"
         ],
         "episodes": 12,
         "durationMin": 24,
         "studios": [
-          "GA-CREW",
-          "Felix Film"
+          "Studio DEEN"
         ],
-        "siteUrl": "https://anilist.co/anime/187941"
+        "siteUrl": "https://anilist.co/anime/195518"
       },
       "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
         "nextAiringEpisode": null
       },
-      "description": "Our hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon? <br><br> (Source: HIDIVE)",
+      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://doratama-anime.com/",
+          "url": "https://akudeki-anime.com/index.html",
           "type": "INFO",
           "language": "Japanese"
         },
         {
-          "site": "Twitter",
-          "url": "https://x.com/doratama_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34352",
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/akudeki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
@@ -2382,172 +2435,6 @@
       ]
     },
     {
-      "id": "195518",
-      "title": {
-        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
-        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-        "native": "悪役令嬢は隣国の王太子に溺愛される"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195518"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://akudeki-anime.com/index.html",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/akudeki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "199112",
-      "title": {
-        "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
-        "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
-        "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199112-WyGPtcAI5QZp.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-WyGPtcAI5QZp.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 5,
-        "durationMin": 24,
-        "studios": [
-          "studio MOTHER"
-        ],
-        "siteUrl": "https://anilist.co/anime/199112"
-      },
-      "airing": {
-        "startDate": "2026-01-01",
-        "endDate": "2026-01-01",
-        "nextAiringEpisode": null
-      },
-      "description": "\"I want to learn to love myself—just the way I am!\" Renako Amaori, a former gloomy and socially awkward girl, reinvented herself for high school and successfully made her debut. She even managed to join the top-tier popular group... only to be suddenly confessed to by two of its brightest stars?! One is the school’s ultimate prince, Mai Oduka. The other, the beloved angel of the campus, Ajisai Sena. There’s no way she can handle both their affections—no freaking way! <br><br> While still struggling to give them an answer, Renako agrees to help her friend Kaho by joining a cosplay event. It’s the perfect excuse to delay her reply… or so she thought. But as she witnesses Kaho's passion firsthand, something begins to stir inside her. What is it that she truly wants? What is she truly searching for? <br><br> Can she really not become someone’s lover? Or has that \"no freaking way\"... not been so impossible after all? <br><br> (Source: REMOW) <br><br> <i>Note: The anime first premiered in theaters across Japan on November 21, 2025. It was later split into 5 parts on TV, labelled as episodes 13-17.</i>",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://www.watanare-anime.com/next-shine/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/watanare_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2141768",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "166521",
-      "title": {
-        "romaji": "Golden Kamuy: Saishuushou",
-        "english": "Golden Kamuy Final Season",
-        "native": "ゴールデンカムイ 最終章"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Brain's Base"
-        ],
-        "siteUrl": "https://anilist.co/anime/166521"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "The fifth season of <i>Golden Kamuy</i>.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/kamuy_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://kamuy-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183660",
       "title": {
         "romaji": "Kaya-chan wa Kowakunai",
@@ -2614,54 +2501,59 @@
       ]
     },
     {
-      "id": "194742",
+      "id": "199112",
       "title": {
-        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
-        "english": "The Demon King's Daughter is Too Kind!!",
-        "native": "魔王の娘は優しすぎる!!"
+        "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
+        "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
+        "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199112-WyGPtcAI5QZp.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-WyGPtcAI5QZp.jpg",
+        "banner": ""
       },
       "meta": {
-        "format": "ONA",
+        "format": "TV",
         "status": "FINISHED",
         "genres": [
           "Comedy",
-          "Fantasy",
-          "Slice of Life"
+          "Romance"
         ],
-        "episodes": 12,
+        "episodes": 5,
         "durationMin": 24,
         "studios": [
-          "EMT Squared"
+          "studio MOTHER"
         ],
-        "siteUrl": "https://anilist.co/anime/194742"
+        "siteUrl": "https://anilist.co/anime/199112"
       },
       "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-17",
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
         "nextAiringEpisode": null
       },
-      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
+      "description": "\"I want to learn to love myself—just the way I am!\" Renako Amaori, a former gloomy and socially awkward girl, reinvented herself for high school and successfully made her debut. She even managed to join the top-tier popular group... only to be suddenly confessed to by two of its brightest stars?! One is the school’s ultimate prince, Mai Oduka. The other, the beloved angel of the campus, Ajisai Sena. There’s no way she can handle both their affections—no freaking way! <br><br> While still struggling to give them an answer, Renako agrees to help her friend Kaho by joining a cosplay event. It’s the perfect excuse to delay her reply… or so she thought. But as she witnesses Kaho's passion firsthand, something begins to stir inside her. What is it that she truly wants? What is she truly searching for? <br><br> Can she really not become someone’s lover? Or has that \"no freaking way\"... not been so impossible after all? <br><br> (Source: REMOW) <br><br> <i>Note: The anime first premiered in theaters across Japan on November 21, 2025. It was later split into 5 parts on TV, labelled as episodes 13-17.</i>",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://maomusu.com/",
+          "url": "https://www.watanare-anime.com/next-shine/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
           "site": "Twitter",
-          "url": "https://x.com/maomusu_info",
+          "url": "https://x.com/watanare_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2141768",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
           "type": "STREAMING",
           "language": null
         }
@@ -2716,6 +2608,114 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "166521",
+      "title": {
+        "romaji": "Golden Kamuy: Saishuushou",
+        "english": "Golden Kamuy Final Season",
+        "native": "ゴールデンカムイ 最終章"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Brain's Base"
+        ],
+        "siteUrl": "https://anilist.co/anime/166521"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "The fifth season of <i>Golden Kamuy</i>.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/kamuy_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://kamuy-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "194742",
+      "title": {
+        "romaji": "Maou no Musume wa Yasashi Sugiru!!",
+        "english": "The Demon King's Daughter is Too Kind!!",
+        "native": "魔王の娘は優しすぎる!!"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "EMT Squared"
+        ],
+        "siteUrl": "https://anilist.co/anime/194742"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-17",
+        "nextAiringEpisode": null
+      },
+      "description": "Once feared as the ruler of all demons, Demon King Ahriman seeks to conquer the world…until he’s stopped by an unexpected force: his daughter, Dou! Too kind for chaos and too gentle for war, Dou melts the hearts of demons, humans, and even angels. Desperate to restore demon pride, Ahriman’s aide Jahi vows to train Dou to become a proper demon. But is Jahi any match for Dou’s compassion?!<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://maomusu.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/maomusu_info",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
           "type": "STREAMING",
           "language": null
         }
@@ -2959,6 +2959,90 @@
       ]
     },
     {
+      "id": "187989",
+      "title": {
+        "romaji": "Yuusha no Kuzu",
+        "english": "Scum of the Brave",
+        "native": "勇者のクズ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "episodes": 24,
+        "durationMin": 23,
+        "studios": [
+          "OLM"
+        ],
+        "siteUrl": "https://anilist.co/anime/187989"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1779551760,
+          "episode": 19,
+          "timeUntilAiringSec": 464437
+        }
+      },
+      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://yushanokuzu.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "177580",
       "title": {
         "romaji": "Hanazakari no Kimitachi e",
@@ -3022,90 +3106,6 @@
           "url": "https://www.instagram.com/hanakimi_anime/",
           "type": "SOCIAL",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "187989",
-      "title": {
-        "romaji": "Yuusha no Kuzu",
-        "english": "Scum of the Brave",
-        "native": "勇者のクズ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "episodes": 24,
-        "durationMin": 23,
-        "studios": [
-          "OLM"
-        ],
-        "siteUrl": "https://anilist.co/anime/187989"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1778946960,
-          "episode": 18,
-          "timeUntilAiringSec": 465465
-        }
-      },
-      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://yushanokuzu.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "YouTube",
-          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -3522,58 +3522,6 @@
       ]
     },
     {
-      "id": "183984",
-      "title": {
-        "romaji": "Arne no Jikenbo",
-        "english": "The Case Book of Arne",
-        "native": "アルネの事件簿"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183984-uq5scAXrhEdx.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183984-98y2n8KEQfpZ.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Mystery"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "SILVER LINK."
-        ],
-        "siteUrl": "https://anilist.co/anime/183984"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-03-25",
-        "nextAiringEpisode": null
-      },
-      "description": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman’s daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery.<br><br> In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg\", where non-humans live. Lynn's world changes drastically when she encounters \"Arne\", a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect? <br><br> <i>\"Come on, human. You may dance merrily under the crimson moon.”</i><br><br> (Source: The Case Book of Arne Steam page)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/arne_jknb",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://arne.asmik-ace.co.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365733/the-casebook-of-arne",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "197731",
       "title": {
         "romaji": "Goumon Baito-kun no Nichijou",
@@ -3632,6 +3580,58 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "183984",
+      "title": {
+        "romaji": "Arne no Jikenbo",
+        "english": "The Case Book of Arne",
+        "native": "アルネの事件簿"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183984-uq5scAXrhEdx.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183984-XhPNtZWyTJJA.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Mystery"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "SILVER LINK."
+        ],
+        "siteUrl": "https://anilist.co/anime/183984"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-25",
+        "nextAiringEpisode": null
+      },
+      "description": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman’s daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery.<br><br> In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg\", where non-humans live. Lynn's world changes drastically when she encounters \"Arne\", a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect? <br><br> <i>\"Come on, human. You may dance merrily under the crimson moon.”</i><br><br> (Source: The Case Book of Arne Steam page)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/arne_jknb",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://arne.asmik-ace.co.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365733/the-casebook-of-arne",
           "type": "STREAMING",
           "language": null
         }
@@ -3896,9 +3896,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1778974200,
-          "episode": 16,
-          "timeUntilAiringSec": 492705
+          "airingAtEpochSec": 1779579000,
+          "episode": 17,
+          "timeUntilAiringSec": 491676
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4646,7 +4646,7 @@
       "id": "204949",
       "title": {
         "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
-        "english": "",
+        "english": "Milky☆Subway: The Galactic Limited Express – the Movie",
         "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
       },
       "image": {
@@ -4673,7 +4673,7 @@
         "endDate": "2026-02-06",
         "nextAiringEpisode": null
       },
-      "description": "Theatrical version of <i>Ginga Tokkyuu Milky☆Subway</i> with additional new scenes.",
+      "description": "Theatrical version of <i>Ginga Tokkyuu Milky☆Subway</i> with additional new scenes. <br><br> Six delinquents are tasked with cleaning a train as part of a community service program. But when the train suddenly takes off, chaos ensues. <br><br> (Source: Netflix)",
       "links": [
         {
           "site": "Official Site",
@@ -4704,6 +4704,12 @@
           "url": "https://www.instagram.com/milkygalacticuniverse/",
           "type": "SOCIAL",
           "language": "Japanese"
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/82703490",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -5104,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1778626800,
-          "episode": 19,
-          "timeUntilAiringSec": 145305
+          "airingAtEpochSec": 1779231600,
+          "episode": 20,
+          "timeUntilAiringSec": 144276
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
