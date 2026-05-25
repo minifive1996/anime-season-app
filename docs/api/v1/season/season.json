@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T06:55:24.173Z",
+  "generatedAt": "2026-05-25T07:12:54.373Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1213,55 +1213,6 @@
       ]
     },
     {
-      "id": "182206",
-      "title": {
-        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "episodes": 1,
-        "durationMin": 104,
-        "studios": [
-          "8-bit"
-        ],
-        "siteUrl": "https://anilist.co/anime/182206"
-      },
-      "airing": {
-        "startDate": "2026-02-27",
-        "endDate": "2026-02-27",
-        "nextAiringEpisode": null
-      },
-      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/ten_sura_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://movie02.ten-sura.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "185262",
       "title": {
         "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -1312,6 +1263,55 @@
           "url": "https://www.hidive.com/season/34351",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "182206",
+      "title": {
+        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "episodes": 1,
+        "durationMin": 104,
+        "studios": [
+          "8-bit"
+        ],
+        "siteUrl": "https://anilist.co/anime/182206"
+      },
+      "airing": {
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "nextAiringEpisode": null
+      },
+      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/ten_sura_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://movie02.ten-sura.com/",
+          "type": "INFO",
+          "language": "Japanese"
         }
       ]
     },
@@ -2043,6 +2043,59 @@
       ]
     },
     {
+      "id": "189565",
+      "title": {
+        "romaji": "Osananajimi to wa Love Comedy ni Naranai",
+        "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+        "native": "幼馴染とはラブコメにならない"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Tezuka Productions"
+        ],
+        "siteUrl": "https://anilist.co/anime/189565"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-24",
+        "nextAiringEpisode": null
+      },
+      "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest! <br><br> (Source: Kodansha, translated)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://anime-osalove.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/love_Osnnjm_wm",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "185039",
       "title": {
         "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
@@ -2097,59 +2150,6 @@
         {
           "site": "Bilibili TV",
           "url": "https://www.bilibili.tv/en/media/2290152",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "189565",
-      "title": {
-        "romaji": "Osananajimi to wa Love Comedy ni Naranai",
-        "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-        "native": "幼馴染とはラブコメにならない"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Tezuka Productions"
-        ],
-        "siteUrl": "https://anilist.co/anime/189565"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-24",
-        "nextAiringEpisode": null
-      },
-      "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest! <br><br> (Source: Kodansha, translated)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://anime-osalove.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/love_Osnnjm_wm",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
           "type": "STREAMING",
           "language": null
         }
@@ -2614,60 +2614,6 @@
       ]
     },
     {
-      "id": "166521",
-      "title": {
-        "romaji": "Golden Kamuy: Saishuushou",
-        "english": "Golden Kamuy Final Season",
-        "native": "ゴールデンカムイ 最終章"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Brain's Base"
-        ],
-        "siteUrl": "https://anilist.co/anime/166521"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "The fifth season of <i>Golden Kamuy</i>.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/kamuy_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://kamuy-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "194742",
       "title": {
         "romaji": "Maou no Musume wa Yasashi Sugiru!!",
@@ -2716,6 +2662,60 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365778/the-demon-kings-daughter-is-too-kind",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "166521",
+      "title": {
+        "romaji": "Golden Kamuy: Saishuushou",
+        "english": "Golden Kamuy Final Season",
+        "native": "ゴールデンカムイ 最終章"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Brain's Base"
+        ],
+        "siteUrl": "https://anilist.co/anime/166521"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "The fifth season of <i>Golden Kamuy</i>.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/kamuy_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://kamuy-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GY8DWQN5Y/golden-kamuy",
           "type": "STREAMING",
           "language": null
         }
@@ -2991,9 +2991,9 @@
         "startDate": "2026-01-11",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1779551760,
-          "episode": 19,
-          "timeUntilAiringSec": 464437
+          "airingAtEpochSec": 1780156560,
+          "episode": 20,
+          "timeUntilAiringSec": 463386
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3645,8 +3645,8 @@
         "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-y2wxyDYUqiHz.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-y2wxyDYUqiHz.png",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-GIit95PnSGvt.jpg",
         "banner": ""
       },
       "meta": {
@@ -3896,9 +3896,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1779579000,
-          "episode": 17,
-          "timeUntilAiringSec": 491676
+          "airingAtEpochSec": 1780183800,
+          "episode": 18,
+          "timeUntilAiringSec": 490626
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4761,6 +4761,55 @@
       ]
     },
     {
+      "id": "207084",
+      "title": {
+        "romaji": "Onee-chan Gokko",
+        "english": "Playing Sister",
+        "native": "お姉ちゃんごっこ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207084-5ERIoIDjU76C.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Mystery",
+          "Psychological",
+          "Supernatural",
+          "Thriller"
+        ],
+        "episodes": 3,
+        "durationMin": 25,
+        "studios": [
+          "Studio Gohan"
+        ],
+        "siteUrl": "https://anilist.co/anime/207084"
+      },
+      "airing": {
+        "startDate": "2026-01-31",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "In the distant future, on the outskirts left behind by the rapid concentration of advanced science and technology in urban areas, lies a remote mountain village known as Kagami Village.<br/> “Behave yourself, or a Double will come for you.”<br/> Such old folklore still lingers in this village.<br/><br/> Akane Higure, a middle school student living in Kagami Village, has been eagerly awaiting the return of her older sister, Sui Higure, who is finally being discharged from the hospital after a year.<br/> However, not long after her sister comes home, Akane receives a single phone call.<br/><br/> “The girl at home with you… isn’t your sister.”",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://youtu.be/0q6uIpgQpGE",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://harumakigohan.com/onego/",
+          "type": "INFO",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "204432",
       "title": {
         "romaji": "CHOPPER's",
@@ -4810,55 +4859,6 @@
           "url": "https://choppers.onepiece-base.com",
           "type": "INFO",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "207084",
-      "title": {
-        "romaji": "Onee-chan Gokko",
-        "english": "Playing Sister",
-        "native": "お姉ちゃんごっこ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207084-5ERIoIDjU76C.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Mystery",
-          "Psychological",
-          "Supernatural",
-          "Thriller"
-        ],
-        "episodes": 3,
-        "durationMin": 25,
-        "studios": [
-          "Studio Gohan"
-        ],
-        "siteUrl": "https://anilist.co/anime/207084"
-      },
-      "airing": {
-        "startDate": "2026-01-31",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "In the distant future, on the outskirts left behind by the rapid concentration of advanced science and technology in urban areas, lies a remote mountain village known as Kagami Village.<br/> “Behave yourself, or a Double will come for you.”<br/> Such old folklore still lingers in this village.<br/><br/> Akane Higure, a middle school student living in Kagami Village, has been eagerly awaiting the return of her older sister, Sui Higure, who is finally being discharged from the hospital after a year.<br/> However, not long after her sister comes home, Akane receives a single phone call.<br/><br/> “The girl at home with you… isn’t your sister.”",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://youtu.be/0q6uIpgQpGE",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://harumakigohan.com/onego/",
-          "type": "INFO",
-          "language": null
         }
       ]
     },
@@ -5110,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1779231600,
-          "episode": 20,
-          "timeUntilAiringSec": 144276
+          "airingAtEpochSec": 1779836400,
+          "episode": 21,
+          "timeUntilAiringSec": 143226
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5524,59 +5524,6 @@
       ]
     },
     {
-      "id": "204698",
-      "title": {
-        "romaji": "GelPiyo",
-        "english": "",
-        "native": "ゲルぴよ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204698-6v7aAq92mKFl.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204698-6v7aAq92mKFl.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV_SHORT",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 10,
-        "durationMin": 4,
-        "studios": [
-          "ODDJOB",
-          "SUGARLESS FACTORY"
-        ],
-        "siteUrl": "https://anilist.co/anime/204698"
-      },
-      "airing": {
-        "startDate": "2026-01-21",
-        "endDate": "2026-03-25",
-        "nextAiringEpisode": null
-      },
-      "description": "Anime based on industrial company Taica's mascot Gelpiyo. <br><br> In the story, Gelpiyo and similar characters contain the \"Alpha Gel\" quality that allow them to bounce back after any setback. They are sent out by Alpha Industry to the mysterious Geltown to further the company's plot of world domination. There, they plan to raise trouble, even though they constantly get involved in events in the town. <br><br> (Source: Anime News Network)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://s.mxtv.jp/anime/gelpiyo/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gelpiyo.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/gelpiyo/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "208105",
       "title": {
         "romaji": "Yani Neko Mini",
@@ -5629,6 +5576,59 @@
           "url": "https://x.com/yanineko_anime/status/2047136122401436078",
           "type": "SOCIAL",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "204698",
+      "title": {
+        "romaji": "GelPiyo",
+        "english": "",
+        "native": "ゲルぴよ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204698-6v7aAq92mKFl.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204698-6v7aAq92mKFl.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "TV_SHORT",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 10,
+        "durationMin": 4,
+        "studios": [
+          "ODDJOB",
+          "SUGARLESS FACTORY"
+        ],
+        "siteUrl": "https://anilist.co/anime/204698"
+      },
+      "airing": {
+        "startDate": "2026-01-21",
+        "endDate": "2026-03-25",
+        "nextAiringEpisode": null
+      },
+      "description": "Anime based on industrial company Taica's mascot Gelpiyo. <br><br> In the story, Gelpiyo and similar characters contain the \"Alpha Gel\" quality that allow them to bounce back after any setback. They are sent out by Alpha Industry to the mysterious Geltown to further the company's plot of world domination. There, they plan to raise trouble, even though they constantly get involved in events in the town. <br><br> (Source: Anime News Network)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://s.mxtv.jp/anime/gelpiyo/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://gelpiyo.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/gelpiyo/",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
