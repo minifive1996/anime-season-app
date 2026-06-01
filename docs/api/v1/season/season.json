@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T07:12:54.373Z",
+  "generatedAt": "2026-06-01T08:32:36.712Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1269,7 +1269,7 @@
     {
       "id": "182206",
       "title": {
-        "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+        "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
         "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
         "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
       },
@@ -2501,6 +2501,60 @@
       ]
     },
     {
+      "id": "192261",
+      "title": {
+        "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "english": "An Adventurer’s Daily Grind at Age 29",
+        "native": "29歳独身中堅冒険者の日常"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "HORNETS"
+        ],
+        "siteUrl": "https://anilist.co/anime/192261"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-25",
+        "nextAiringEpisode": null
+      },
+      "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. <br><br> Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. <br><br> One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! <br><br> The girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/anime29sai",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://anime-29sai-dokushin.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "199112",
       "title": {
         "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
@@ -2554,60 +2608,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "192261",
-      "title": {
-        "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-        "english": "An Adventurer’s Daily Grind at Age 29",
-        "native": "29歳独身中堅冒険者の日常"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "HORNETS"
-        ],
-        "siteUrl": "https://anilist.co/anime/192261"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-03-25",
-        "nextAiringEpisode": null
-      },
-      "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. <br><br> Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. <br><br> One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! <br><br> The girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/anime29sai",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://anime-29sai-dokushin.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
           "type": "STREAMING",
           "language": null
         }
@@ -2904,6 +2904,90 @@
       ]
     },
     {
+      "id": "187989",
+      "title": {
+        "romaji": "Yuusha no Kuzu",
+        "english": "Scum of the Brave",
+        "native": "勇者のクズ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "episodes": 24,
+        "durationMin": 23,
+        "studios": [
+          "OLM"
+        ],
+        "siteUrl": "https://anilist.co/anime/187989"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1780761360,
+          "episode": 21,
+          "timeUntilAiringSec": 458604
+        }
+      },
+      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://yushanokuzu.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@yushanokuzu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "185514",
       "title": {
         "romaji": "Champignon no Majo",
@@ -2953,90 +3037,6 @@
         {
           "site": "Crunchyroll",
           "url": "https://crunchyroll.com/series/GT00365553/champignon-witch",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187989",
-      "title": {
-        "romaji": "Yuusha no Kuzu",
-        "english": "Scum of the Brave",
-        "native": "勇者のクズ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "episodes": 24,
-        "durationMin": 23,
-        "studios": [
-          "OLM"
-        ],
-        "siteUrl": "https://anilist.co/anime/187989"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1780156560,
-          "episode": 20,
-          "timeUntilAiringSec": 463386
-        }
-      },
-      "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://yushanokuzu.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "YouTube",
-          "url": "https://youtube.com/channel/UCFYchaoT5V6WmLTPAj3l0_Q",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@yushanokuzu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365730/scum-of-the-brave",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2jocaAW0S6IpbSv01XLHkV",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
           "type": "STREAMING",
           "language": null
         }
@@ -3896,9 +3896,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1780183800,
-          "episode": 18,
-          "timeUntilAiringSec": 490626
+          "airingAtEpochSec": 1780788600,
+          "episode": 19,
+          "timeUntilAiringSec": 485844
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -3907,7 +3907,7 @@
           "site": "Official Site",
           "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
           "type": "INFO",
-          "language": null
+          "language": "Japanese"
         },
         {
           "site": "Crunchyroll",
@@ -3925,7 +3925,7 @@
           "site": "Twitter",
           "url": "https://x.com/TVanime_precure",
           "type": "SOCIAL",
-          "language": null
+          "language": "Japanese"
         }
       ]
     },
@@ -3992,7 +3992,7 @@
       "id": "197474",
       "title": {
         "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
-        "english": "",
+        "english": "Gintama the Movie 2026: Yoshiwara in Flames",
         "native": "新劇場版 銀魂 -吉原大炎上-"
       },
       "image": {
@@ -4103,53 +4103,6 @@
       ]
     },
     {
-      "id": "197097",
-      "title": {
-        "romaji": "Paris ni Saku Étoile",
-        "english": "",
-        "native": "パリに咲くエトワール"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197097-adHgYO4T73vA.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197097-adHgYO4T73vA.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197097-K85XYWGqIHQ9.jpg"
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Slice of Life",
-          "Sports"
-        ],
-        "episodes": 1,
-        "durationMin": 119,
-        "studios": [
-          "Arvo Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/197097"
-      },
-      "airing": {
-        "startDate": "2026-03-13",
-        "endDate": "2026-03-13",
-        "nextAiringEpisode": null
-      },
-      "description": "<i>\"I want to blossom, in this city.\"</i> <br><br> The story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br> (Source: Anime News Network)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/parieto_movie",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://sh-anime.shochiku.co.jp/parieto-movie/",
-          "type": "INFO",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "191967",
       "title": {
         "romaji": "Jigoku Sensei Nube (2025) Part 2",
@@ -4207,6 +4160,53 @@
           "url": "https://www.amazon.com/dp/B0G6GRL79P",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "197097",
+      "title": {
+        "romaji": "Paris ni Saku Étoile",
+        "english": "",
+        "native": "パリに咲くエトワール"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197097-adHgYO4T73vA.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197097-adHgYO4T73vA.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197097-K85XYWGqIHQ9.jpg"
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Slice of Life",
+          "Sports"
+        ],
+        "episodes": 1,
+        "durationMin": 119,
+        "studios": [
+          "Arvo Animation"
+        ],
+        "siteUrl": "https://anilist.co/anime/197097"
+      },
+      "airing": {
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-13",
+        "nextAiringEpisode": null
+      },
+      "description": "<i>\"I want to blossom, in this city.\"</i> <br><br> The story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br> (Source: Anime News Network)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/parieto_movie",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://sh-anime.shochiku.co.jp/parieto-movie/",
+          "type": "INFO",
+          "language": "Japanese"
         }
       ]
     },
@@ -4365,53 +4365,6 @@
       ]
     },
     {
-      "id": "195384",
-      "title": {
-        "romaji": "Meikyuu no Shiori",
-        "english": "LABYRINTH",
-        "native": "迷宮のしおり"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Horror",
-          "Sci-Fi"
-        ],
-        "episodes": 1,
-        "durationMin": 125,
-        "studios": [
-          "SANZIGEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195384"
-      },
-      "airing": {
-        "startDate": "2026-01-01",
-        "endDate": "2026-01-01",
-        "nextAiringEpisode": null
-      },
-      "description": "One day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama. <br><br> When she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post? <br><br> Will she be able to escape from this strange smartphone labyrinth? <br><br> (Source: Official Site, translated)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/meikyu_shiori",
-          "type": "SOCIAL",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gaga.ne.jp/meikyu-shiori/",
-          "type": "INFO",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "199446",
       "title": {
         "romaji": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
@@ -4466,6 +4419,53 @@
       ]
     },
     {
+      "id": "195384",
+      "title": {
+        "romaji": "Meikyuu no Shiori",
+        "english": "LABYRINTH",
+        "native": "迷宮のしおり"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Horror",
+          "Sci-Fi"
+        ],
+        "episodes": 1,
+        "durationMin": 125,
+        "studios": [
+          "SANZIGEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195384"
+      },
+      "airing": {
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "nextAiringEpisode": null
+      },
+      "description": "One day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama. <br><br> When she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post? <br><br> Will she be able to escape from this strange smartphone labyrinth? <br><br> (Source: Official Site, translated)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/meikyu_shiori",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://gaga.ne.jp/meikyu-shiori/",
+          "type": "INFO",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "206425",
       "title": {
         "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
@@ -4496,7 +4496,7 @@
         "endDate": null,
         "nextAiringEpisode": null
       },
-      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br>",
+      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br> • Akogare ni Hitareru Mahou (憧れにひたれる魔法), released on May 22, 2026.<br>",
       "links": [
         {
           "site": "YouTube",
@@ -4645,13 +4645,13 @@
     {
       "id": "204949",
       "title": {
-        "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
+        "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
         "english": "Milky☆Subway: The Galactic Limited Express – the Movie",
         "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204949-aLHdk5zHtnXv.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-aLHdk5zHtnXv.jpg",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204949-1eneer7CutVn.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-1eneer7CutVn.jpg",
         "banner": ""
       },
       "meta": {
@@ -4664,7 +4664,7 @@
           "Sci-Fi"
         ],
         "episodes": 1,
-        "durationMin": 46,
+        "durationMin": 47,
         "studios": [],
         "siteUrl": "https://anilist.co/anime/204949"
       },
@@ -5110,9 +5110,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1779836400,
-          "episode": 21,
-          "timeUntilAiringSec": 143226
+          "airingAtEpochSec": 1780441200,
+          "episode": 22,
+          "timeUntilAiringSec": 138444
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5168,7 +5168,7 @@
           "Music"
         ],
         "episodes": 1,
-        "durationMin": null,
+        "durationMin": 29,
         "studios": [
           "Shirogumi"
         ],
@@ -5574,6 +5574,18 @@
         {
           "site": "Twitter",
           "url": "https://x.com/yanineko_anime/status/2047136122401436078",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2052209552570081471/",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2057282982600462404/",
           "type": "SOCIAL",
           "language": null
         }
