@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T08:08:10.981Z",
+  "generatedAt": "2026-06-15T09:19:32.638Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -814,79 +814,6 @@
       ]
     },
     {
-      "id": "180746",
-      "title": {
-        "romaji": "Shibou Yuugi de Meshi wo Kuu.",
-        "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-        "native": "死亡遊戯で飯を食う。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-AyfiOMkuHegF.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Drama",
-          "Mystery",
-          "Thriller"
-        ],
-        "episodes": 11,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/180746"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-03-18",
-        "nextAiringEpisode": null
-      },
-      "description": "At just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/shibouyugi_",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://shiboyugi-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/us/title/82047155",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1yaZiMDinSA80dyCgrQPcj",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/jv1ornbp2h",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "176276",
       "title": {
         "romaji": "Mato Seihei no Slave 2",
@@ -957,6 +884,79 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/1x40va3v1tx",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "180746",
+      "title": {
+        "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+        "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+        "native": "死亡遊戯で飯を食う。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-AyfiOMkuHegF.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "episodes": 11,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/180746"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-18",
+        "nextAiringEpisode": null
+      },
+      "description": "At just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/shibouyugi_",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://shiboyugi-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365787/shiboyugi-playing-death-games-to-put-food-on-the-table",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/us/title/82047155",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1yaZiMDinSA80dyCgrQPcj",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/jv1ornbp2h",
           "type": "STREAMING",
           "language": null
         }
@@ -1646,6 +1646,47 @@
       ]
     },
     {
+      "id": "202955",
+      "title": {
+        "romaji": "Prism Rondo",
+        "english": "Love Through A Prism",
+        "native": "プリズム輪舞曲"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "episodes": 20,
+        "durationMin": 24,
+        "studios": [
+          "WIT STUDIO"
+        ],
+        "siteUrl": "https://anilist.co/anime/202955"
+      },
+      "airing": {
+        "startDate": "2026-01-15",
+        "endDate": "2026-01-15",
+        "nextAiringEpisode": null
+      },
+      "description": "Yoko Kamio, whose manga <i>\"Boys Over Flowers\"</i> enraptured readers around the globe, brings a brand-new classic to viewers worldwide. Set at a London art academy in the opening decade of the 1900s, the Netflix Series <i>\"Love Through a Prism\"</i> follows Lili Ichijoin, a girl enchanted by painting, as she chases her dreams and experiences youth. This ensemble coming-of-age story about young people striving for prismatic radiance against the odds is about to begin.<br><br> (Source: Netflix)",
+      "links": [
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81498882",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "163144",
       "title": {
         "romaji": "TRIGUN STARGAZE",
@@ -1701,47 +1742,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "202955",
-      "title": {
-        "romaji": "Prism Rondo",
-        "english": "Love Through A Prism",
-        "native": "プリズム輪舞曲"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Romance"
-        ],
-        "episodes": 20,
-        "durationMin": 24,
-        "studios": [
-          "WIT STUDIO"
-        ],
-        "siteUrl": "https://anilist.co/anime/202955"
-      },
-      "airing": {
-        "startDate": "2026-01-15",
-        "endDate": "2026-01-15",
-        "nextAiringEpisode": null
-      },
-      "description": "Yoko Kamio, whose manga <i>\"Boys Over Flowers\"</i> enraptured readers around the globe, brings a brand-new classic to viewers worldwide. Set at a London art academy in the opening decade of the 1900s, the Netflix Series <i>\"Love Through a Prism\"</i> follows Lili Ichijoin, a girl enchanted by painting, as she chases her dreams and experiences youth. This ensemble coming-of-age story about young people striving for prismatic radiance against the odds is about to begin.<br><br> (Source: Netflix)",
-      "links": [
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81498882",
           "type": "STREAMING",
           "language": null
         }
@@ -1925,59 +1925,6 @@
       ]
     },
     {
-      "id": "177679",
-      "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "BELLNOX FILMS"
-        ],
-        "siteUrl": "https://anilist.co/anime/177679"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
-        "nextAiringEpisode": null
-      },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://darwinsincident.net/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "187901",
       "title": {
         "romaji": "Dead Account",
@@ -2037,6 +1984,59 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177679",
+      "title": {
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "BELLNOX FILMS"
+        ],
+        "siteUrl": "https://anilist.co/anime/177679"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
+        "nextAiringEpisode": null
+      },
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/darwins_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2875,9 +2875,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-06-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1781366160,
-          "episode": 22,
-          "timeUntilAiringSec": 460070
+          "airingAtEpochSec": 1781970960,
+          "episode": 23,
+          "timeUntilAiringSec": 455788
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3896,9 +3896,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1781393400,
-          "episode": 20,
-          "timeUntilAiringSec": 487310
+          "airingAtEpochSec": 1781998200,
+          "episode": 21,
+          "timeUntilAiringSec": 483028
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4374,7 +4374,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199446-H72pmPPPCnMf.jpg"
       },
       "meta": {
         "format": "ONA",
@@ -5109,11 +5109,7 @@
       "airing": {
         "startDate": "2025-12-22",
         "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1781046000,
-          "episode": 23,
-          "timeUntilAiringSec": 139910
-        }
+        "nextAiringEpisode": null
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
       "links": [
