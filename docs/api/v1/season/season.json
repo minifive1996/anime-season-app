@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T09:19:32.638Z",
+  "generatedAt": "2026-06-22T08:56:05.472Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -423,7 +423,6 @@
         "status": "FINISHED",
         "genres": [
           "Comedy",
-          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -1016,6 +1015,65 @@
       ]
     },
     {
+      "id": "187942",
+      "title": {
+        "romaji": "Mayonaka Heart Tune",
+        "english": "Tune In to the Midnight Heart",
+        "native": "真夜中ハートチューン"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Gekkou"
+        ],
+        "siteUrl": "https://anilist.co/anime/187942"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-24",
+        "nextAiringEpisode": null
+      },
+      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://mayochu-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/anime_mayochu",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290283",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "195515",
       "title": {
         "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
@@ -1083,65 +1141,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgiegdmIMRF4OGiKggAFytJ",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187942",
-      "title": {
-        "romaji": "Mayonaka Heart Tune",
-        "english": "Tune In to the Midnight Heart",
-        "native": "真夜中ハートチューン"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Gekkou"
-        ],
-        "siteUrl": "https://anilist.co/anime/187942"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-24",
-        "nextAiringEpisode": null
-      },
-      "description": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by “Apollo.” However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn’t know what she looks like, or even what her real name is, but he manages to get some leads on her in his school’s broadcasting club. That’s where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four’s dreams pan out? <br><br> (Source: K Manga)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://mayochu-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/anime_mayochu",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365772/tune-in-to-the-midnight-heart",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290283",
           "type": "STREAMING",
           "language": null
         }
@@ -2875,9 +2874,9 @@
         "startDate": "2026-01-11",
         "endDate": "2026-06-28",
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1781970960,
-          "episode": 23,
-          "timeUntilAiringSec": 455788
+          "airingAtEpochSec": 1782575760,
+          "episode": 24,
+          "timeUntilAiringSec": 457195
         }
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
@@ -3896,9 +3895,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1781998200,
-          "episode": 21,
-          "timeUntilAiringSec": 483028
+          "airingAtEpochSec": 1782603000,
+          "episode": 22,
+          "timeUntilAiringSec": 484435
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4276,8 +4275,8 @@
         "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-hlwafdUZhjwD.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-hlwafdUZhjwD.png",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-oRwVKBMezOOk.jpg",
         "banner": ""
       },
       "meta": {
@@ -4466,65 +4465,6 @@
       ]
     },
     {
-      "id": "206425",
-      "title": {
-        "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
-        "english": "",
-        "native": "葬送のフリーレン ～●●の魔法～ 3クール"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206425-WOwXsfDbHZwb.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206425-WOwXsfDbHZwb.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy",
-          "Fantasy"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [
-          "TOHO animation STUDIO"
-        ],
-        "siteUrl": "https://anilist.co/anime/206425"
-      },
-      "airing": {
-        "startDate": "2026-01-19",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br> • Akogare ni Hitareru Mahou (憧れにひたれる魔法), released on May 22, 2026.<br>",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLtdSPZNWT1AuEnWLElajRzm2DZhx1tVhd",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://frieren-anime.jp/special/dchara/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@anime_frieren",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/anime_frieren",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "204949",
       "title": {
         "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
@@ -4592,6 +4532,65 @@
           "url": "https://www.netflix.com/title/82703490",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "206425",
+      "title": {
+        "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+        "english": "",
+        "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206425-WOwXsfDbHZwb.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206425-WOwXsfDbHZwb.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [
+          "TOHO animation STUDIO"
+        ],
+        "siteUrl": "https://anilist.co/anime/206425"
+      },
+      "airing": {
+        "startDate": "2026-01-19",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br> • Akogare ni Hitareru Mahou (憧れにひたれる魔法), released on May 22, 2026.<br>",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLtdSPZNWT1AuEnWLElajRzm2DZhx1tVhd",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://frieren-anime.jp/special/dchara/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@anime_frieren",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/anime_frieren",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
