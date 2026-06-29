@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T08:56:05.472Z",
+  "generatedAt": "2026-06-29T08:10:26.609Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -310,6 +310,72 @@
       ]
     },
     {
+      "id": "184951",
+      "title": {
+        "romaji": "Seihantai na Kimi to Boku",
+        "english": "You and I Are Polar Opposites",
+        "native": "正反対な君と僕"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Lapin Track"
+        ],
+        "siteUrl": "https://anilist.co/anime/184951"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract? <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/seihantai_x",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2288405",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "182587",
       "title": {
         "romaji": "[Oshi no Ko] 3rd Season",
@@ -401,72 +467,6 @@
         {
           "site": "Netflix",
           "url": "https://www.netflix.com/title/81684733",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "184951",
-      "title": {
-        "romaji": "Seihantai na Kimi to Boku",
-        "english": "You and I Are Polar Opposites",
-        "native": "正反対な君と僕"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Lapin Track"
-        ],
-        "siteUrl": "https://anilist.co/anime/184951"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract? <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/seihantai_x",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2288405",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu",
           "type": "STREAMING",
           "language": null
         }
@@ -1147,6 +1147,60 @@
       ]
     },
     {
+      "id": "185262",
+      "title": {
+        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Yokohama Animation Lab"
+        ],
+        "siteUrl": "https://anilist.co/anime/185262"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hellmode-anime.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hellmode_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "178005",
       "title": {
         "romaji": "Tamon-kun Ima Docchi!?",
@@ -1206,60 +1260,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JijRmWuTWXJjTIQNOs-hMfO",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "185262",
-      "title": {
-        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
-        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Yokohama Animation Lab"
-        ],
-        "siteUrl": "https://anilist.co/anime/185262"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hellmode-anime.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hellmode_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34351",
           "type": "STREAMING",
           "language": null
         }
@@ -1989,59 +1989,6 @@
       ]
     },
     {
-      "id": "177679",
-      "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "BELLNOX FILMS"
-        ],
-        "siteUrl": "https://anilist.co/anime/177679"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
-        "nextAiringEpisode": null
-      },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://darwinsincident.net/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "189565",
       "title": {
         "romaji": "Osananajimi to wa Love Comedy ni Naranai",
@@ -2089,6 +2036,59 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177679",
+      "title": {
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "BELLNOX FILMS"
+        ],
+        "siteUrl": "https://anilist.co/anime/177679"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
+        "nextAiringEpisode": null
+      },
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/darwins_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2380,60 +2380,6 @@
       ]
     },
     {
-      "id": "194028",
-      "title": {
-        "romaji": "Kirei ni Shitemoraemasu ka.",
-        "english": "Wash It All Away",
-        "native": "綺麗にしてもらえますか。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Okuruto Noboru"
-        ],
-        "siteUrl": "https://anilist.co/anime/194028"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
-        "nextAiringEpisode": null
-      },
-      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://kinishite.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kinishite_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183660",
       "title": {
         "romaji": "Kaya-chan wa Kowakunai",
@@ -2494,6 +2440,60 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jis0F2QZax-uSX38BtSw_-B",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "194028",
+      "title": {
+        "romaji": "Kirei ni Shitemoraemasu ka.",
+        "english": "Wash It All Away",
+        "native": "綺麗にしてもらえますか。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Okuruto Noboru"
+        ],
+        "siteUrl": "https://anilist.co/anime/194028"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
+      },
+      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://kinishite.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kinishite_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
           "type": "STREAMING",
           "language": null
         }
@@ -2855,7 +2855,7 @@
       },
       "meta": {
         "format": "TV",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Action",
           "Comedy",
@@ -2873,11 +2873,7 @@
       "airing": {
         "startDate": "2026-01-11",
         "endDate": "2026-06-28",
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1782575760,
-          "episode": 24,
-          "timeUntilAiringSec": 457195
-        }
+        "nextAiringEpisode": null
       },
       "description": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!<br><br>(Source: Crunchyroll)",
       "links": [
@@ -3297,7 +3293,7 @@
           "Sports"
         ],
         "episodes": 13,
-        "durationMin": 25,
+        "durationMin": 24,
         "studios": [
           "TMS Entertainment"
         ],
@@ -3530,7 +3526,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197731-6E0qjPFaNjC6.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197731-6E0qjPFaNjC6.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197731-VeT1HuLHoRGl.jpg"
       },
       "meta": {
         "format": "TV",
@@ -3895,9 +3891,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1782603000,
-          "episode": 22,
-          "timeUntilAiringSec": 484435
+          "airingAtEpochSec": 1783207800,
+          "episode": 23,
+          "timeUntilAiringSec": 487174
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -5108,7 +5104,11 @@
       "airing": {
         "startDate": "2025-12-22",
         "endDate": null,
-        "nextAiringEpisode": null
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1782860400,
+          "episode": 26,
+          "timeUntilAiringSec": 139774
+        }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
       "links": [
@@ -5455,30 +5455,46 @@
           "url": "https://x.com/yanineko_anime/status/2025223993285115915",
           "type": "SOCIAL",
           "language": null
-        },
+        }
+      ]
+    },
+    {
+      "id": "206857",
+      "title": {
+        "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
+        "english": "",
+        "native": "おしり前マン～復活のおしり前帝国～ "
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206857-as3nDbOyIu7t.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 1,
+        "durationMin": null,
+        "studios": [
+          "Studio Outrigger"
+        ],
+        "siteUrl": "https://anilist.co/anime/206857"
+      },
+      "airing": {
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "nextAiringEpisode": null
+      },
+      "description": "Maejiri, an otherwise ordinary office worker whose only unusual trait is that his butt is in the front, secretly lives a double life as the city's protector — Oshirimae Man. One day he discovers that a strange drug is spreading through the city which causes people's butts to move to the front. After infiltrating a pharmaceutical company, he uncovers the shocking \"Oshirimae Man Empire Revival Plan,\" led by a mysterious villain burning with vengeance. <br><br> Can Oshirimae Man stop him before all of humanity finds its butt… in the front? <br><br> (Source: YouTube, edited)",
+      "links": [
         {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2035370854242980091",
-          "type": "SOCIAL",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2047136122401436078",
-          "type": "SOCIAL",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2052209552570081471/",
-          "type": "SOCIAL",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2057282982600462404/",
-          "type": "SOCIAL",
-          "language": null
+          "site": "Official Site",
+          "url": "https://saigate.co.jp/oshirifront/",
+          "type": "INFO",
+          "language": "Japanese"
         }
       ]
     },
@@ -5542,46 +5558,6 @@
           "site": "Twitter",
           "url": "https://x.com/sukima_anime",
           "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "206857",
-      "title": {
-        "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
-        "english": "",
-        "native": "おしり前マン～復活のおしり前帝国～ "
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206857-as3nDbOyIu7t.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 1,
-        "durationMin": null,
-        "studios": [
-          "Studio Outrigger"
-        ],
-        "siteUrl": "https://anilist.co/anime/206857"
-      },
-      "airing": {
-        "startDate": "2026-03-20",
-        "endDate": "2026-03-20",
-        "nextAiringEpisode": null
-      },
-      "description": "Maejiri, an otherwise ordinary office worker whose only unusual trait is that his butt is in the front, secretly lives a double life as the city's protector — Oshirimae Man. One day he discovers that a strange drug is spreading through the city which causes people's butts to move to the front. After infiltrating a pharmaceutical company, he uncovers the shocking \"Oshirimae Man Empire Revival Plan,\" led by a mysterious villain burning with vengeance. <br><br> Can Oshirimae Man stop him before all of humanity finds its butt… in the front? <br><br> (Source: YouTube, edited)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://saigate.co.jp/oshirifront/",
-          "type": "INFO",
           "language": "Japanese"
         }
       ]
