@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T08:10:26.609Z",
+  "generatedAt": "2026-07-06T07:10:34.956Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -733,6 +733,12 @@
           "url": "https://www.iq.com/album/teqzlene1l",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9epLmr8go4jihoGivpQCnqd",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -1217,6 +1223,7 @@
         "status": "FINISHED",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "episodes": 13,
@@ -1311,6 +1318,12 @@
           "url": "https://movie02.ten-sura.com/",
           "type": "INFO",
           "language": "Japanese"
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/2148skkgzn0",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -1924,6 +1937,59 @@
       ]
     },
     {
+      "id": "189565",
+      "title": {
+        "romaji": "Osananajimi to wa Love Comedy ni Naranai",
+        "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+        "native": "幼馴染とはラブコメにならない"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Tezuka Productions"
+        ],
+        "siteUrl": "https://anilist.co/anime/189565"
+      },
+      "airing": {
+        "startDate": "2026-01-06",
+        "endDate": "2026-03-24",
+        "nextAiringEpisode": null
+      },
+      "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest! <br><br> (Source: Kodansha, translated)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://anime-osalove.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/love_Osnnjm_wm",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "187901",
       "title": {
         "romaji": "Dead Account",
@@ -1983,59 +2049,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "189565",
-      "title": {
-        "romaji": "Osananajimi to wa Love Comedy ni Naranai",
-        "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-        "native": "幼馴染とはラブコメにならない"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Tezuka Productions"
-        ],
-        "siteUrl": "https://anilist.co/anime/189565"
-      },
-      "airing": {
-        "startDate": "2026-01-06",
-        "endDate": "2026-03-24",
-        "nextAiringEpisode": null
-      },
-      "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest! <br><br> (Source: Kodansha, translated)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://anime-osalove.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/love_Osnnjm_wm",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365622/you-cant-be-in-a-rom-com-with-your-childhood-friends",
           "type": "STREAMING",
           "language": null
         }
@@ -2609,6 +2622,12 @@
           "url": "https://www.youtube.com/watch?v=HHDpG5ofODk&list=PLhGamQZtJ7K8yocPHbrtrYmX8NdN6hvOW&index=13",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0GGTPR5Z2/",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -2983,61 +3002,6 @@
       ]
     },
     {
-      "id": "185514",
-      "title": {
-        "romaji": "Champignon no Majo",
-        "english": "Champignon Witch",
-        "native": "シャンピニオンの魔女"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-mfJqhtz22l1Z.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185514-I19hOYFDzU1X.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Supernatural"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Qzil.la",
-          "TYPHOON GRAPHICS"
-        ],
-        "siteUrl": "https://anilist.co/anime/185514"
-      },
-      "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-03-20",
-        "nextAiringEpisode": null
-      },
-      "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/Champignon_PR",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://champignon-pr.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://crunchyroll.com/series/GT00365553/champignon-witch",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "177580",
       "title": {
         "romaji": "Hanazakari no Kimitachi e",
@@ -3101,6 +3065,61 @@
           "url": "https://www.instagram.com/hanakimi_anime/",
           "type": "SOCIAL",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "185514",
+      "title": {
+        "romaji": "Champignon no Majo",
+        "english": "Champignon Witch",
+        "native": "シャンピニオンの魔女"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-mfJqhtz22l1Z.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185514-I19hOYFDzU1X.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Qzil.la",
+          "TYPHOON GRAPHICS"
+        ],
+        "siteUrl": "https://anilist.co/anime/185514"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-03-20",
+        "nextAiringEpisode": null
+      },
+      "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/Champignon_PR",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://champignon-pr.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://crunchyroll.com/series/GT00365553/champignon-witch",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -3465,7 +3484,7 @@
       "id": "198373",
       "title": {
         "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
-        "english": "",
+        "english": "Assassination Classroom the Movie: Our Time",
         "native": "暗殺教室 みんなの時間"
       },
       "image": {
@@ -3483,7 +3502,7 @@
           "Supernatural"
         ],
         "episodes": 1,
-        "durationMin": null,
+        "durationMin": 87,
         "studios": [
           "Lerche"
         ],
@@ -3891,9 +3910,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1783207800,
-          "episode": 23,
-          "timeUntilAiringSec": 487174
+          "airingAtEpochSec": 1783812600,
+          "episode": 24,
+          "timeUntilAiringSec": 490766
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4166,8 +4185,8 @@
         "native": "パリに咲くエトワール"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197097-adHgYO4T73vA.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197097-adHgYO4T73vA.jpg",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197097-TMVCECG0w7fy.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197097-TMVCECG0w7fy.jpg",
         "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197097-K85XYWGqIHQ9.jpg"
       },
       "meta": {
@@ -4215,7 +4234,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-qhtrra5ebBm6.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189258-qhtrra5ebBm6.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189258-VBSFkellCUVf.jpg"
       },
       "meta": {
         "format": "TV",
@@ -4478,7 +4497,6 @@
         "genres": [
           "Adventure",
           "Comedy",
-          "Fantasy",
           "Sci-Fi"
         ],
         "episodes": 1,
@@ -4713,7 +4731,7 @@
       "title": {
         "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
         "english": "You don't know Gunma yet.: Reiwa version",
-        "native": "お前はまだグンマを知らない～令和版～ "
+        "native": "お前はまだグンマを知らない～令和版～"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202419-BmPPSzsegbcv.png",
@@ -4805,6 +4823,52 @@
       ]
     },
     {
+      "id": "203127",
+      "title": {
+        "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
+        "english": "",
+        "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203127-cJqnhI0w5WEk.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "OVA",
+        "status": "FINISHED",
+        "genres": [
+          "Slice of Life"
+        ],
+        "episodes": 1,
+        "durationMin": 6,
+        "studios": [
+          "Actas"
+        ],
+        "siteUrl": "https://anilist.co/anime/203127"
+      },
+      "airing": {
+        "startDate": "2026-01-28",
+        "endDate": "2026-01-28",
+        "nextAiringEpisode": null
+      },
+      "description": "An anime short included with the <i>Princess Principal: Crown Handler Chapter 4</i> Blu-ray release.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/pripri_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://pripri-anime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "204432",
       "title": {
         "romaji": "CHOPPER's",
@@ -4852,52 +4916,6 @@
         {
           "site": "Official Site",
           "url": "https://choppers.onepiece-base.com",
-          "type": "INFO",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "203127",
-      "title": {
-        "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
-        "english": "",
-        "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203127-cJqnhI0w5WEk.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "OVA",
-        "status": "FINISHED",
-        "genres": [
-          "Slice of Life"
-        ],
-        "episodes": 1,
-        "durationMin": 6,
-        "studios": [
-          "Actas"
-        ],
-        "siteUrl": "https://anilist.co/anime/203127"
-      },
-      "airing": {
-        "startDate": "2026-01-28",
-        "endDate": "2026-01-28",
-        "nextAiringEpisode": null
-      },
-      "description": "An anime short included with the <i>Princess Principal: Crown Handler Chapter 4</i> Blu-ray release.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/pripri_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://pripri-anime.jp/",
           "type": "INFO",
           "language": "Japanese"
         }
@@ -5081,7 +5099,7 @@
       "title": {
         "romaji": "mofusand",
         "english": "",
-        "native": "mofusand "
+        "native": "mofusand"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -5105,9 +5123,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1782860400,
-          "episode": 26,
-          "timeUntilAiringSec": 139774
+          "airingAtEpochSec": 1783465200,
+          "episode": 27,
+          "timeUntilAiringSec": 143366
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5195,7 +5213,7 @@
       "title": {
         "romaji": "#Kanagawa ni Sunderu Elf",
         "english": "Kanagawa Elves",
-        "native": "#神奈川に住んでるエルフ "
+        "native": "#神奈川に住んでるエルフ"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
@@ -5368,53 +5386,6 @@
       ]
     },
     {
-      "id": "203148",
-      "title": {
-        "romaji": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
-        "english": "",
-        "native": "ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203148-fMhz9uyA6HEK.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203148-fMhz9uyA6HEK.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Toon Harbor Works"
-        ],
-        "siteUrl": "https://anilist.co/anime/203148"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "The anime's story is set in a world made of \"cuteness\" called Sun Kingdom. Ganso Hoppe-chan, who lost her memory, appears in the kingdom. Meanwhile, in the real world, an office worker named Hoho is slowly losing her self-esteem in her work and life, sending her on the verge of becoming lost in life. Somewhere between Ganso Hoppe-chan and Hoho's worlds, their paths cross. Back in Sun Kingdom, toxic Hoppe-chan creatures are creating an \"uncute place,\" and Ganso Hoppe-chan joins the \"Guardians\" to protect the kingdom. <br><br> (Source: ANN)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hoppechan.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hoppechan_pj",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "208105",
       "title": {
         "romaji": "Yani Neko Mini",
@@ -5459,41 +5430,48 @@
       ]
     },
     {
-      "id": "206857",
+      "id": "203148",
       "title": {
-        "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
+        "romaji": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
         "english": "",
-        "native": "おしり前マン～復活のおしり前帝国～ "
+        "native": "ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206857-as3nDbOyIu7t.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203148-fMhz9uyA6HEK.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203148-fMhz9uyA6HEK.jpg",
         "banner": ""
       },
       "meta": {
-        "format": "MOVIE",
+        "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Comedy"
+          "Adventure",
+          "Fantasy"
         ],
-        "episodes": 1,
-        "durationMin": null,
+        "episodes": 12,
+        "durationMin": 24,
         "studios": [
-          "Studio Outrigger"
+          "Toon Harbor Works"
         ],
-        "siteUrl": "https://anilist.co/anime/206857"
+        "siteUrl": "https://anilist.co/anime/203148"
       },
       "airing": {
-        "startDate": "2026-03-20",
-        "endDate": "2026-03-20",
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
         "nextAiringEpisode": null
       },
-      "description": "Maejiri, an otherwise ordinary office worker whose only unusual trait is that his butt is in the front, secretly lives a double life as the city's protector — Oshirimae Man. One day he discovers that a strange drug is spreading through the city which causes people's butts to move to the front. After infiltrating a pharmaceutical company, he uncovers the shocking \"Oshirimae Man Empire Revival Plan,\" led by a mysterious villain burning with vengeance. <br><br> Can Oshirimae Man stop him before all of humanity finds its butt… in the front? <br><br> (Source: YouTube, edited)",
+      "description": "The anime's story is set in a world made of \"cuteness\" called Sun Kingdom. Ganso Hoppe-chan, who lost her memory, appears in the kingdom. Meanwhile, in the real world, an office worker named Hoho is slowly losing her self-esteem in her work and life, sending her on the verge of becoming lost in life. Somewhere between Ganso Hoppe-chan and Hoho's worlds, their paths cross. Back in Sun Kingdom, toxic Hoppe-chan creatures are creating an \"uncute place,\" and Ganso Hoppe-chan joins the \"Guardians\" to protect the kingdom. <br><br> (Source: ANN)",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://saigate.co.jp/oshirifront/",
+          "url": "https://hoppechan.jp/",
           "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hoppechan_pj",
+          "type": "SOCIAL",
           "language": "Japanese"
         }
       ]
@@ -5558,6 +5536,46 @@
           "site": "Twitter",
           "url": "https://x.com/sukima_anime",
           "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "206857",
+      "title": {
+        "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
+        "english": "",
+        "native": "おしり前マン～復活のおしり前帝国～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206857-as3nDbOyIu7t.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 1,
+        "durationMin": null,
+        "studios": [
+          "Studio Outrigger"
+        ],
+        "siteUrl": "https://anilist.co/anime/206857"
+      },
+      "airing": {
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "nextAiringEpisode": null
+      },
+      "description": "Maejiri, an otherwise ordinary office worker whose only unusual trait is that his butt is in the front, secretly lives a double life as the city's protector — Oshirimae Man. One day he discovers that a strange drug is spreading through the city which causes people's butts to move to the front. After infiltrating a pharmaceutical company, he uncovers the shocking \"Oshirimae Man Empire Revival Plan,\" led by a mysterious villain burning with vengeance. <br><br> Can Oshirimae Man stop him before all of humanity finds its butt… in the front? <br><br> (Source: YouTube, edited)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://saigate.co.jp/oshirifront/",
+          "type": "INFO",
           "language": "Japanese"
         }
       ]
