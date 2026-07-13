@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T07:10:34.956Z",
+  "generatedAt": "2026-07-13T06:14:48.613Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1390,6 +1390,12 @@
           "url": "https://www.bilibili.tv/en/media/2289875",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9c0A2EFj5p-mXU08MsDVVWn",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -2223,6 +2229,59 @@
       ]
     },
     {
+      "id": "195518",
+      "title": {
+        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "native": "悪役令嬢は隣国の王太子に溺愛される"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Studio DEEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195518"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://akudeki-anime.com/index.html",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/akudeki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "183270",
       "title": {
         "romaji": "Eris no Seihai",
@@ -2281,59 +2340,6 @@
           "url": "https://www.bilibili.tv/en/media/2290065",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "195518",
-      "title": {
-        "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
-        "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-        "native": "悪役令嬢は隣国の王太子に溺愛される"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Studio DEEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195518"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Tiararose Lapis Clamentile is set to marry Hartknights, crown prince of Lapis Lazuli—until she suddenly remembers her past life and realizes she’s been reincarnated into her favorite game, The Ring of Lapis Lazuli, as the doomed villainess! But just as she’s about to lose hope, the crown prince of Aquasteed proposes instead. Could this unexpected turn finally lead to a happy ending of her own?<br> <br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://akudeki-anime.com/index.html",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365613/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/akudeki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
         }
       ]
     },
@@ -2800,67 +2806,6 @@
       ]
     },
     {
-      "id": "187267",
-      "title": {
-        "romaji": "BEASTARS FINAL SEASON Part 2",
-        "english": "BEASTARS Final Season Part 2",
-        "native": "BEASTARS FINAL SEASON Part 2"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-clvlTabOPdPo.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187267-e2efh1WEbPBT.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Psychological",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Orange"
-        ],
-        "siteUrl": "https://anilist.co/anime/187267"
-      },
-      "airing": {
-        "startDate": "2026-03-07",
-        "endDate": "2026-03-07",
-        "nextAiringEpisode": null
-      },
-      "description": "The second part of <i>BEASTARS Final Season</i>. <br><br> Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://bst-animation.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/bst_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81054847",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@bst_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "187989",
       "title": {
         "romaji": "Yuusha no Kuzu",
@@ -2941,63 +2886,63 @@
       ]
     },
     {
-      "id": "187892",
+      "id": "187267",
       "title": {
-        "romaji": "ALL YOU NEED IS KILL",
-        "english": "ALL YOU NEED IS KILL",
-        "native": "ALL YOU NEED IS KILL"
+        "romaji": "BEASTARS FINAL SEASON Part 2",
+        "english": "BEASTARS Final Season Part 2",
+        "native": "BEASTARS FINAL SEASON Part 2"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-clvlTabOPdPo.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187267-e2efh1WEbPBT.jpg"
       },
       "meta": {
-        "format": "MOVIE",
+        "format": "ONA",
         "status": "FINISHED",
         "genres": [
-          "Action",
-          "Sci-Fi",
-          "Supernatural",
-          "Thriller"
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Slice of Life"
         ],
-        "episodes": 1,
-        "durationMin": 82,
+        "episodes": 12,
+        "durationMin": 24,
         "studios": [
-          "Studio 4°C"
+          "Orange"
         ],
-        "siteUrl": "https://anilist.co/anime/187892"
+        "siteUrl": "https://anilist.co/anime/187267"
       },
       "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-01-09",
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
         "nextAiringEpisode": null
       },
-      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
+      "description": "The second part of <i>BEASTARS Final Season</i>. <br><br> Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
       "links": [
         {
           "site": "Official Site",
-          "url": "https://aynk-anime.com/",
+          "url": "https://bst-animation.com/",
           "type": "INFO",
           "language": "Japanese"
         },
         {
           "site": "Twitter",
-          "url": "https://x.com/aynk_anime",
+          "url": "https://twitter.com/bst_anime",
           "type": "SOCIAL",
           "language": "Japanese"
         },
         {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/aynk_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81054847",
+          "type": "STREAMING",
+          "language": null
         },
         {
-          "site": "Official Site",
-          "url": "https://aynk-anime.com/en/",
-          "type": "INFO",
-          "language": "English"
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@bst_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
@@ -3065,6 +3010,67 @@
           "url": "https://www.instagram.com/hanakimi_anime/",
           "type": "SOCIAL",
           "language": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": "187892",
+      "title": {
+        "romaji": "ALL YOU NEED IS KILL",
+        "english": "ALL YOU NEED IS KILL",
+        "native": "ALL YOU NEED IS KILL"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187892-8xwQPygNv9SG.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187892-ahIIfha3cZg6.jpg"
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sci-Fi",
+          "Supernatural",
+          "Thriller"
+        ],
+        "episodes": 1,
+        "durationMin": 82,
+        "studios": [
+          "Studio 4°C"
+        ],
+        "siteUrl": "https://anilist.co/anime/187892"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-01-09",
+        "nextAiringEpisode": null
+      },
+      "description": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate? <br><br> (Source: Warner Bros. Japan Anime) <br><br> <i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival on June 9, 2025.</i>",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/aynk_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://aynk-anime.com/en/",
+          "type": "INFO",
+          "language": "English"
         }
       ]
     },
@@ -3910,9 +3916,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1783812600,
-          "episode": 24,
-          "timeUntilAiringSec": 490766
+          "airingAtEpochSec": 1784417400,
+          "episode": 25,
+          "timeUntilAiringSec": 494112
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -5123,9 +5129,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1783465200,
-          "episode": 27,
-          "timeUntilAiringSec": 143366
+          "airingAtEpochSec": 1784070000,
+          "episode": 28,
+          "timeUntilAiringSec": 146712
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5702,6 +5708,38 @@
           "language": "Japanese"
         }
       ]
+    },
+    {
+      "id": "213928",
+      "title": {
+        "romaji": "Han ye Deng Zhu",
+        "english": "",
+        "native": "寒夜灯柱"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213928-524kEtgeNjM4.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213928-524kEtgeNjM4.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Sci-Fi"
+        ],
+        "episodes": 1,
+        "durationMin": 90,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/213928"
+      },
+      "airing": {
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "nextAiringEpisode": null
+      },
+      "description": "The future. Winter. Space travel is no longer a dream. A once-thriving film studio faces bankruptcy. The enormous compound, with structures ranging from the Great Sphinx of Giza to the Forbidden City, is now completely covered in snow and stripped of its former glory. Zha, a lonely janitor, tends to this forgotten place, with only a cat that used to perform in films for company. Running out of money, the studio owner gives him a VR headset as partial compensation. Zha is immediately drawn into the virtual world and embarks on a romantic journey with a female player who invites him on a trip to the moon. Meanwhile, the studio, which is about to close permanently, is temporarily brought back to life when a film crew arrives to shoot an alien invasion movie on the expansive backlot – with the studio’s actual destruction slated to be shot as the movie’s final showdown. <br><br> (Source: Berlinale Film Festival)",
+      "links": []
     }
   ]
 }
