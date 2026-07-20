@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T06:14:48.613Z",
+  "generatedAt": "2026-07-20T06:15:31.362Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -118,7 +118,7 @@
         "endDate": "2026-03-27",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Sousou no Frieren</i>.",
+      "description": "Following the First-Class Mage Exam, the trio—elven mage Frieren, warrior Stark, and first-class mage Fern—gains access to the dangerous Northern Plateau. As the party presses onward toward Aureole, formidable adversaries force Stark to confront his insecurities, solidifying his resolve and his role as the party's frontliner. Meanwhile, Fern continues to cherish the gifts she has been blessed with throughout her life, each a reminder of those she holds dear.<br><br> Frieren—still honoring her vow to understand humanity—revisits memories of her journey with the Hero's party and her fleeting encounter with a legendary figure. As she reflects on the passage of time, the elven mage quietly questions whether she has truly changed, yet in the small, almost subtle choices that she makes, there are signs that she might have become more human than she realizes.<br><br> (Source: MAL Rewrite)",
       "links": [
         {
           "site": "Official Site",
@@ -379,7 +379,7 @@
       "id": "182587",
       "title": {
         "romaji": "[Oshi no Ko] 3rd Season",
-        "english": "【OSHI NO KO】Season 3",
+        "english": "OSHI NO KO Season 3",
         "native": "【推しの子】第3期"
       },
       "image": {
@@ -408,7 +408,7 @@
         "endDate": "2026-03-25",
         "nextAiringEpisode": null
       },
-      "description": "The third season of <i>[Oshi no Ko]</i>. <br><br> The story enters a new stage. <br><br> It's been six months since \"POP IN 2\" was released. Thanks to MEM-Cho's hard work, B-Komachi is about to get their major break. Aqua is a multi-talented entertainer, and Akane's career as a talented actress is going smoothly. Meanwhile, Kana lost the cheerfulness she once had. To track down the truth behind Ai and Goro's deaths, Ruby keeps rising in the entertainment world... <br><br> <b>Using lies as a weapon.</b> <br><br> (Source: Crunchyroll) <br><br> <i>Note: The last episode has an extended runtime of ~54 minutes.</i>",
+      "description": "The story enters a new stage. <br><br> It's been six months since \"POP IN 2\" was released. Thanks to MEM-Cho's hard work, B-Komachi is about to get their major break. Aqua is a multi-talented entertainer, and Akane's career as a talented actress is going smoothly. Meanwhile, Kana lost the cheerfulness she once had. To track down the truth behind Ai and Goro's deaths, Ruby keeps rising in the entertainment world—using lies as a weapon. <br><br> (Source: Crunchyroll) <br><br> <i>Note: The last episode has an extended runtime of ~54 minutes.</i>",
       "links": [
         {
           "site": "Twitter",
@@ -1080,6 +1080,60 @@
       ]
     },
     {
+      "id": "185262",
+      "title": {
+        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Yokohama Animation Lab"
+        ],
+        "siteUrl": "https://anilist.co/anime/185262"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hellmode-anime.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hellmode_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "195515",
       "title": {
         "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
@@ -1147,60 +1201,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgiegdmIMRF4OGiKggAFytJ",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "185262",
-      "title": {
-        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
-        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Yokohama Animation Lab"
-        ],
-        "siteUrl": "https://anilist.co/anime/185262"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hellmode-anime.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hellmode_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34351",
           "type": "STREAMING",
           "language": null
         }
@@ -1833,6 +1833,66 @@
       ]
     },
     {
+      "id": "182317",
+      "title": {
+        "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+        "english": "The Dangers in My Heart: The Movie",
+        "native": "劇場版 僕の心のヤバイやつ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg"
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 1,
+        "durationMin": 102,
+        "studios": [
+          "Shin-Ei Animation"
+        ],
+        "siteUrl": "https://anilist.co/anime/182317"
+      },
+      "airing": {
+        "startDate": "2026-02-13",
+        "endDate": "2026-02-13",
+        "nextAiringEpisode": null
+      },
+      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://bokuyaba-anime-movie.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/bokuyaba_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@bokuyaba_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/interstitial/977315",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "191718",
       "title": {
         "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -1885,60 +1945,6 @@
           "url": "https://www.crunchyroll.com/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "182317",
-      "title": {
-        "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
-        "english": "The Dangers in My Heart: The Movie",
-        "native": "劇場版 僕の心のヤバイやつ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182317-zzpOnAECrM2o.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg"
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 1,
-        "durationMin": 102,
-        "studios": [
-          "Shin-Ei Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/182317"
-      },
-      "airing": {
-        "startDate": "2026-02-13",
-        "endDate": "2026-02-13",
-        "nextAiringEpisode": null
-      },
-      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://bokuyaba-anime-movie.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/bokuyaba_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@bokuyaba_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
         }
       ]
     },
@@ -2746,6 +2752,67 @@
       ]
     },
     {
+      "id": "187267",
+      "title": {
+        "romaji": "BEASTARS FINAL SEASON Part 2",
+        "english": "BEASTARS Final Season Part 2",
+        "native": "BEASTARS FINAL SEASON Part 2"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-clvlTabOPdPo.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187267-e2efh1WEbPBT.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Orange"
+        ],
+        "siteUrl": "https://anilist.co/anime/187267"
+      },
+      "airing": {
+        "startDate": "2026-03-07",
+        "endDate": "2026-03-07",
+        "nextAiringEpisode": null
+      },
+      "description": "The second part of <i>BEASTARS Final Season</i>. <br><br> Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://bst-animation.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/bst_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81054847",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@bst_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "189275",
       "title": {
         "romaji": "Medalist 2nd Season",
@@ -2882,67 +2949,6 @@
           "url": "https://www.youtube.com/playlist?list=PLPanbgyToztZkryJy8UUrvrpwGRH4bXVJ",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "187267",
-      "title": {
-        "romaji": "BEASTARS FINAL SEASON Part 2",
-        "english": "BEASTARS Final Season Part 2",
-        "native": "BEASTARS FINAL SEASON Part 2"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-clvlTabOPdPo.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187267-e2efh1WEbPBT.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Psychological",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Orange"
-        ],
-        "siteUrl": "https://anilist.co/anime/187267"
-      },
-      "airing": {
-        "startDate": "2026-03-07",
-        "endDate": "2026-03-07",
-        "nextAiringEpisode": null
-      },
-      "description": "The second part of <i>BEASTARS Final Season</i>. <br><br> Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://bst-animation.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/bst_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81054847",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@bst_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
         }
       ]
     },
@@ -3745,7 +3751,9 @@
       "meta": {
         "format": "MOVIE",
         "status": "FINISHED",
-        "genres": [],
+        "genres": [
+          "Drama"
+        ],
         "episodes": 1,
         "durationMin": 75,
         "studios": [
@@ -3916,9 +3924,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1784417400,
-          "episode": 25,
-          "timeUntilAiringSec": 494112
+          "airingAtEpochSec": 1785022200,
+          "episode": 26,
+          "timeUntilAiringSec": 494069
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4645,7 +4653,7 @@
         "endDate": "2026-03-27",
         "nextAiringEpisode": null
       },
-      "description": "The wildly eccentric group, the Kimengumi, returns in the Reiwa era with their ultra-high-energy youth comedy!",
+      "description": "Rei Ichidou, Gou Reietsu, Kiyoshi Shusse, Jin Daima, and Dai Monohoshi are five students attending Ichio Junior High. With their unique quirks, eccentric personalities, and feats like repeating grades in junior high, they have earned a reputation among their peers as the infamous group, \"Kimengumi.\"<br><br> (Source: Amazon Prime Video)",
       "links": [
         {
           "site": "Twitter",
@@ -5129,9 +5137,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1784070000,
-          "episode": 28,
-          "timeUntilAiringSec": 146712
+          "airingAtEpochSec": 1784674800,
+          "episode": 29,
+          "timeUntilAiringSec": 146669
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5338,6 +5346,50 @@
       ]
     },
     {
+      "id": "208105",
+      "title": {
+        "romaji": "Yani Neko Mini",
+        "english": "",
+        "native": "ヤニねこ ミニ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/208105"
+      },
+      "airing": {
+        "startDate": "2026-02-22",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "187508",
       "title": {
         "romaji": "Duel Masters LOST: Boukyaku no Taiyou",
@@ -5388,50 +5440,6 @@
           "url": "https://x.com/duema_anime",
           "type": "SOCIAL",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "208105",
-      "title": {
-        "romaji": "Yani Neko Mini",
-        "english": "",
-        "native": "ヤニねこ ミニ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/208105"
-      },
-      "airing": {
-        "startDate": "2026-02-22",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
-          "type": "SOCIAL",
-          "language": null
         }
       ]
     },
