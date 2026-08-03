@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T06:26:58.681Z",
+  "generatedAt": "2026-08-03T06:20:22.933Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -678,9 +678,9 @@
         "native": "勇者パーティを追い出された器用貧乏"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187264-aOUNQvTriPkX.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
-        "banner": ""
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187264-wjwbVdnynbbu.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-wjwbVdnynbbu.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187264-ceCN5zg6MUeo.jpg"
       },
       "meta": {
         "format": "ONA",
@@ -913,6 +913,7 @@
           "Action",
           "Drama",
           "Mystery",
+          "Psychological",
           "Thriller"
         ],
         "episodes": 11,
@@ -1305,7 +1306,7 @@
         "endDate": "2026-02-27",
         "nextAiringEpisode": null
       },
-      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br> (Source: Crunchyroll)<br><br> <i>Note: Relations are provisional and subject to change.</i>",
+      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> Fresh off celebrating Tempest’s founding festival, Rimuru and his companions are summoned to the Sorcerous Dynasty of Thalion, a nation of elves, by its influential empress, Elmesia. But their well-earned rest at her private resort island is cut short when a mysterious girl named Yura shows up, kicking off a new adventure on the endless azure sea..<br><br> (Source: Crunchyroll)<br><br>",
       "links": [
         {
           "site": "Twitter",
@@ -1322,6 +1323,18 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/2148skkgzn0",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GMTE00374450/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GMTE00374450/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
           "type": "STREAMING",
           "language": null
         }
@@ -1541,9 +1554,9 @@
     {
       "id": "191205",
       "title": {
-        "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+        "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni",
         "english": "Easygoing Territory Defense by the Optimistic Lord",
-        "native": "お気楽領主の楽しい領地防衛"
+        "native": "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191205-ALhucRyrwOW1.jpg",
@@ -1671,8 +1684,8 @@
         "native": "プリズム輪舞曲"
       },
       "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-zTxNoi76pBoP.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-zTxNoi76pBoP.jpg",
         "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg"
       },
       "meta": {
@@ -1683,7 +1696,7 @@
           "Romance"
         ],
         "episodes": 20,
-        "durationMin": 24,
+        "durationMin": 27,
         "studios": [
           "WIT STUDIO"
         ],
@@ -2182,9 +2195,9 @@
     {
       "id": "187941",
       "title": {
-        "romaji": "Tensei Shitara Dragon no Tamago Datta",
+        "romaji": "Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee",
         "english": "Reincarnated as a Dragon Hatchling",
-        "native": "転生したらドラゴンの卵だった"
+        "native": "転生したらドラゴンの卵だった～最強以外目指さねぇ～"
       },
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
@@ -2229,6 +2242,12 @@
         {
           "site": "HIDIVE",
           "url": "https://www.hidive.com/season/34352",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/@doratama_anime",
           "type": "STREAMING",
           "language": null
         }
@@ -2422,7 +2441,8 @@
         "genres": [
           "Comedy",
           "Horror",
-          "Slice of Life"
+          "Slice of Life",
+          "Supernatural"
         ],
         "episodes": 12,
         "durationMin": 24,
@@ -3569,7 +3589,8 @@
         "format": "TV",
         "status": "FINISHED",
         "genres": [
-          "Comedy"
+          "Comedy",
+          "Slice of Life"
         ],
         "episodes": 12,
         "durationMin": 24,
@@ -3936,9 +3957,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1785627000,
-          "episode": 27,
-          "timeUntilAiringSec": 493382
+          "airingAtEpochSec": 1786231800,
+          "episode": 28,
+          "timeUntilAiringSec": 493778
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4088,7 +4109,7 @@
         },
         {
           "site": "Netflix",
-          "url": "https://www.netflix.com/us/title/",
+          "url": "https://www.netflix.com/title/82968180",
           "type": "STREAMING",
           "language": null
         }
@@ -4413,7 +4434,7 @@
     {
       "id": "199446",
       "title": {
-        "romaji": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
+        "romaji": "Saioshi no Gikei wo Mederu Tame, Nagaikishimasu!",
         "english": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
         "native": "最推しの義兄を愛でるため、長生きします！"
       },
@@ -4442,7 +4463,7 @@
         "endDate": "2026-03-21",
         "nextAiringEpisode": null
       },
-      "description": "The story of Saioshi no Gikei Mederutame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die. <br><br> (Source: ANN)",
+      "description": "The story of Saioshi no Gikei wo Mederu Tame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die. <br><br> (Source: Anime News Network)",
       "links": [
         {
           "site": "Twitter",
@@ -4460,53 +4481,6 @@
           "site": "OceanVeil",
           "url": "https://oceanveil.net/anime_titles/349",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "195384",
-      "title": {
-        "romaji": "Meikyuu no Shiori",
-        "english": "LABYRINTH",
-        "native": "迷宮のしおり"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Horror",
-          "Sci-Fi"
-        ],
-        "episodes": 1,
-        "durationMin": 125,
-        "studios": [
-          "SANZIGEN"
-        ],
-        "siteUrl": "https://anilist.co/anime/195384"
-      },
-      "airing": {
-        "startDate": "2026-01-01",
-        "endDate": "2026-01-01",
-        "nextAiringEpisode": null
-      },
-      "description": "One day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama. <br><br> When she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post? <br><br> Will she be able to escape from this strange smartphone labyrinth? <br><br> (Source: Official Site, translated)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/meikyu_shiori",
-          "type": "SOCIAL",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gaga.ne.jp/meikyu-shiori/",
-          "type": "INFO",
           "language": null
         }
       ]
@@ -4577,6 +4551,53 @@
           "site": "Netflix",
           "url": "https://www.netflix.com/title/82703490",
           "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "195384",
+      "title": {
+        "romaji": "Meikyuu no Shiori",
+        "english": "LABYRINTH",
+        "native": "迷宮のしおり"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Horror",
+          "Sci-Fi"
+        ],
+        "episodes": 1,
+        "durationMin": 125,
+        "studios": [
+          "SANZIGEN"
+        ],
+        "siteUrl": "https://anilist.co/anime/195384"
+      },
+      "airing": {
+        "startDate": "2026-01-01",
+        "endDate": "2026-01-01",
+        "nextAiringEpisode": null
+      },
+      "description": "One day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama. <br><br> When she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post? <br><br> Will she be able to escape from this strange smartphone labyrinth? <br><br> (Source: Official Site, translated)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/meikyu_shiori",
+          "type": "SOCIAL",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://gaga.ne.jp/meikyu-shiori/",
+          "type": "INFO",
           "language": null
         }
       ]
@@ -5022,7 +5043,7 @@
       "id": "198720",
       "title": {
         "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
-        "english": "",
+        "english": "Elegy for the Henchmen: Fist of the North Star",
         "native": "北斗の拳 拳王軍ザコたちの挽歌"
       },
       "image": {
@@ -5155,9 +5176,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1785279600,
-          "episode": 30,
-          "timeUntilAiringSec": 145982
+          "airingAtEpochSec": 1785884400,
+          "episode": 31,
+          "timeUntilAiringSec": 146378
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
