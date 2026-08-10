@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T06:20:22.933Z",
+  "generatedAt": "2026-08-10T04:27:24.243Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -969,59 +969,6 @@
       ]
     },
     {
-      "id": "177385",
-      "title": {
-        "romaji": "Ikoku Nikki",
-        "english": "Journal with Witch",
-        "native": "違国日記"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Shuka"
-        ],
-        "siteUrl": "https://anilist.co/anime/177385"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/ikoku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://ikoku-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "185262",
       "title": {
         "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -1070,6 +1017,59 @@
         {
           "site": "HIDIVE",
           "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177385",
+      "title": {
+        "romaji": "Ikoku Nikki",
+        "english": "Journal with Witch",
+        "native": "違国日記"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Shuka"
+        ],
+        "siteUrl": "https://anilist.co/anime/177385"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/ikoku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://ikoku-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
           "type": "STREAMING",
           "language": null
         }
@@ -2080,59 +2080,6 @@
       ]
     },
     {
-      "id": "177679",
-      "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "BELLNOX FILMS"
-        ],
-        "siteUrl": "https://anilist.co/anime/177679"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
-        "nextAiringEpisode": null
-      },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://darwinsincident.net/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "185039",
       "title": {
         "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
@@ -2187,6 +2134,59 @@
         {
           "site": "Bilibili TV",
           "url": "https://www.bilibili.tv/en/media/2290152",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177679",
+      "title": {
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "BELLNOX FILMS"
+        ],
+        "siteUrl": "https://anilist.co/anime/177679"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
+        "nextAiringEpisode": null
+      },
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/darwins_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2545,6 +2545,60 @@
       ]
     },
     {
+      "id": "192261",
+      "title": {
+        "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "english": "An Adventurer’s Daily Grind at Age 29",
+        "native": "29歳独身中堅冒険者の日常"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "HORNETS"
+        ],
+        "siteUrl": "https://anilist.co/anime/192261"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-03-25",
+        "nextAiringEpisode": null
+      },
+      "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. <br><br> Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. <br><br> One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! <br><br> The girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/anime29sai",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://anime-29sai-dokushin.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "199112",
       "title": {
         "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
@@ -2604,60 +2658,6 @@
         {
           "site": "Amazon Prime Video",
           "url": "https://www.amazon.com/gp/video/detail/B0GGTPR5Z2/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "192261",
-      "title": {
-        "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-        "english": "An Adventurer’s Daily Grind at Age 29",
-        "native": "29歳独身中堅冒険者の日常"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "HORNETS"
-        ],
-        "siteUrl": "https://anilist.co/anime/192261"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-03-25",
-        "nextAiringEpisode": null
-      },
-      "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. <br><br> Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. <br><br> One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! <br><br> The girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/anime29sai",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://anime-29sai-dokushin.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
           "type": "STREAMING",
           "language": null
         }
@@ -3766,6 +3766,12 @@
           "url": "https://youtube.com/@gundaminfo",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81439253",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -3905,7 +3911,7 @@
         "endDate": "2026-02-21",
         "nextAiringEpisode": null
       },
-      "description": "A new short animation for the Evangelion series that debut at the <i>“EVANGELION:30+；30th ANNIVERSARY OF EVANGELION” </i> fes. in Yokohama Arena.<br><br>",
+      "description": "A new short animation for the Evangelion series that debuted at the <i>“EVANGELION:30+；30th ANNIVERSARY OF EVANGELION” </i> fes. in Yokohama Arena.<br><br>",
       "links": [
         {
           "site": "Twitter",
@@ -3957,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1786231800,
-          "episode": 28,
-          "timeUntilAiringSec": 493778
+          "airingAtEpochSec": 1786836600,
+          "episode": 29,
+          "timeUntilAiringSec": 500556
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -3987,65 +3993,6 @@
           "url": "https://x.com/TVanime_precure",
           "type": "SOCIAL",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "187062",
-      "title": {
-        "romaji": "Hikuidori",
-        "english": "Oedo Fire Slayer -The Legend of Phoenix-",
-        "native": "火喰鳥"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187062-JuXPEjrLQSeO.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187062-JuXPEjrLQSeO.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Drama"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "SynergySP"
-        ],
-        "siteUrl": "https://anilist.co/anime/187062"
-      },
-      "airing": {
-        "startDate": "2026-01-11",
-        "endDate": "2026-04-05",
-        "nextAiringEpisode": null
-      },
-      "description": "The fire extinguishing samurai who stopped the great fire was called \"The fire-eating bird\". Matsunaga Gengo, once known as the \"Fire-eating Bird\", was the best fire-fighting samurai in Edo. He had resigned from the fire brigade for a reason but suddenly received an invitation to serve in the Shinjo clan.<br><br> The Shinjo clan's fire-fighting team had no money and no personnel and was looked down upon by those around them. With the encouragement of his wife, Miyuki, Gengo decides to rebuild the collapsed fire-fighting clan as its chairman. Gengo and his friends, all of whom have their own peculiarities, struggle to \"save any life\", despite being ridiculed as \"ragged steeplejacks\"(= the 'Boro-Tobi-Gumi'.), In Edo, a mysterious series of suspicious fires called \"foxfires\" continue. <br><br> An entertaining action drama opens, with the firefighters scrambling to save lives in the face of the approaching disaster! <br><br> (Source: Amuse Creative Studio)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hikuidori-project.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hikuidori_pj",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365724/oedo-fire-slayer--the-legend-of-phoenix-",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jgg8qGQKMckY8CM8ewbQAFo",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -4110,6 +4057,65 @@
         {
           "site": "Netflix",
           "url": "https://www.netflix.com/title/82968180",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187062",
+      "title": {
+        "romaji": "Hikuidori",
+        "english": "Oedo Fire Slayer -The Legend of Phoenix-",
+        "native": "火喰鳥"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187062-JuXPEjrLQSeO.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187062-JuXPEjrLQSeO.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "SynergySP"
+        ],
+        "siteUrl": "https://anilist.co/anime/187062"
+      },
+      "airing": {
+        "startDate": "2026-01-11",
+        "endDate": "2026-04-05",
+        "nextAiringEpisode": null
+      },
+      "description": "The fire extinguishing samurai who stopped the great fire was called \"The fire-eating bird\". Matsunaga Gengo, once known as the \"Fire-eating Bird\", was the best fire-fighting samurai in Edo. He had resigned from the fire brigade for a reason but suddenly received an invitation to serve in the Shinjo clan.<br><br> The Shinjo clan's fire-fighting team had no money and no personnel and was looked down upon by those around them. With the encouragement of his wife, Miyuki, Gengo decides to rebuild the collapsed fire-fighting clan as its chairman. Gengo and his friends, all of whom have their own peculiarities, struggle to \"save any life\", despite being ridiculed as \"ragged steeplejacks\"(= the 'Boro-Tobi-Gumi'.), In Edo, a mysterious series of suspicious fires called \"foxfires\" continue. <br><br> An entertaining action drama opens, with the firefighters scrambling to save lives in the face of the approaching disaster! <br><br> (Source: Amuse Creative Studio)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hikuidori-project.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hikuidori_pj",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365724/oedo-fire-slayer--the-legend-of-phoenix-",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jgg8qGQKMckY8CM8ewbQAFo",
           "type": "STREAMING",
           "language": null
         }
@@ -5176,9 +5182,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1785884400,
-          "episode": 31,
-          "timeUntilAiringSec": 146378
+          "airingAtEpochSec": 1786489200,
+          "episode": 32,
+          "timeUntilAiringSec": 153156
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
