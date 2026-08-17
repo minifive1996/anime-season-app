@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T04:27:24.243Z",
+  "generatedAt": "2026-08-17T03:46:52.585Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -895,6 +895,60 @@
       ]
     },
     {
+      "id": "185262",
+      "title": {
+        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "episodes": 12,
+        "durationMin": 23,
+        "studios": [
+          "Yokohama Animation Lab"
+        ],
+        "siteUrl": "https://anilist.co/anime/185262"
+      },
+      "airing": {
+        "startDate": "2026-01-10",
+        "endDate": "2026-03-28",
+        "nextAiringEpisode": null
+      },
+      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://hellmode-anime.com",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/hellmode_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "HIDIVE",
+          "url": "https://www.hidive.com/season/34351",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "180746",
       "title": {
         "romaji": "Shibou Yuugi de Meshi wo Kuu.",
@@ -963,60 +1017,6 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/jv1ornbp2h",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "185262",
-      "title": {
-        "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
-        "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-        "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-95wbx3Y9hCwm.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "episodes": 12,
-        "durationMin": 23,
-        "studios": [
-          "Yokohama Animation Lab"
-        ],
-        "siteUrl": "https://anilist.co/anime/185262"
-      },
-      "airing": {
-        "startDate": "2026-01-10",
-        "endDate": "2026-03-28",
-        "nextAiringEpisode": null
-      },
-      "description": "Thirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br> <br> (Source: HIDIVE)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://hellmode-anime.com",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/hellmode_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "HIDIVE",
-          "url": "https://www.hidive.com/season/34351",
           "type": "STREAMING",
           "language": null
         }
@@ -1323,12 +1323,6 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/2148skkgzn0",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GMTE00374450/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
           "type": "STREAMING",
           "language": null
         },
@@ -3435,6 +3429,12 @@
           "url": "https://www.crunchyroll.com/series/GMTE00376679/assassination-classroom-the-movie-our-time",
           "type": "STREAMING",
           "language": null
+        },
+        {
+          "site": "Prime Video",
+          "url": "https://www.primevideo.com/detail/0FSMLXL2L0K7XGP9UZ9F7P07NX/",
+          "type": "STREAMING",
+          "language": null
         }
       ]
     },
@@ -3963,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1786836600,
-          "episode": 29,
-          "timeUntilAiringSec": 500556
+          "airingAtEpochSec": 1787441400,
+          "episode": 30,
+          "timeUntilAiringSec": 502988
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4438,60 +4438,6 @@
       ]
     },
     {
-      "id": "199446",
-      "title": {
-        "romaji": "Saioshi no Gikei wo Mederu Tame, Nagaikishimasu!",
-        "english": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
-        "native": "最推しの義兄を愛でるため、長生きします！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199446-H72pmPPPCnMf.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Fantasy",
-          "Romance"
-        ],
-        "episodes": 12,
-        "durationMin": 4,
-        "studios": [
-          "Imageworks Studio",
-          "Imagica Infos"
-        ],
-        "siteUrl": "https://anilist.co/anime/199446"
-      },
-      "airing": {
-        "startDate": "2026-01-03",
-        "endDate": "2026-03-21",
-        "nextAiringEpisode": null
-      },
-      "description": "The story of Saioshi no Gikei wo Mederu Tame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die. <br><br> (Source: Anime News Network)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/baloon_project",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://animationid.com/saioshi/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "OceanVeil",
-          "url": "https://oceanveil.net/anime_titles/349",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "204949",
       "title": {
         "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
@@ -4556,6 +4502,60 @@
         {
           "site": "Netflix",
           "url": "https://www.netflix.com/title/82703490",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "199446",
+      "title": {
+        "romaji": "Saioshi no Gikei wo Mederu Tame, Nagaikishimasu!",
+        "english": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+        "native": "最推しの義兄を愛でるため、長生きします！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199446-H72pmPPPCnMf.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "episodes": 12,
+        "durationMin": 4,
+        "studios": [
+          "Imageworks Studio",
+          "Imagica Infos"
+        ],
+        "siteUrl": "https://anilist.co/anime/199446"
+      },
+      "airing": {
+        "startDate": "2026-01-03",
+        "endDate": "2026-03-21",
+        "nextAiringEpisode": null
+      },
+      "description": "The story of Saioshi no Gikei wo Mederu Tame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die. <br><br> (Source: Anime News Network)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/baloon_project",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://animationid.com/saioshi/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "OceanVeil",
+          "url": "https://oceanveil.net/anime_titles/349",
           "type": "STREAMING",
           "language": null
         }
@@ -5182,9 +5182,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1786489200,
-          "episode": 32,
-          "timeUntilAiringSec": 153156
+          "airingAtEpochSec": 1787094000,
+          "episode": 33,
+          "timeUntilAiringSec": 155588
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5329,6 +5329,50 @@
       ]
     },
     {
+      "id": "208105",
+      "title": {
+        "romaji": "Yani Neko Mini",
+        "english": "",
+        "native": "ヤニねこ ミニ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/208105"
+      },
+      "airing": {
+        "startDate": "2026-02-22",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "198368",
       "title": {
         "romaji": "Doraemon: Shin Nobita no Kaitei Kiganjou",
@@ -5386,50 +5430,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/user/DoraemonTheMovie",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "208105",
-      "title": {
-        "romaji": "Yani Neko Mini",
-        "english": "",
-        "native": "ヤニねこ ミニ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/208105"
-      },
-      "airing": {
-        "startDate": "2026-02-22",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
-          "type": "SOCIAL",
           "language": null
         }
       ]
