@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:52:03.991Z",
+  "generatedAt": "2026-08-31T09:18:39.519Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -40,7 +40,7 @@
         "endDate": "2026-03-27",
         "nextAiringEpisode": null
       },
-      "description": "The third season of <i>Jujutsu Kaisen</i>.<br><br> After the Shibuya Incident, a deadly jujutsu battle known as the Culling Game orchestrated by Noritoshi Kamo erupts across ten colonies in Japan.<br><br> Haunted by guilt over the mass killings in Shibuya and wary of Sukuna’s interest in Fushiguro, Itadori chooses not to return to Jujutsu High. Instead, he teams up with Choso to exorcise the countless cursed spirits unleashed by Noritoshi Kamo. Amid this chaos, the Jujutsu Headquarters revokes Yuji Itadori’s suspended death sentence and appoints special-grade sorcerer Yuta Okkotsu as his executioner. <br><br> Newly awakened modern sorcerers and resurrected ancient ones, now fighting as players in the Culling Game, collide with conflicting motives, driving the world once more toward an age ruled by jujutsu.<br><br> (Source: TOHO Animation)",
+      "description": "After the Shibuya Incident, a deadly jujutsu battle known as the Culling Game orchestrated by Noritoshi Kamo erupts across ten colonies in Japan.<br><br> Haunted by guilt over the mass killings in Shibuya and wary of Sukuna’s interest in Fushiguro, Itadori chooses not to return to Jujutsu High. Instead, he teams up with Choso to exorcise the countless cursed spirits unleashed by Noritoshi Kamo. Amid this chaos, the Jujutsu Headquarters revokes Yuji Itadori’s suspended death sentence and appoints special-grade sorcerer Yuta Okkotsu as his executioner. <br><br> Newly awakened modern sorcerers and resurrected ancient ones, now fighting as players in the Culling Game, collide with conflicting motives, driving the world once more toward an age ruled by jujutsu.<br><br> (Source: TOHO Animation)",
       "links": [
         {
           "site": "Twitter",
@@ -197,7 +197,7 @@
         "endDate": "2026-03-29",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Jigokuraku</i>.",
+      "description": "Seeking the key to the elixir of immortality, the group arrives at the fortress of the island's monstrous ruler, the \"Tensen.\" To survive and escape the island, cooperation becomes essential—regardless of whether one is a condemned criminal or an executioner.<br> <br> Meanwhile, the shogunate orders additional landings on the island of the Immortal Realm, led by Shugen Yamada Asayemon. Among them are the Ishigakure clan, who share a past with Gabimaru.<br> <br> Desperate to find the elixir and escape the island, Gabimaru and his companions face the Tensen in a battle that escalates into an all-out confrontation between humans and immortals!<br> <br> (Source: Twin Engine, edited)",
       "links": [
         {
           "site": "Official Site",
@@ -505,7 +505,7 @@
         "endDate": "2026-04-04",
         "nextAiringEpisode": null
       },
-      "description": "The second cour of <i>Enen no Shouboutai: San no Shou</i>.<br><br> As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.<br><br> (Source: Crunchyroll News)",
+      "description": "As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.<br><br> (Source: Crunchyroll News)",
       "links": [
         {
           "site": "Official Site",
@@ -908,7 +908,7 @@
         "endDate": "2026-03-26",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Mato Seihei no Slave.</i>",
+      "description": "The fight against the Shuuki continues as Chained Soldier returns with more monsters, supernatural action, and spicy 'rewards'! In a world where only women can wield the power of supernatural \"Peaches,\" which grant unusual powers to those who eat them, Yuuki (despite his gender) joins the Demon Defense Squad to combat evil demons called Shuuki from destroying human civilization. <br><br> (Source: HIDIVE)",
       "links": [
         {
           "site": "Official Site",
@@ -1306,7 +1306,7 @@
         "endDate": "2026-02-27",
         "nextAiringEpisode": null
       },
-      "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br> Fresh off celebrating Tempest’s founding festival, Rimuru and his companions are summoned to the Sorcerous Dynasty of Thalion, a nation of elves, by its influential empress, Elmesia. But their well-earned rest at her private resort island is cut short when a mysterious girl named Yura shows up, kicking off a new adventure on the endless azure sea..<br><br> (Source: Crunchyroll)<br><br>",
+      "description": "Fresh off celebrating Tempest’s founding festival, Rimuru and his companions are summoned to the Sorcerous Dynasty of Thalion, a nation of elves, by its influential empress, Elmesia. But their well-earned rest at her private resort island is cut short when a mysterious girl named Yura shows up, kicking off a new adventure on the endless azure sea..<br><br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Twitter",
@@ -1407,91 +1407,6 @@
       ]
     },
     {
-      "id": "195322",
-      "title": {
-        "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
-        "english": "My Hero Academia: Vigilantes Season 2",
-        "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "bones film"
-        ],
-        "siteUrl": "https://anilist.co/anime/195322"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
-        "nextAiringEpisode": null
-      },
-      "description": "The second season of <i>Vigilante: Boku no Hero Academia ILLEGALS</i>.",
-      "links": [
-        {
-          "site": "TikTok",
-          "url": "https://www.tiktok.com/@vigilante_mha",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/vigilante_mha",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://crunchyroll.com/series/G79H23ZQ3/my-hero-academia-vigilantes",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://vigilante-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Instagram",
-          "url": "https://www.instagram.com/vigilante_mha/",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/MHAOfficial",
-          "type": "SOCIAL",
-          "language": "English"
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/wo0dni32v9",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Ji6xNpTPVde69l-VVcWyhVR",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "192507",
       "title": {
         "romaji": "Uruwashi no Yoi no Tsuki",
@@ -1540,6 +1455,91 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00334040/in-the-clear-moonlit-dusk",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "195322",
+      "title": {
+        "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+        "english": "My Hero Academia: Vigilantes Season 2",
+        "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "bones film"
+        ],
+        "siteUrl": "https://anilist.co/anime/195322"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-30",
+        "nextAiringEpisode": null
+      },
+      "description": "Kouichi steps up as threats rise, pushing the vigilantes into their toughest battles yet. <br><br> (Source: Anime News Network)",
+      "links": [
+        {
+          "site": "TikTok",
+          "url": "https://www.tiktok.com/@vigilante_mha",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/vigilante_mha",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://crunchyroll.com/series/G79H23ZQ3/my-hero-academia-vigilantes",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://vigilante-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Instagram",
+          "url": "https://www.instagram.com/vigilante_mha/",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/MHAOfficial",
+          "type": "SOCIAL",
+          "language": "English"
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/wo0dni32v9",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Ji6xNpTPVde69l-VVcWyhVR",
           "type": "STREAMING",
           "language": null
         }
@@ -2134,59 +2134,6 @@
       ]
     },
     {
-      "id": "177679",
-      "title": {
-        "romaji": "Darwin Jihen",
-        "english": "The Darwin Incident",
-        "native": "ダーウィン事変"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "BELLNOX FILMS"
-        ],
-        "siteUrl": "https://anilist.co/anime/177679"
-      },
-      "airing": {
-        "startDate": "2026-01-07",
-        "endDate": "2026-04-01",
-        "nextAiringEpisode": null
-      },
-      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/darwins_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://darwinsincident.net/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Amazon Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "187941",
       "title": {
         "romaji": "Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee",
@@ -2242,6 +2189,59 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/@doratama_anime",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "177679",
+      "title": {
+        "romaji": "Darwin Jihen",
+        "english": "The Darwin Incident",
+        "native": "ダーウィン事変"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "BELLNOX FILMS"
+        ],
+        "siteUrl": "https://anilist.co/anime/177679"
+      },
+      "airing": {
+        "startDate": "2026-01-07",
+        "endDate": "2026-04-01",
+        "nextAiringEpisode": null
+      },
+      "description": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as a \"Humanzee\". Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his “normal” life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs. <br><br> (Source: Kodansha USA)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/darwins_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://darwinsincident.net/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Amazon Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0G5647BNF/",
           "type": "STREAMING",
           "language": null
         }
@@ -2356,68 +2356,6 @@
       ]
     },
     {
-      "id": "183270",
-      "title": {
-        "romaji": "Eris no Seihai",
-        "english": "The Holy Grail of Eris",
-        "native": "エリスの聖杯"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183270-CmZikKu34WPd.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Mystery",
-          "Romance",
-          "Supernatural"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Ashi Productions"
-        ],
-        "siteUrl": "https://anilist.co/anime/183270"
-      },
-      "airing": {
-        "startDate": "2026-01-08",
-        "endDate": "2026-03-26",
-        "nextAiringEpisode": null
-      },
-      "description": "It is common knowledge that nobles will do anything for power; lying, manipulation, and extortion are the usual tactics. However, one family is exempt from this generalization: House Grail, whose main tenets are truth and integrity. The youngest daughter, Constance Grail, is just as moral as the rest of her family, believing in always doing the right thing and helping those in need.<br><br> However, these ideals do not help her when her fiancé cheats on her with another woman. Framed by his lover in the hope of her downfall, Constance has no one to hear her pleas for justice. Everyone turns a blind eye, save for one—the spirit of the infamous Scarlett Castiel—who possesses Constance and turns the tables on her accuser. However, this aid does not come without a price.<br><br> Ten years ago, Scarlett was executed for the attempted murder of Princess Cecilia. But this was actually a setup; as blunt and harsh as Scarlett could be, she would never stoop so low as to use poison. She has no idea who orchestrated her incrimination, but Scarlett demands that Constance—as the only one who can see her—help her exact revenge on all those who wronged her!<br><br> (Source: MAL Rewrite)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/Project_of_Eris",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://eris-seihai.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://crunchyroll.com/series/GT00365781/the-holy-grail-of-eris",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Bilibili TV",
-          "url": "https://www.bilibili.tv/en/media/2290065",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "183660",
       "title": {
         "romaji": "Kaya-chan wa Kowakunai",
@@ -2479,6 +2417,68 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jis0F2QZax-uSX38BtSw_-B",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "183270",
+      "title": {
+        "romaji": "Eris no Seihai",
+        "english": "The Holy Grail of Eris",
+        "native": "エリスの聖杯"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183270-CmZikKu34WPd.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Ashi Productions"
+        ],
+        "siteUrl": "https://anilist.co/anime/183270"
+      },
+      "airing": {
+        "startDate": "2026-01-08",
+        "endDate": "2026-03-26",
+        "nextAiringEpisode": null
+      },
+      "description": "It is common knowledge that nobles will do anything for power; lying, manipulation, and extortion are the usual tactics. However, one family is exempt from this generalization: House Grail, whose main tenets are truth and integrity. The youngest daughter, Constance Grail, is just as moral as the rest of her family, believing in always doing the right thing and helping those in need.<br><br> However, these ideals do not help her when her fiancé cheats on her with another woman. Framed by his lover in the hope of her downfall, Constance has no one to hear her pleas for justice. Everyone turns a blind eye, save for one—the spirit of the infamous Scarlett Castiel—who possesses Constance and turns the tables on her accuser. However, this aid does not come without a price.<br><br> Ten years ago, Scarlett was executed for the attempted murder of Princess Cecilia. But this was actually a setup; as blunt and harsh as Scarlett could be, she would never stoop so low as to use poison. She has no idea who orchestrated her incrimination, but Scarlett demands that Constance—as the only one who can see her—help her exact revenge on all those who wronged her!<br><br> (Source: MAL Rewrite)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/Project_of_Eris",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://eris-seihai.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://crunchyroll.com/series/GT00365781/the-holy-grail-of-eris",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Bilibili TV",
+          "url": "https://www.bilibili.tv/en/media/2290065",
           "type": "STREAMING",
           "language": null
         }
@@ -2743,7 +2743,7 @@
         "endDate": "2026-03-30",
         "nextAiringEpisode": null
       },
-      "description": "The fifth season of <i>Golden Kamuy</i>.",
+      "description": "Ex-convict Keiji Ueji appears in Sapporo, causing all the different factions to travel to the city in hopes of obtaining part of the map to the Ainu gold that is tattooed on his skin. At the same time, a figure who appears to be a copycat of Jack the Ripper terrorizes the streets of Sapporo. Saichi Sugimoto, Asirpa, and Yoshitake Shiraishi—joined by Fusatarou \"Boutarou the Pirate\" Oosawa and Vasily Pavlichenko—temporarily ally themselves with Toshizou Hijikata, as his faction's motives are somewhat less disturbing than those of Seventh Division's First Lieutenant Tokushirou Tsurumi. <br><br> Asirpa attempts to collect all the information needed to tell apart the fake skins from the real ones, but she cannot decipher the map with certainty. Sugimoto swears never to part with Asirpa again, but the commotion around the serial killer allows for new betrayals and Tsurumi's plan for capturing Asirpa to advance. As the hunt for the gold nears its conclusion, the future of the Ainu rests in the hands of those who claim it first. <br><br> (Source: MAL Rewrite)",
       "links": [
         {
           "site": "Twitter",
@@ -2938,7 +2938,7 @@
         "endDate": "2026-03-22",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Medalist.</i>",
+      "description": "Ever since the novice coach Tsukasa Akeuraji took Inori Yuitsuka under his mentorship, she has improved her figure skating at a fast pace. After passing a qualifying badge test, she earns a spot to compete in the upcoming Chubu Block Tournament, where only five of the 15 competitors can move forward to the next stage—the prestigious All-Japan Novice Tournament. However, earning a slot will not be easy for Inori: most of her rivals have already experienced trying their luck in the competition.<br> <br> The stakes are high as the competition begins, and one by one, each of the competitors strive to perform their very best in front of the big crowd. Moreover, the current figure skating generation's prodigy, Hikaru Kamisaki, is not competing in this block, which raises everyone's determination to qualify. That includes Inori, who must beat the odds if she wants to keep her promise to reach Hikaru and represent Japan in the Olympics with Tsukasa.<br> <br> (Source: MAL Rewrite)",
       "links": [
         {
           "site": "Official Site",
@@ -3468,7 +3468,7 @@
         "endDate": "2026-03-26",
         "nextAiringEpisode": null
       },
-      "description": "The third season of <i>MF Ghost</i>. <br><br> <i>Note: Each episode streams 3 days early on Prime Video. The original TV broadcast started on January 4, 2026.</i>",
+      "description": "Round 3 of the MFG competition is heating up on the final race day at the Peninsula Manazuru track. Despite starting at the very front of the pack, MFG rookie Kanata Katagiri has difficulty getting the most out of his Toyota 86 GT due to an injury unknown to his competitors. Falling further behind, Kanata finds himself in a desperate situation that only stirs up unwanted memories.<br> <br> At the head of the race, a vicious battle takes place between the two top drivers in the competition—Michael Beckenbauer and Kouki Sawatari—for the first spot on the podium. Given their aggressive and absurd driving, anyone daring to surpass either of them will have to match their level of pride until the very end. But when all hope seems lost for Kanata, a legendary competitive spirit awakens within him, and it may just push him to overcome his physical limitations and climb back to the top.<br> <br> (Source: MAL Rewrite)<br> <br> <i>Note: Each episode streams 3 days early on Prime Video. The original TV broadcast started on January 4, 2026.</i>",
       "links": [
         {
           "site": "Official Site",
@@ -3852,7 +3852,7 @@
         "endDate": "2026-03-27",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Douse, Koishite Shimaunda. </i>",
+      "description": "As seasons have passed, Mizuho Nishino's adolescence has been full of ups and downs. With Christmas approaching, she intends to celebrate the special event with all of her four childhood friends: Kizuki Hazawa, Shin Kashiwagi, Airu Izumi, and Shuugo Hoshikawa. However, Kizuki makes the first move when he declares that he wants to spend the time alone with Mizuho. Although hesitant at first, Mizuho ends up confiding in him and declares Kizuki to be her boyfriend! <br><br> The news about Mizuho and Kizuki spreads quickly and brings forth Shin and Airu, who have had a difficult time accepting their feelings for the one they love. With the friend group faced with a delicate situation they have never confronted before, only time will tell if the new romance and old friendships can survive. <br><br> (Source: MAL Rewrite)",
       "links": [
         {
           "site": "Twitter",
@@ -3963,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1788046200,
-          "episode": 31,
-          "timeUntilAiringSec": 502677
+          "airingAtEpochSec": 1788651000,
+          "episode": 32,
+          "timeUntilAiringSec": 483081
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4208,7 +4208,7 @@
         "endDate": "2026-03-25",
         "nextAiringEpisode": null
       },
-      "description": "The second cour of <i>Jigoku Sensei Nube (2025)</i>.",
+      "description": "Meisuke \"Nube\" Nueno, a teacher at Doumori Elementary School and expert in the occult, finds it increasingly difficult to protect his students against dark forces. After one of his students is sent to a parallel world, Nube encounters an unusual spirit that sends him back in time to change one regretful event. <br><br> Although Nube manages to fix the situation, this succession of unlikely events suggests that a more serious menace may be threatening the peace of Doumori. To protect everyone he holds dear, Nube will have to overcome the demons of his past and uncover the nature of the looming supernatural danger. <br><br> (Source: MAL Rewrite)",
       "links": [
         {
           "site": "Twitter",
@@ -5182,9 +5182,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1787698800,
-          "episode": 34,
-          "timeUntilAiringSec": 155277
+          "airingAtEpochSec": 1788303600,
+          "episode": 35,
+          "timeUntilAiringSec": 135681
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5268,6 +5268,50 @@
       ]
     },
     {
+      "id": "208105",
+      "title": {
+        "romaji": "Yani Neko Mini",
+        "english": "",
+        "native": "ヤニねこ ミニ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/208105"
+      },
+      "airing": {
+        "startDate": "2026-02-22",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "199005",
       "title": {
         "romaji": "#Kanagawa ni Sunderu Elf",
@@ -5324,50 +5368,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "208105",
-      "title": {
-        "romaji": "Yani Neko Mini",
-        "english": "",
-        "native": "ヤニねこ ミニ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/208105"
-      },
-      "airing": {
-        "startDate": "2026-02-22",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
-          "type": "SOCIAL",
           "language": null
         }
       ]
