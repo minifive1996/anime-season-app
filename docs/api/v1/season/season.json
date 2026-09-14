@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T09:18:39.519Z",
+  "generatedAt": "2026-09-14T08:32:28.470Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1744,7 +1744,7 @@
         "endDate": "2026-03-28",
         "nextAiringEpisode": null
       },
-      "description": "Sequel season to <i>TRIGUN STAMPEDE</i>.<br><br> It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br><br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br><br> (Source: Crunchyroll)",
+      "description": "It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.<br><br> Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.<br> <br> Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.<br> <br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Official Site",
@@ -1958,7 +1958,7 @@
     {
       "id": "189565",
       "title": {
-        "romaji": "Osananajimi to wa Love Comedy ni Naranai",
+        "romaji": "Osananajimi to wa Love Kome ni Naranai",
         "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
         "native": "幼馴染とはラブコメにならない"
       },
@@ -2798,7 +2798,7 @@
         "endDate": "2026-03-07",
         "nextAiringEpisode": null
       },
-      "description": "The second part of <i>BEASTARS Final Season</i>. <br><br> Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
+      "description": "Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts. <br><br> (Source: Netflix Anime)",
       "links": [
         {
           "site": "Official Site",
@@ -3264,6 +3264,59 @@
       ]
     },
     {
+      "id": "176509",
+      "title": {
+        "romaji": "BAKI-DOU",
+        "english": "BAKI-DOU: The Invincible Samurai",
+        "native": "刃牙道"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Sports"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "TMS Entertainment"
+        ],
+        "siteUrl": "https://anilist.co/anime/176509"
+      },
+      "airing": {
+        "startDate": "2026-02-26",
+        "endDate": "2026-02-26",
+        "nextAiringEpisode": null
+      },
+      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/baki_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://baki-anime.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Netflix",
+          "url": "https://www.netflix.com/title/81922765",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "182771",
       "title": {
         "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
@@ -3313,59 +3366,6 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365550/a-gentle-nobles-vacation-recommendation",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "176509",
-      "title": {
-        "romaji": "BAKI-DOU",
-        "english": "BAKI-DOU: The Invincible Samurai",
-        "native": "刃牙道"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176509-GRUa4fzyAM9u.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Sports"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "TMS Entertainment"
-        ],
-        "siteUrl": "https://anilist.co/anime/176509"
-      },
-      "airing": {
-        "startDate": "2026-02-26",
-        "endDate": "2026-02-26",
-        "nextAiringEpisode": null
-      },
-      "description": "Musashi Miyamoto — the ultimate symbol of strength — descends into an underground fighting arena where the use of weapons is permitted. Underground fighters including Doppo Orochi, Goki Shibukawa and Sea King Retsu square off in succession against Musashi and his godlike strength. It’s sword versus fist in the most heart-pounding and deadly battles yet, where defeat means certain death. <br><br> Be prepared to be blown away by Baki and the other underground fighters as they bravely take on this new battle to determine the strongest fighter in human history. <br><br> (Source: Netflix)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/baki_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://baki-anime.jp/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Netflix",
-          "url": "https://www.netflix.com/title/81922765",
           "type": "STREAMING",
           "language": null
         }
@@ -3700,7 +3700,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-GIit95PnSGvt.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113971-7eng3KOIdzqS.jpg"
       },
       "meta": {
         "format": "MOVIE",
@@ -3769,7 +3769,7 @@
         },
         {
           "site": "Netflix",
-          "url": "https://www.netflix.com/title/81439253",
+          "url": "https://www.netflix.com/title/82854665",
           "type": "STREAMING",
           "language": null
         }
@@ -3963,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1788651000,
-          "episode": 32,
-          "timeUntilAiringSec": 483081
+          "airingAtEpochSec": 1789860600,
+          "episode": 34,
+          "timeUntilAiringSec": 485852
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4313,7 +4313,7 @@
         "endDate": "2026-03-28",
         "nextAiringEpisode": null
       },
-      "description": "The second season of <i>Ao no Miburo</i>.",
+      "description": "The Black Ships arrive in Kyoto as the shogunate stumbles toward ruin. Living amidst the chaos is Nio, a kindhearted boy on the verge of discovering his destiny. He meets two \"Miburo,\" Hijikata Toshizo and Okita Soji, members of the band of Mibu ronin who will later become the famous Shinsengumi. With dreams of a better world, Nio joins their fight to defend the city. <br><br> (Source: Crunchyroll)",
       "links": [
         {
           "site": "Official Site",
@@ -4622,12 +4622,12 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy",
           "Fantasy"
         ],
-        "episodes": null,
+        "episodes": 6,
         "durationMin": 1,
         "studios": [
           "TOHO animation STUDIO"
@@ -4636,10 +4636,10 @@
       },
       "airing": {
         "startDate": "2026-01-19",
-        "endDate": null,
+        "endDate": "2026-05-22",
         "nextAiringEpisode": null
       },
-      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br> • Akogare ni Hitareru Mahou (憧れにひたれる魔法), released on May 22, 2026.<br>",
+      "description": "A third batch of the <i>●● no Mahou</i> shorts released alongside the airing of the TV anime's second season, starting with #18. Posted on the official YouTube account of TOHO animation, Frieren Twitter, and Frieren TikTok account.<br><br> <b>Includes:</b><br> • Mita Mono wo Kousoku Suru Mahou (見た者を拘束する魔法), released Jan 19, 2026. <br> • Doushin ni Kaeru Mahou (童心に還る魔法), released Feb 2, 2026.<br> • Kokoro to Karada ga Irekawaru Mahou (心と体が入れ替わる魔法), released Feb 17, 2026.<br> • Osentaku no Mahou (お洗濯の魔法), released Mar 2, 2026.<br> • Kangaeteiru Koto wo Itte Shimau Mahou Sono Ni (考えていることを言ってしまう魔法その2), released Mar 16, 2026.<br> • Akogare ni Hitareru Mahou (憧れにひたれる魔法), released May 22, 2026.<br>",
       "links": [
         {
           "site": "YouTube",
@@ -5119,7 +5119,7 @@
         "endDate": "2026-04-11",
         "nextAiringEpisode": null
       },
-      "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i><br><br> Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.<br><br> What is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.<br><br> What is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.<br><br> (Source: cf-vanguard.com)",
+      "description": "Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.<br><br> What is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.<br><br> What is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.<br><br> (Source: Official Site)",
       "links": [
         {
           "site": "YouTube",
@@ -5182,9 +5182,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1788303600,
-          "episode": 35,
-          "timeUntilAiringSec": 135681
+          "airingAtEpochSec": 1789513200,
+          "episode": 37,
+          "timeUntilAiringSec": 138452
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5217,6 +5217,50 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLRj9zPfLhyY2BfhHtx01IzU9UU3Thjrff",
           "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "208105",
+      "title": {
+        "romaji": "Yani Neko Mini",
+        "english": "",
+        "native": "ヤニねこ ミニ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": null,
+        "durationMin": 1,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/208105"
+      },
+      "airing": {
+        "startDate": "2026-02-22",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -5262,50 +5306,6 @@
         {
           "site": "Twitter",
           "url": "https://x.com/imasml_765PRO",
-          "type": "SOCIAL",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "208105",
-      "title": {
-        "romaji": "Yani Neko Mini",
-        "english": "",
-        "native": "ヤニねこ ミニ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": null,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/208105"
-      },
-      "airing": {
-        "startDate": "2026-02-22",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
           "type": "SOCIAL",
           "language": null
         }
@@ -5392,7 +5392,9 @@
         ],
         "episodes": 1,
         "durationMin": null,
-        "studios": [],
+        "studios": [
+          "Shin-Ei Animation"
+        ],
         "siteUrl": "https://anilist.co/anime/198368"
       },
       "airing": {
