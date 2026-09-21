@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:32:28.470Z",
+  "generatedAt": "2026-09-21T08:34:04.046Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -3092,6 +3092,61 @@
       ]
     },
     {
+      "id": "185514",
+      "title": {
+        "romaji": "Champignon no Majo",
+        "english": "Champignon Witch",
+        "native": "シャンピニオンの魔女"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-mfJqhtz22l1Z.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185514-I19hOYFDzU1X.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Qzil.la",
+          "TYPHOON GRAPHICS"
+        ],
+        "siteUrl": "https://anilist.co/anime/185514"
+      },
+      "airing": {
+        "startDate": "2026-01-09",
+        "endDate": "2026-03-20",
+        "nextAiringEpisode": null
+      },
+      "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/Champignon_PR",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://champignon-pr.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://crunchyroll.com/series/GT00365553/champignon-witch",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "187892",
       "title": {
         "romaji": "ALL YOU NEED IS KILL",
@@ -3149,61 +3204,6 @@
           "url": "https://aynk-anime.com/en/",
           "type": "INFO",
           "language": "English"
-        }
-      ]
-    },
-    {
-      "id": "185514",
-      "title": {
-        "romaji": "Champignon no Majo",
-        "english": "Champignon Witch",
-        "native": "シャンピニオンの魔女"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-mfJqhtz22l1Z.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185514-I19hOYFDzU1X.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Supernatural"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Qzil.la",
-          "TYPHOON GRAPHICS"
-        ],
-        "siteUrl": "https://anilist.co/anime/185514"
-      },
-      "airing": {
-        "startDate": "2026-01-09",
-        "endDate": "2026-03-20",
-        "nextAiringEpisode": null
-      },
-      "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/Champignon_PR",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://champignon-pr.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://crunchyroll.com/series/GT00365553/champignon-witch",
-          "type": "STREAMING",
-          "language": null
         }
       ]
     },
@@ -3963,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1789860600,
-          "episode": 34,
-          "timeUntilAiringSec": 485852
+          "airingAtEpochSec": 1790465400,
+          "episode": 35,
+          "timeUntilAiringSec": 485757
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -5182,9 +5182,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1789513200,
-          "episode": 37,
-          "timeUntilAiringSec": 138452
+          "airingAtEpochSec": 1790118000,
+          "episode": 38,
+          "timeUntilAiringSec": 138357
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
