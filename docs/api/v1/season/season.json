@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T09:21:07.702Z",
+  "generatedAt": "2026-10-05T10:00:10.121Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1108,8 +1108,8 @@
         "siteUrl": "https://anilist.co/anime/177385"
       },
       "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-30",
+        "startDate": "2026-01-04",
+        "endDate": "2026-03-29",
         "nextAiringEpisode": null
       },
       "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
@@ -1208,6 +1208,67 @@
       ]
     },
     {
+      "id": "182206",
+      "title": {
+        "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
+        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "episodes": 1,
+        "durationMin": 104,
+        "studios": [
+          "8-bit"
+        ],
+        "siteUrl": "https://anilist.co/anime/182206"
+      },
+      "airing": {
+        "startDate": "2026-02-27",
+        "endDate": "2026-02-27",
+        "nextAiringEpisode": null
+      },
+      "description": "Fresh off celebrating Tempest’s founding festival, Rimuru and his companions are summoned to the Sorcerous Dynasty of Thalion, a nation of elves, by its influential empress, Elmesia. But their well-earned rest at her private resort island is cut short when a mysterious girl named Yura shows up, kicking off a new adventure on the endless azure sea..<br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/ten_sura_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://movie02.ten-sura.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "iQ",
+          "url": "https://www.iq.com/album/2148skkgzn0",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GMTE00374450/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "178005",
       "title": {
         "romaji": "Tamon-kun Ima Docchi!?",
@@ -1268,67 +1329,6 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JijRmWuTWXJjTIQNOs-hMfO",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "182206",
-      "title": {
-        "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
-        "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "episodes": 1,
-        "durationMin": 104,
-        "studios": [
-          "8-bit"
-        ],
-        "siteUrl": "https://anilist.co/anime/182206"
-      },
-      "airing": {
-        "startDate": "2026-02-27",
-        "endDate": "2026-02-27",
-        "nextAiringEpisode": null
-      },
-      "description": "Fresh off celebrating Tempest’s founding festival, Rimuru and his companions are summoned to the Sorcerous Dynasty of Thalion, a nation of elves, by its influential empress, Elmesia. But their well-earned rest at her private resort island is cut short when a mysterious girl named Yura shows up, kicking off a new adventure on the endless azure sea..<br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/ten_sura_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://movie02.ten-sura.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "iQ",
-          "url": "https://www.iq.com/album/2148skkgzn0",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GMTE00374450/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
           "type": "STREAMING",
           "language": null
         }
@@ -3963,9 +3963,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1791070200,
-          "episode": 36,
-          "timeUntilAiringSec": 482933
+          "airingAtEpochSec": 1791675000,
+          "episode": 37,
+          "timeUntilAiringSec": 480590
         }
       },
       "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4284,6 +4284,53 @@
       ]
     },
     {
+      "id": "188034",
+      "title": {
+        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+        "english": "",
+        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-oRwVKBMezOOk.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "MOVIE",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 4,
+        "durationMin": 72,
+        "studios": [
+          "P.A.WORKS",
+          "Actas"
+        ],
+        "siteUrl": "https://anilist.co/anime/188034"
+      },
+      "airing": {
+        "startDate": "2025-12-26",
+        "endDate": "2026-04-10",
+        "nextAiringEpisode": null
+      },
+      "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/garupan_love2",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://gup-mottolovelove.jp/",
+          "type": "INFO",
+          "language": "Japanese"
+        }
+      ]
+    },
+    {
       "id": "189258",
       "title": {
         "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
@@ -4338,53 +4385,6 @@
           "url": "https://www.crunchyroll.com/series/GXJHM3GP8/blue-miburo",
           "type": "STREAMING",
           "language": null
-        }
-      ]
-    },
-    {
-      "id": "188034",
-      "title": {
-        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
-        "english": "",
-        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-oRwVKBMezOOk.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 4,
-        "durationMin": 72,
-        "studios": [
-          "P.A.WORKS",
-          "Actas"
-        ],
-        "siteUrl": "https://anilist.co/anime/188034"
-      },
-      "airing": {
-        "startDate": "2025-12-26",
-        "endDate": "2026-04-10",
-        "nextAiringEpisode": null
-      },
-      "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/garupan_love2",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gup-mottolovelove.jp/",
-          "type": "INFO",
-          "language": "Japanese"
         }
       ]
     },
@@ -5226,9 +5226,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1790722800,
-          "episode": 39,
-          "timeUntilAiringSec": 135533
+          "airingAtEpochSec": 1791327600,
+          "episode": 40,
+          "timeUntilAiringSec": 133190
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
