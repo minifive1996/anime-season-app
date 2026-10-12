@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:00:10.121Z",
+  "generatedAt": "2026-10-12T10:12:49.559Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -2976,7 +2976,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177580-ujQw6Ws3oVCi.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177580-ujQw6Ws3oVCi.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177580-UfD5BjArw5FA.jpg"
       },
       "meta": {
         "format": "ONA",
@@ -3934,69 +3934,6 @@
       ]
     },
     {
-      "id": "202957",
-      "title": {
-        "romaji": "Meitantei Precure!",
-        "english": "Star Detective Precure!",
-        "native": "名探偵プリキュア！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "RELEASING",
-        "genres": [
-          "Mahou Shoujo",
-          "Mystery"
-        ],
-        "episodes": 51,
-        "durationMin": 24,
-        "studios": [
-          "Toei Animation"
-        ],
-        "siteUrl": "https://anilist.co/anime/202957"
-      },
-      "airing": {
-        "startDate": "2026-02-01",
-        "endDate": null,
-        "nextAiringEpisode": {
-          "airingAtEpochSec": 1791675000,
-          "episode": 37,
-          "timeUntilAiringSec": 480590
-        }
-      },
-      "description": "The 23rd installment of the long-running <i>Precure</i> series.<br> <br> Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00369409",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/@precure/videos",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/TVanime_precure",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
       "id": "197474",
       "title": {
         "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
@@ -4014,6 +3951,7 @@
         "genres": [
           "Action",
           "Comedy",
+          "Drama",
           "Sci-Fi"
         ],
         "episodes": 1,
@@ -4059,6 +3997,69 @@
           "url": "https://www.netflix.com/title/82968180",
           "type": "STREAMING",
           "language": null
+        }
+      ]
+    },
+    {
+      "id": "202957",
+      "title": {
+        "romaji": "Meitantei Precure!",
+        "english": "Star Detective Precure!",
+        "native": "名探偵プリキュア！"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "RELEASING",
+        "genres": [
+          "Mahou Shoujo",
+          "Mystery"
+        ],
+        "episodes": 51,
+        "durationMin": 24,
+        "studios": [
+          "Toei Animation"
+        ],
+        "siteUrl": "https://anilist.co/anime/202957"
+      },
+      "airing": {
+        "startDate": "2026-02-01",
+        "endDate": null,
+        "nextAiringEpisode": {
+          "airingAtEpochSec": 1792279800,
+          "episode": 38,
+          "timeUntilAiringSec": 479831
+        }
+      },
+      "description": "Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00369409",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/@precure/videos",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/TVanime_precure",
+          "type": "SOCIAL",
+          "language": "Japanese"
         }
       ]
     },
@@ -4131,7 +4132,7 @@
       "image": {
         "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-V3STmm4wutVQ.jpg",
         "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194318-V3STmm4wutVQ.jpg",
-        "banner": ""
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194318-ZKNKDhfES20w.jpg"
       },
       "meta": {
         "format": "TV",
@@ -4278,53 +4279,6 @@
         {
           "site": "Official Site",
           "url": "https://sh-anime.shochiku.co.jp/parieto-movie/",
-          "type": "INFO",
-          "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "188034",
-      "title": {
-        "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
-        "english": "",
-        "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-oRwVKBMezOOk.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "MOVIE",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 4,
-        "durationMin": 72,
-        "studios": [
-          "P.A.WORKS",
-          "Actas"
-        ],
-        "siteUrl": "https://anilist.co/anime/188034"
-      },
-      "airing": {
-        "startDate": "2025-12-26",
-        "endDate": "2026-04-10",
-        "nextAiringEpisode": null
-      },
-      "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga. <br><br> (Source: Natalie Comics)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/garupan_love2",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://gup-mottolovelove.jp/",
           "type": "INFO",
           "language": "Japanese"
         }
@@ -5226,9 +5180,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1791327600,
-          "episode": 40,
-          "timeUntilAiringSec": 133190
+          "airingAtEpochSec": 1791932400,
+          "episode": 41,
+          "timeUntilAiringSec": 132431
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5312,67 +5266,6 @@
       ]
     },
     {
-      "id": "199005",
-      "title": {
-        "romaji": "#Kanagawa ni Sunderu Elf",
-        "english": "Kanagawa Elves",
-        "native": "#神奈川に住んでるエルフ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199005-64XpgeaCMfir.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "TV_SHORT",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 4,
-        "studios": [
-          "Imagica Infos",
-          "Imageworks Studio"
-        ],
-        "siteUrl": "https://anilist.co/anime/199005"
-      },
-      "airing": {
-        "startDate": "2025-12-04",
-        "endDate": "2025-03-17",
-        "nextAiringEpisode": null
-      },
-      "description": "2 years ago, the elves who lived in the hidden forest lost their homes due to a forest fire, now they are living in the Kanagawa Prefecture.<br><br> This story however focuses on a human who becomes the roommate of an elf living in an apartment.<br><br> (Source: MU)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://animationid.com/kanael/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kanael_tvk",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Niconico Video",
-          "url": "https://anime.nicovideo.jp/detail/kanael/index.html?from=live_watch_anime&ref=WatchPage-ProgramInformation-Description-Anchor",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "198368",
       "title": {
         "romaji": "Doraemon: Shin Nobita no Kaitei Kiganjou",
@@ -5431,6 +5324,67 @@
         {
           "site": "YouTube",
           "url": "https://www.youtube.com/user/DoraemonTheMovie",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "199005",
+      "title": {
+        "romaji": "#Kanagawa ni Sunderu Elf",
+        "english": "Kanagawa Elves",
+        "native": "#神奈川に住んでるエルフ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199005-64XpgeaCMfir.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "TV_SHORT",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 4,
+        "studios": [
+          "Imagica Infos",
+          "Imageworks Studio"
+        ],
+        "siteUrl": "https://anilist.co/anime/199005"
+      },
+      "airing": {
+        "startDate": "2025-12-04",
+        "endDate": "2025-03-17",
+        "nextAiringEpisode": null
+      },
+      "description": "2 years ago, the elves who lived in the hidden forest lost their homes due to a forest fire, now they are living in the Kanagawa Prefecture.<br><br> This story however focuses on a human who becomes the roommate of an elf living in an apartment.<br><br> (Source: MU)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://animationid.com/kanael/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kanael_tvk",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Niconico Video",
+          "url": "https://anime.nicovideo.jp/detail/kanael/index.html?from=live_watch_anime&ref=WatchPage-ProgramInformation-Description-Anchor",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist",
           "type": "STREAMING",
           "language": null
         }
@@ -5620,7 +5574,7 @@
           "Comedy"
         ],
         "episodes": 1,
-        "durationMin": null,
+        "durationMin": 78,
         "studios": [
           "Studio Outrigger"
         ],
