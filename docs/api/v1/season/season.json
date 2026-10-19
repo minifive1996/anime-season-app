@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:12:49.559Z",
+  "generatedAt": "2026-10-19T08:28:22.674Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -1008,6 +1008,59 @@
       ]
     },
     {
+      "id": "177385",
+      "title": {
+        "romaji": "Ikoku Nikki",
+        "english": "Journal with Witch",
+        "native": "違国日記"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "episodes": 13,
+        "durationMin": 24,
+        "studios": [
+          "Shuka"
+        ],
+        "siteUrl": "https://anilist.co/anime/177385"
+      },
+      "airing": {
+        "startDate": "2026-01-04",
+        "endDate": "2026-03-29",
+        "nextAiringEpisode": null
+      },
+      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://twitter.com/ikoku_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://ikoku-anime.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "180746",
       "title": {
         "romaji": "Shibou Yuugi de Meshi wo Kuu.",
@@ -1076,59 +1129,6 @@
         {
           "site": "iQ",
           "url": "https://www.iq.com/album/jv1ornbp2h",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "177385",
-      "title": {
-        "romaji": "Ikoku Nikki",
-        "english": "Journal with Witch",
-        "native": "違国日記"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177385-TBpvkGdF28R7.png",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "episodes": 13,
-        "durationMin": 24,
-        "studios": [
-          "Shuka"
-        ],
-        "siteUrl": "https://anilist.co/anime/177385"
-      },
-      "airing": {
-        "startDate": "2026-01-04",
-        "endDate": "2026-03-29",
-        "nextAiringEpisode": null
-      },
-      "description": "Reclusive novelist Makio Koudai has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, Asa Takumi. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://twitter.com/ikoku_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://ikoku-anime.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch",
           "type": "STREAMING",
           "language": null
         }
@@ -3881,59 +3881,6 @@
       ]
     },
     {
-      "id": "204270",
-      "title": {
-        "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
-        "english": "Evangelion 30th Anniversary Special Screening",
-        "native": "エヴァンゲリオン放送30周年記念特別興行"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204270-6uMH5dFbyQPw.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204270-6uMH5dFbyQPw.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204270-jOPuFBm48K8s.jpg"
-      },
-      "meta": {
-        "format": "SPECIAL",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Psychological"
-        ],
-        "episodes": 1,
-        "durationMin": 15,
-        "studios": [
-          "Studio Khara"
-        ],
-        "siteUrl": "https://anilist.co/anime/204270"
-      },
-      "airing": {
-        "startDate": "2026-02-21",
-        "endDate": "2026-02-21",
-        "nextAiringEpisode": null
-      },
-      "description": "A new short animation for the Evangelion series that debuted at the <i>“EVANGELION:30+；30th ANNIVERSARY OF EVANGELION” </i> fes. in Yokohama Arena.<br><br>",
-      "links": [
-        {
-          "site": "Twitter",
-          "url": "https://x.com/eva30th_fes",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Official Site",
-          "url": "https://30th.evangelion.jp/fes/stage",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "YouTube",
-          "url": "https://youtube.com/watch?v=t6ju8O7a89g",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "197474",
       "title": {
         "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
@@ -4001,6 +3948,59 @@
       ]
     },
     {
+      "id": "204270",
+      "title": {
+        "romaji": "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+        "english": "Evangelion 30th Anniversary Special Screening",
+        "native": "エヴァンゲリオン放送30周年記念特別興行"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204270-6uMH5dFbyQPw.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204270-6uMH5dFbyQPw.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204270-jOPuFBm48K8s.jpg"
+      },
+      "meta": {
+        "format": "SPECIAL",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Psychological"
+        ],
+        "episodes": 1,
+        "durationMin": 15,
+        "studios": [
+          "Studio Khara"
+        ],
+        "siteUrl": "https://anilist.co/anime/204270"
+      },
+      "airing": {
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-21",
+        "nextAiringEpisode": null
+      },
+      "description": "A new short animation for the Evangelion series that debuted at the <i>“EVANGELION:30+；30th ANNIVERSARY OF EVANGELION” </i> fes. in Yokohama Arena.<br><br>",
+      "links": [
+        {
+          "site": "Twitter",
+          "url": "https://x.com/eva30th_fes",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Official Site",
+          "url": "https://30th.evangelion.jp/fes/stage",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://youtube.com/watch?v=t6ju8O7a89g",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "202957",
       "title": {
         "romaji": "Meitantei Precure!",
@@ -4030,9 +4030,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1792279800,
-          "episode": 38,
-          "timeUntilAiringSec": 479831
+          "airingAtEpochSec": 1792884600,
+          "episode": 39,
+          "timeUntilAiringSec": 486098
         }
       },
       "description": "Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -4681,6 +4681,61 @@
       ]
     },
     {
+      "id": "207084",
+      "title": {
+        "romaji": "Onee-chan Gokko",
+        "english": "Playing Sister",
+        "native": "お姉ちゃんごっこ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207084-5ERIoIDjU76C.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg"
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "RELEASING",
+        "genres": [
+          "Mystery",
+          "Psychological",
+          "Supernatural",
+          "Thriller"
+        ],
+        "episodes": 3,
+        "durationMin": 25,
+        "studios": [
+          "Studio Gohan"
+        ],
+        "siteUrl": "https://anilist.co/anime/207084"
+      },
+      "airing": {
+        "startDate": "2026-01-31",
+        "endDate": null,
+        "nextAiringEpisode": null
+      },
+      "description": "In the distant future, on the outskirts left behind by the rapid concentration of advanced science and technology in urban areas, lies a remote mountain village known as Kagami Village.<br/> “Behave yourself, or a Double will come for you.”<br/> Such old folklore still lingers in this village.<br/><br/> Akane Higure, a middle school student living in Kagami Village, has been eagerly awaiting the return of her older sister, Sui Higure, who is finally being discharged from the hospital after a year.<br/> However, not long after her sister comes home, Akane receives a single phone call.<br/><br/> “The girl at home with you… isn’t your sister.”",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/watch?v=0q6uIpgQpGE",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Official Site",
+          "url": "https://harumakigohan.com/onego/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/watch?v=RG_hkYEpGBM",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "184280",
       "title": {
         "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
@@ -4735,55 +4790,6 @@
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/G8DHV78W7/sakuna-of-rice-and-ruin",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "207084",
-      "title": {
-        "romaji": "Onee-chan Gokko",
-        "english": "Playing Sister",
-        "native": "お姉ちゃんごっこ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207084-5ERIoIDjU76C.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207084-QJoOYEulEDz5.jpg"
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "RELEASING",
-        "genres": [
-          "Mystery",
-          "Psychological",
-          "Supernatural",
-          "Thriller"
-        ],
-        "episodes": 3,
-        "durationMin": 25,
-        "studios": [
-          "Studio Gohan"
-        ],
-        "siteUrl": "https://anilist.co/anime/207084"
-      },
-      "airing": {
-        "startDate": "2026-01-31",
-        "endDate": null,
-        "nextAiringEpisode": null
-      },
-      "description": "In the distant future, on the outskirts left behind by the rapid concentration of advanced science and technology in urban areas, lies a remote mountain village known as Kagami Village.<br/> “Behave yourself, or a Double will come for you.”<br/> Such old folklore still lingers in this village.<br/><br/> Akane Higure, a middle school student living in Kagami Village, has been eagerly awaiting the return of her older sister, Sui Higure, who is finally being discharged from the hospital after a year.<br/> However, not long after her sister comes home, Akane receives a single phone call.<br/><br/> “The girl at home with you… isn’t your sister.”",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://youtu.be/0q6uIpgQpGE",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Official Site",
-          "url": "https://harumakigohan.com/onego/",
-          "type": "INFO",
           "language": null
         }
       ]
@@ -5121,18 +5127,18 @@
       },
       "meta": {
         "format": "ONA",
-        "status": "RELEASING",
+        "status": "FINISHED",
         "genres": [
           "Comedy"
         ],
-        "episodes": null,
+        "episodes": 21,
         "durationMin": 1,
         "studios": [],
         "siteUrl": "https://anilist.co/anime/208105"
       },
       "airing": {
         "startDate": "2026-02-22",
-        "endDate": null,
+        "endDate": "2026-09-27",
         "nextAiringEpisode": null
       },
       "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
@@ -5180,9 +5186,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1791932400,
-          "episode": 41,
-          "timeUntilAiringSec": 132431
+          "airingAtEpochSec": 1792537200,
+          "episode": 42,
+          "timeUntilAiringSec": 138698
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
