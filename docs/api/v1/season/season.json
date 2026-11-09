@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:31:06.861Z",
+  "generatedAt": "2026-11-09T10:53:21.405Z",
   "source": {
     "name": "AniList GraphQL",
     "endpoint": "https://graphql.anilist.co",
@@ -2485,60 +2485,6 @@
       ]
     },
     {
-      "id": "194028",
-      "title": {
-        "romaji": "Kirei ni Shitemoraemasu ka.",
-        "english": "Wash It All Away",
-        "native": "綺麗にしてもらえますか。"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
-        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
-      },
-      "meta": {
-        "format": "TV",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "episodes": 12,
-        "durationMin": 24,
-        "studios": [
-          "Okuruto Noboru"
-        ],
-        "siteUrl": "https://anilist.co/anime/194028"
-      },
-      "airing": {
-        "startDate": "2026-01-05",
-        "endDate": "2026-03-23",
-        "nextAiringEpisode": null
-      },
-      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://kinishite.com/",
-          "type": "INFO",
-          "language": "Japanese"
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/kinishite_anime",
-          "type": "SOCIAL",
-          "language": "Japanese"
-        },
-        {
-          "site": "Crunchyroll",
-          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
-          "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
       "id": "192261",
       "title": {
         "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
@@ -2587,6 +2533,60 @@
         {
           "site": "Crunchyroll",
           "url": "https://www.crunchyroll.com/series/GT00365607/an-adventurers-daily-grind-at-age-29",
+          "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "194028",
+      "title": {
+        "romaji": "Kirei ni Shitemoraemasu ka.",
+        "english": "Wash It All Away",
+        "native": "綺麗にしてもらえますか。"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+        "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg"
+      },
+      "meta": {
+        "format": "TV",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "durationMin": 24,
+        "studios": [
+          "Okuruto Noboru"
+        ],
+        "siteUrl": "https://anilist.co/anime/194028"
+      },
+      "airing": {
+        "startDate": "2026-01-05",
+        "endDate": "2026-03-23",
+        "nextAiringEpisode": null
+      },
+      "description": "For the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her. <br><br> (Source: Crunchyroll)",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://kinishite.com/",
+          "type": "INFO",
+          "language": "Japanese"
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/kinishite_anime",
+          "type": "SOCIAL",
+          "language": "Japanese"
+        },
+        {
+          "site": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00365775/wash-it-all-away",
           "type": "STREAMING",
           "language": null
         }
@@ -4030,9 +4030,9 @@
         "startDate": "2026-02-01",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1794094200,
-          "episode": 40,
-          "timeUntilAiringSec": 478734
+          "airingAtEpochSec": 1794699000,
+          "episode": 41,
+          "timeUntilAiringSec": 477399
         }
       },
       "description": "Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br> <br> Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br> <br> (Source: Official Website, translated)",
@@ -5006,6 +5006,50 @@
       ]
     },
     {
+      "id": "208105",
+      "title": {
+        "romaji": "Yani Neko Mini",
+        "english": "",
+        "native": "ヤニねこ ミニ"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+        "banner": ""
+      },
+      "meta": {
+        "format": "ONA",
+        "status": "FINISHED",
+        "genres": [
+          "Comedy"
+        ],
+        "episodes": 22,
+        "durationMin": 1,
+        "studios": [],
+        "siteUrl": "https://anilist.co/anime/208105"
+      },
+      "airing": {
+        "startDate": "2026-02-22",
+        "endDate": "2026-11-07",
+        "nextAiringEpisode": null
+      },
+      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
+      "links": [
+        {
+          "site": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+          "type": "STREAMING",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+          "type": "SOCIAL",
+          "language": null
+        }
+      ]
+    },
+    {
       "id": "198720",
       "title": {
         "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
@@ -5042,50 +5086,6 @@
           "url": "https://zakoban.com/",
           "type": "INFO",
           "language": "Japanese"
-        }
-      ]
-    },
-    {
-      "id": "208105",
-      "title": {
-        "romaji": "Yani Neko Mini",
-        "english": "",
-        "native": "ヤニねこ ミニ"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-        "banner": ""
-      },
-      "meta": {
-        "format": "ONA",
-        "status": "FINISHED",
-        "genres": [
-          "Comedy"
-        ],
-        "episodes": 21,
-        "durationMin": 1,
-        "studios": [],
-        "siteUrl": "https://anilist.co/anime/208105"
-      },
-      "airing": {
-        "startDate": "2026-02-22",
-        "endDate": "2026-09-27",
-        "nextAiringEpisode": null
-      },
-      "description": "Chibi shorts posted on the official Yani Neko YouTube channel and Twitter account of the main series.",
-      "links": [
-        {
-          "site": "YouTube",
-          "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
-          "type": "STREAMING",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/yanineko_anime/status/2025223993285115915",
-          "type": "SOCIAL",
-          "language": null
         }
       ]
     },
@@ -5186,9 +5186,9 @@
         "startDate": "2025-12-22",
         "endDate": null,
         "nextAiringEpisode": {
-          "airingAtEpochSec": 1793746800,
-          "episode": 44,
-          "timeUntilAiringSec": 131334
+          "airingAtEpochSec": 1794351600,
+          "episode": 45,
+          "timeUntilAiringSec": 129999
         }
       },
       "description": "Shark Meow is an orange tabby kitty who wears a shark suit.<br> A little clumsy and always taking things at their own cozy pace,<br> but every day with their best kitty friends — and the rescued baby kitty, Little Meow —<br> is filled with unexpected little mishaps and sweet adventures.<br><br> A sunny warm spot in the park, the sparkle of the sea,<br> steam rising from freshly roasted sweet potatoes,<br> the fluttery feeling of the first snowfall…<br> These small everyday moments fill their world with warmth and delight. <br><br> You can’t help but smile and think, “So true!”<br> A soft and snuggly kitty anime that brings joy to everyday moments.<br> <br> (Source: QTORY Channel)",
@@ -5221,52 +5221,6 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/playlist?list=PLRj9zPfLhyY2BfhHtx01IzU9UU3Thjrff",
           "type": "STREAMING",
-          "language": null
-        }
-      ]
-    },
-    {
-      "id": "187375",
-      "title": {
-        "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
-        "english": "",
-        "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～"
-      },
-      "image": {
-        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187375-0Vquhap6D5zX.jpg",
-        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187375-0Vquhap6D5zX.jpg",
-        "banner": ""
-      },
-      "meta": {
-        "format": "OVA",
-        "status": "FINISHED",
-        "genres": [
-          "Music"
-        ],
-        "episodes": 1,
-        "durationMin": 29,
-        "studios": [
-          "Shirogumi"
-        ],
-        "siteUrl": "https://anilist.co/anime/187375"
-      },
-      "airing": {
-        "startDate": "2026-03-27",
-        "endDate": "2026-03-27",
-        "nextAiringEpisode": null
-      },
-      "description": "",
-      "links": [
-        {
-          "site": "Official Site",
-          "url": "https://millionlive-anime.idolmaster-official.jp/",
-          "type": "INFO",
-          "language": null
-        },
-        {
-          "site": "Twitter",
-          "url": "https://x.com/imasml_765PRO",
-          "type": "SOCIAL",
           "language": null
         }
       ]
@@ -5331,6 +5285,52 @@
           "site": "YouTube",
           "url": "https://www.youtube.com/user/DoraemonTheMovie",
           "type": "STREAMING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "id": "187375",
+      "title": {
+        "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
+        "english": "",
+        "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～"
+      },
+      "image": {
+        "coverLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187375-0Vquhap6D5zX.jpg",
+        "coverMedium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187375-0Vquhap6D5zX.jpg",
+        "banner": ""
+      },
+      "meta": {
+        "format": "OVA",
+        "status": "FINISHED",
+        "genres": [
+          "Music"
+        ],
+        "episodes": 1,
+        "durationMin": 29,
+        "studios": [
+          "Shirogumi"
+        ],
+        "siteUrl": "https://anilist.co/anime/187375"
+      },
+      "airing": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-03-27",
+        "nextAiringEpisode": null
+      },
+      "description": "",
+      "links": [
+        {
+          "site": "Official Site",
+          "url": "https://millionlive-anime.idolmaster-official.jp/",
+          "type": "INFO",
+          "language": null
+        },
+        {
+          "site": "Twitter",
+          "url": "https://x.com/imasml_765PRO",
+          "type": "SOCIAL",
           "language": null
         }
       ]
